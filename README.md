@@ -9,4 +9,9 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Subarray size with sum less than K]()
 - [x] [Maximum valus after M range increments]()
 - [x] [Maximum Occurred Interger from given ranges]()
-- [] [Maximum Subarray Sum modulo K] ()
+- [ ] Maximum Subarray Sum modulo K
+
+## Hashing
+
+- [x] [Rolling Hash]()
+- [x] [Repeated DNA Sequence - Leetcode]()
