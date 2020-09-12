@@ -26,7 +26,7 @@ public class RepeatedDNASequence {
         for(int i = 0; i < s.length() - 9; i++) {
             String dnaSeq = s.substring(i, i+10);
 
-            if(sequence.add(dnaSeq) == false) {
+            if(sequence.add(dnaSeq) == false) {     // set.add returns false if the element is already present
                 // the dnaSequence is already seen and the current sequence is a repetition
                 repeatedSequence.add(dnaSeq);
             }
