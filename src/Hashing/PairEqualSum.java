@@ -32,7 +32,7 @@ public class PairEqualSum {
                     if(map.get(sum) != null) {
                         Integer[] a= map.get(sum);
 
-                        if((arr[i]^arr[j]^a[0]^a[1]) != 0) {
+                        if((arr[i]^arr[j]^a[0]^a[1]) != 0) {    // check that the pair should not be the same
                             System.out.println(map.get(sum)[0]+" "+ map.get(sum)[1]);
                             System.out.println(arr[i]+" "+arr[j]);
                             return;
