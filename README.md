@@ -19,4 +19,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find Pairs in an array with equal sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/PairEqualSum.java)
 - [x] [Two Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSum.java)
 - [x] [Two Sum Design - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumDesign.java)
-- [x] [Verifying an Alien Dictionary - Leetcode]()
+- [x] [Verifying an Alien Dictionary - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/VerifyAlienDictionary.java)
+
+## Heaps
+
+- [x] [Top K frequent words]()
