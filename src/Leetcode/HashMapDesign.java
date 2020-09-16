@@ -86,7 +86,7 @@ public class HashMapDesign {
         // There can be 2 cases:
         //      1. Node with the same key exists
         //      2. The node with the given doesn't exist
-        // In both the cases, returh the previous node.
+        // In both the cases, return the previous node.
         Node temp = bucket[hashIndex];
         while(temp.next != null && temp.next.key != key)
             temp = temp.next;
