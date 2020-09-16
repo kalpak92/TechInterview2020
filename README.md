@@ -15,7 +15,8 @@ This repository contains the solutions to problems done from various resources f
 
 - [x] [Array Subset](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/ArraySubset.java)
 - [x] [Find Symmetric pairs in an array](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/SymmetricPairs.java)
-- [x] [Check if arrays are disjoint]()
+- [x] [Check if arrays are disjoint](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/ArrayDisjoint.java)
+- [x] [Zero Subarray Sum]()
 - [x] [Rolling Hash](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/RollingHash.java)
 - [x] [Repeated DNA Sequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RepeatedDNASequence.java)
 - [x] [Find Pairs in an array with equal sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/PairEqualSum.java)
