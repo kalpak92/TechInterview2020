@@ -20,7 +20,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [First Unique Character in a String - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstUniqueCharacter.java)
 - [x] [Length of Longest Palindrome - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestPalindrome.java)
 - [x] [Check if permutation of string is a palindrome - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PalindromePermutationCheck.java)
-- [x] [Intersection of Two Arrays - Leetcode]()
+- [x] [Intersection of Two Arrays - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ArrayIntersection.java)
 - [x] [Rolling Hash](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/RollingHash.java)
 - [x] [Repeated DNA Sequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RepeatedDNASequence.java)
 - [x] [Find Pairs in an array with equal sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/PairEqualSum.java)
