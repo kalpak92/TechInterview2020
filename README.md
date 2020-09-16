@@ -22,6 +22,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Verifying an Alien Dictionary - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/VerifyAlienDictionary.java)
 - [x] [Design HashMap - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HashMapDesign.java)
 - [x] [Design TinyUrl - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TinyUrlDesign.java)
+- [x] [Design Logger Rate Limiter - Leetcode]()
+
 ## Heaps
 
 - [x] [Top K frequent words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TopKFrequentWords.java)
