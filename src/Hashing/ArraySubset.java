@@ -29,11 +29,12 @@ public class ArraySubset {
         for(int i : arr1)
             elements.add(i);
 
-        // now check if all the elements of arr2 is present or not.
-        // if not, return false.
+        /*
+         now check if all the elements of arr2 is present or not.
+         if not, return false.
+        */
         for(int i : arr2) {
-            if(elements.contains(i) == false)
-                return false;
+            if(elements.contains(i) == false) return false;
         }
         return true;
     }

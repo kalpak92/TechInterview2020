@@ -14,6 +14,7 @@ This repository contains the solutions to problems done from various resources f
 ## Hashing
 
 - [x] [Array Subset](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/ArraySubset.java)
+- [x] [Find Symmetric pairs in an array]()
 - [x] [Rolling Hash](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/RollingHash.java)
 - [x] [Repeated DNA Sequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RepeatedDNASequence.java)
 - [x] [Find Pairs in an array with equal sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/PairEqualSum.java)
@@ -23,7 +24,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Design HashMap - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HashMapDesign.java)
 - [x] [Design TinyUrl - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TinyUrlDesign.java)
 - [x] [Design Logger Rate Limiter - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LoggerRateLimiter.java)
-- [x] [Design File System - Leetcode]()
+- [x] [Design File System - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FileSystemDesign.java)
 
 ## Heaps
 
