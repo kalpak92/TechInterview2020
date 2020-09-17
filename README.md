@@ -31,6 +31,16 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Design TinyUrl - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TinyUrlDesign.java)
 - [x] [Design Logger Rate Limiter - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LoggerRateLimiter.java)
 - [x] [Design File System - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FileSystemDesign.java)
+- [ ] [LRU Cache]()
+- [ ] [Group Anagrams]()
+- [ ] [Insert Delete GetRandom in O(1)]()
+- [ ] [Time based Key Value Storage]()
+- [ ] [Longest String Chain]()
+- [ ] [Data Stream as Disjoint Intervals]()
+- [ ] [Analyze user website pattern]()
+- [ ] [High Five]()
+- [ ] [Design a LeaderBoard]()
+
 
 ## Heaps
 
