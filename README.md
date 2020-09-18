@@ -26,6 +26,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find Pairs in an array with equal sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/PairEqualSum.java)
 - [x] [Two Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSum.java)
 - [x] [Two Sum Design - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumDesign.java)
+- [x] [Sort Characters by Frequency]()
 - [x] [Verifying an Alien Dictionary - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/VerifyAlienDictionary.java)
 - [x] [Design HashMap - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HashMapDesign.java)
 - [x] [Design TinyUrl - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TinyUrlDesign.java)
