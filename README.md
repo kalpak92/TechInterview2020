@@ -27,7 +27,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Two Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSum.java)
 - [x] [Two Sum Design - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumDesign.java)
 - [x] [Sort Characters by Frequency - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SortCharacters.java)
-- [x] [Fraction to Recurring Decimal - Leetcode]()
+- [x] [Fraction to Recurring Decimal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/Fraction2Decimal.java)
 - [x] [Verifying an Alien Dictionary - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/VerifyAlienDictionary.java)
 - [x] [Design HashMap - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HashMapDesign.java)
 - [x] [Design TinyUrl - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TinyUrlDesign.java)
@@ -47,3 +47,6 @@ This repository contains the solutions to problems done from various resources f
 ## Heaps
 
 - [x] [Top K frequent words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TopKFrequentWords.java)
+
+## Two Pointers
+- [x] [4 sum]()
