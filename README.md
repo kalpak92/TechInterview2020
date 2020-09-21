@@ -39,7 +39,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Design File System - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FileSystemDesign.java)
 - [ ] [LRU Cache]()
 - [ ] [Group Anagrams]()
-- [x] [Group Shifted Strings - Leetcode]()
+- [x] [Group Shifted Strings - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GroupShiftedStrings.java)
 - [ ] [Insert Delete GetRandom in O(1)]()
 - [ ] [Time based Key Value Storage]()
 - [ ] [Longest String Chain]()
@@ -55,3 +55,6 @@ This repository contains the solutions to problems done from various resources f
 
 ## Two Pointers
 - [x] [4 sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FourSum.java)
+
+## Stack
+- [x] [Daily Temperature - Leetcode]()
