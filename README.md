@@ -6,6 +6,7 @@ This repository contains the solutions to problems done from various resources f
 
 - [x] [Basic Prfix Sum]()
 - [x] [Zero Subarray Sum]()
+- [x] [Contiguous Array - Leetcode]()
 - [x] [Maximum Subarray size with sum less than K]()
 - [x] [Maximum valus after M range increments]()
 - [x] [Maximum Occurred Interger from given ranges]()
@@ -49,4 +50,4 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Top K frequent words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TopKFrequentWords.java)
 
 ## Two Pointers
-- [x] [4 sum]()
+- [x] [4 sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FourSum.java)
