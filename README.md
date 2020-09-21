@@ -57,4 +57,4 @@ This repository contains the solutions to problems done from various resources f
 - [x] [4 sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FourSum.java)
 
 ## Stack
-- [x] [Daily Temperature - Leetcode]()
+- [x] [Daily Temperature - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DailyTemperaturs.java)
