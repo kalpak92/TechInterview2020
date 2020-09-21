@@ -39,6 +39,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Design File System - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FileSystemDesign.java)
 - [ ] [LRU Cache]()
 - [ ] [Group Anagrams]()
+- [x] [Group Shifted Strings - Leetcode]()
 - [ ] [Insert Delete GetRandom in O(1)]()
 - [ ] [Time based Key Value Storage]()
 - [ ] [Longest String Chain]()
