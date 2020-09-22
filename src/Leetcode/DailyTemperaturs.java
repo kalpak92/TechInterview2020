@@ -18,7 +18,7 @@ public class DailyTemperaturs {
         if(T.length == 0)
             return result;
 
-        // Store index of temperatures whose value is in descreding order
+        // Store index of temperatures whose value is in descending order
         Deque<Integer> stack = new ArrayDeque<>();
 
         for(int i = 0; i < T.length; i++) {
