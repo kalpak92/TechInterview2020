@@ -39,6 +39,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Design Logger Rate Limiter - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LoggerRateLimiter.java)
 - [x] [Design File System - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FileSystemDesign.java)
 - [x] [Isomorphic Strings - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IsomorphicStrings.java)
+- [x] [Minimum Area Rectangle - Leetcode]()
 - [ ] [LRU Cache]()
 - [ ] [Group Anagrams]()
 - [x] [Group Shifted Strings - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GroupShiftedStrings.java)
