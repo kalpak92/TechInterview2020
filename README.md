@@ -27,7 +27,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Repeated DNA Sequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RepeatedDNASequence.java)
 - [x] [Find Pairs in an array with equal sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/PairEqualSum.java)
 - [x] [Two Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSum.java)
-- [x] [Two Sum II - Leetcode]()
+- [x] [Two Sum II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumII.java)
 - [x] [Two Sum Design - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumDesign.java)
 - [x] [Contiguous Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContiguousArray.java)
 - [x] [Maximum Size Subarray Sum equals K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaxSubarrayEqualK.java)
