@@ -59,7 +59,8 @@ This repository contains the solutions to problems done from various resources f
 
 ## Two Pointers
 - [x] [Two Sum II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumII.java)
-- [x] [Two Sum Less than K - Leetcode]()
+- [x] [Two Sum Less than K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumLessThanK.java)
+- [x] [Two Sum with a BST - Leetcode]()
 - [x] [4 sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FourSum.java)
 
 ## Stack
