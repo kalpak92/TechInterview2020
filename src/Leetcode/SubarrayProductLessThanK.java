@@ -26,7 +26,7 @@ public class SubarrayProductLessThanK {
          * The idea is always keep an max-product-window less than K;
          * Every time add a new number on the right(j),
          * reduce numbers on the left(i), until the subarray product fit less than k again, (subarray could be empty);
-         * Each step introduces x new subarrays, where x is the size of the current window (j + 1 - i);
+         * Each step introduces x new subarrays, where x is the size of the current window (j - i + 1);
 
          * Say now we have {1,2,3} and add {4} into it. Apparently, the new subarray introduced here are:
          * {1,2,3,4}, {2,3,4}, {3,4}, {4}, which is the number of elements in the new list.
