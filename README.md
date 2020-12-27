@@ -4,7 +4,7 @@ This repository contains the solutions to problems done from various resources f
 
 ## Prefix Sum
 
-- [x] [Basic Prfix Sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/PrefixSum/BasicPrefixSum.java)
+- [x] [Basic Prefix Sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/PrefixSum/BasicPrefixSum.java)
 - [x] [Zero Subarray Sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/PrefixSum/ZeroSubarraySum.java)
 - [x] [Contiguous Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContiguousArray.java)
 - [x] [Subarray Sum Equals K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarraySumEqualsK.java)
@@ -67,9 +67,11 @@ This repository contains the solutions to problems done from various resources f
 - [x] [4 sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FourSum.java)
 
 ## Sliding Window
-- [x] [Minimum size of Subarray with sum >= K - Leetcode]()
-- [x] [Number of Subarray with product less than K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarrayProductLessThanK.java)
+- [x] [Minimum size of Subarray with sum >= K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumSizeSubarrayWithSumK.java)
+- [x] [Number of Subarrays with product < K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarrayProductLessThanK.java)
 
 
 ## Stack
+- [x] [Two Sum with a BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumBST.java)
+- [x] [Two Sum with Two BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumTwoBST.java)
 - [x] [Daily Temperature - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DailyTemperaturs.java)

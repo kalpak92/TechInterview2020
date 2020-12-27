@@ -14,7 +14,7 @@ package Leetcode;
  * If you have figured out the O(n) solution, try coding another solution of which the time complexity is O(n log n).
  */
 
-public class MinimumSizeSubarrayWithSumK {
+public class MinimumSizeSubarrayWithSumGreaterThanK {
     public static int minSubArrayLen(int s, int[] nums) {
         if(nums == null || nums.length == 0)
             return 0;
