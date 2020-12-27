@@ -34,9 +34,11 @@ public class MaxSubarrayEqualK {
         // For each i, check not only the current sum but also (currentSum - previousSum) to see if there is any that equals k,
         // and update max length.
 
-        // What map.containsKey(sum - k) returns is the index where the sum of every element up to that index from index 0 is sum - k, or (7 - 4) == 3, in our example.
+        // Consider k = 3 and we are at index 5 and sum up to index 5 is 7.
+        // What map.containsKey(sum - k) returns is the index where the sum of every element up to that index from index 0 is sum - k, or (7 - 3) == 4, in our example.
         // Let's say that that index returned by map.containsKey(sum - k) is 2 (randomly chose one that is before index 5).
-        // So knowing that at index 2 the total sum is 4, and at index 5, the total sum is 7, that means the elements between index 2 and index 5 incremented the total sum by 3, or k
+        // So knowing that at index 2 the total sum is 4, and at index 5, the total sum is 7,
+        // that means the elements between index 2 and index 5 incremented the total sum by 3, or k.
 
         Map<Integer, Integer> sumIndex =  new HashMap<>();
 
@@ -48,6 +50,7 @@ public class MaxSubarrayEqualK {
             } else if(sumIndex.containsKey(runningSum- k)) {
                 result = Math.max(result, i - sumIndex.get(runningSum - k));
             }
+
             if(!sumIndex.containsKey(runningSum)) {
                 sumIndex.put(runningSum, i);
             }

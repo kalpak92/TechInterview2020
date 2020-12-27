@@ -8,13 +8,12 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Zero Subarray Sum]()
 - [x] [Contiguous Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContiguousArray.java)
 - [x] [Subarray Sum Equals K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarraySumEqualsK.java)
-- [x] [Subarrays sum divisible by K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarraySumsDivisibleByK.java)
 - [x] [Maximum Size Subarray Sum equals K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaxSubarrayEqualK.java)
-- [x] [Number of Subarray with product less than K - Leetcode]()
+- [x] [Subarrays sum divisible by K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarraySumsDivisibleByK.java)
+- [x] [Number of Subarray with product less than K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarrayProductLessThanK.java)
 - [x] [Maximum Subarray size with sum less than K]()
 - [x] [Maximum valus after M range increments]()
 - [x] [Maximum Occurred Interger from given ranges]()
-- [ ] Maximum Subarray Sum modulo K
 
 ## Hashing
 
