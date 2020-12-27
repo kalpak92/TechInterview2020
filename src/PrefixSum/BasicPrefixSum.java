@@ -20,9 +20,9 @@ public class BasicPrefixSum {
         int[] prefixSum = new int[arr.length];
         prefixSum[0] = arr[0];
 
-        for(int i = 1; i < arr.length; i++)
-            prefixSum[i] = prefixSum[i -  1] + arr[i];
-
+        for (int i = 1; i < arr.length; i++) {
+            prefixSum[i] = prefixSum[i - 1] + arr[i];
+        }
         return prefixSum;
     }
 
@@ -30,6 +30,7 @@ public class BasicPrefixSum {
         int[] arr;
         arr = new int[]{ 10, 4, 16, 20 };
         for(int i : prefixSum(arr))
-            System.out.println(i);
+            System.out.print(i + " ");
+        System.out.println();
     }
 }

@@ -1,7 +1,7 @@
 package PrefixSum;
 
 /*
-  @author kalpak
+ * @author kalpak
  *
  * Given n ranges of the form L and R, the task is to find the maximum occurred integer in all the ranges.
  * If more than one such integer exists, print the smallest one.
