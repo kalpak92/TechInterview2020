@@ -32,15 +32,15 @@ import java.util.Set;
  * 2) Or prefix sum becomes 0.
  */
 public class ZeroSubarraySum {
-    public static boolean checkZeroSubarray(int[] arr) {
+    public static boolean checkZeroSubarray(int[] nums) {
         int runningSum = 0;
         Set<Integer> sumSet = new HashSet<>();
 
-        for (int j : arr) {
-            runningSum += j;
-            if (j == 0 || runningSum == 0 || sumSet.contains(runningSum))
+        for (int num : nums) {
+            runningSum += num;
+            if (num == 0 || runningSum == 0 || sumSet.contains(runningSum))
                 return true;
-            sumSet.add(j);
+            sumSet.add(num);
         }
         return false;
     }

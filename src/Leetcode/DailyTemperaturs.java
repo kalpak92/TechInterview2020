@@ -22,7 +22,7 @@ public class DailyTemperaturs {
         Deque<Integer> stack = new ArrayDeque<>();
 
         for(int i = 0; i < T.length; i++) {
-            // if the current temperate is greater than the top of stack,
+            // if the current temperature is greater than the top of stack,
             // it means we find a warmer temperature.
             // Pop the element from the stack and update result
             while(!stack.isEmpty() && T[i] > T[stack.peekFirst()]) {
