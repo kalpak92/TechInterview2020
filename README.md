@@ -77,4 +77,5 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Two Sum with Two BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumTwoBST.java)
 - [x] [Monotonic Stack - Increasing and Decreasing](https://github.com/kalpak92/TechInterview2020/blob/master/src/Stack/MonotonicStack.java)
 - [x] [Daily Temperature - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DailyTemperaturs.java)
-- [x] [Next Greater Element 1 - Leetcode]()
+- [x] [Next Greater Element 1 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterElement.java)
+- [x] [Next Greater Element 2 - Leetcode]()
