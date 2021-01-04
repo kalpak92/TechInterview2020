@@ -66,6 +66,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Two Sum with Two BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumTwoBST.java)
 - [x] [4 sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FourSum.java)
 - [x] [Shortest Unsorted Contiguous Subarray - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ShortestUnsortedContiguousSubarray.java)
+- [x] [Next Greater Element 3 - Leetcode]()
 
 ## Sliding Window
 - [x] [Minimum size of Subarray with sum >= K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumSizeSubarrayWithSumGreaterThanK.java)
@@ -78,4 +79,4 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Monotonic Stack - Increasing and Decreasing](https://github.com/kalpak92/TechInterview2020/blob/master/src/Stack/MonotonicStack.java)
 - [x] [Daily Temperature - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DailyTemperaturs.java)
 - [x] [Next Greater Element 1 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterElement.java)
-- [x] [Next Greater Element 2 - Leetcode]()
+- [x] [Next Greater Element 2 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterElementCircular.jav)
