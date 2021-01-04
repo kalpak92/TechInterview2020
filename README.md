@@ -80,4 +80,5 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Daily Temperature - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DailyTemperaturs.java)
 - [x] [Next Greater Element 1 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterElement.java)
 - [x] [Next Greater Element 2 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterElementCircular.java)
-- [x] [Stock Span - Leetcode]()
+- [x] [Stock Span - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/StockSpan.java)
+- [x] [Find 132 Pattern - Leetcode]()
