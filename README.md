@@ -84,4 +84,5 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find 132 Pattern - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/Pattern132.java)
 - [x] [Sum of Subarray Minimums - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SumSubarrayMinimums.java)
 - [x] [Largest Rectangle in Histogram - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LargestRectangleInHistogram.java)
-- [x] [Maximum Rectangle in a Binary Matrix - Leetcode]()
+- [x] [Maximum Rectangle in a Binary Matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximalRectangleBinaryMatrix.java)
+- [x] [Trapping Rain Water - Leetcode]()
