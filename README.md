@@ -67,7 +67,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [4 sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FourSum.java)
 - [x] [Shortest Unsorted Contiguous Subarray - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ShortestUnsortedContiguousSubarray.java)
 - [x] [Next Greater Element 3 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterPermutation.java)
-- [x] [Container with Most Water - Leetcode]()
+- [x] [Container with Most Water - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContainerWithMostWater.java)
 
 ## Sliding Window
 - [x] [Minimum size of Subarray with sum >= K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumSizeSubarrayWithSumGreaterThanK.java)
@@ -87,3 +87,4 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Largest Rectangle in Histogram - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LargestRectangleInHistogram.java)
 - [x] [Maximum Rectangle in a Binary Matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximalRectangleBinaryMatrix.java)
 - [x] [Trapping Rain Water - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TrappingRainWater.java)
+- [x] [Min Stack in O(1) space - Leetcode]()
