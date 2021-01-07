@@ -49,7 +49,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Min Stack in O(1) space - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinStack.java)
 - [x] [Incremental Stack - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IncrementalStack.java)
 - [x] [Valid Parenthesis - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ValidParenthesis.java)
-- [x] [Longest Valid Parenthesis - Leetcode]()
+- [x] [Minimum Remove to Make Valid Parenthesis - Leetcode]()
+- [x] [Longest Valid Parenthesis - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestValidParenthesis.java)
 ## Hashing
 
 - [x] [Array Subset](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/ArraySubset.java)
