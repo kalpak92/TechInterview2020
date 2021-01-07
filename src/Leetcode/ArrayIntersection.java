@@ -74,7 +74,7 @@ public class ArrayIntersection {
     public static int[] intersection2(int[] nums1, int[] nums2) {
         Map<Integer, Integer> map = new HashMap<>();
 
-        // create a hashamp with the frequency of each number
+        // create a hashmap with the frequency of each number
         // use getOrDefault for brevity
         for (int num : nums1)
             map.put(num, map.getOrDefault(num, 0) + 1);

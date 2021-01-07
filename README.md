@@ -2,7 +2,11 @@
 
 This repository contains the solutions to problems done from various resources for the upcoming interviews.
 
-## Prefix Sum
+## Array
+- [x] [Celebrity Problem]()
+
+
+### Prefix Sum
 
 - [x] [Basic Prefix Sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/PrefixSum/BasicPrefixSum.java)
 - [x] [Zero Subarray Sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/PrefixSum/ZeroSubarraySum.java)
@@ -14,6 +18,37 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Subarray size with sum less than K]()
 - [x] [Maximum valus after M range increments]()
 - [x] [Maximum Occurred Interger from given ranges]()
+
+### Two Pointers
+- [x] [Two Sum II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumII.java)
+- [x] [Two Sum Less than K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumLessThanK.java)
+- [x] [Two Sum with a BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumBST.java)
+- [x] [Two Sum with Two BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumTwoBST.java)
+- [x] [4 sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FourSum.java)
+- [x] [Shortest Unsorted Contiguous Subarray - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ShortestUnsortedContiguousSubarray.java)
+- [x] [Next Greater Element 3 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterPermutation.java)
+- [x] [Container with Most Water - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContainerWithMostWater.java)
+
+### Sliding Window
+- [x] [Minimum size of Subarray with sum >= K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumSizeSubarrayWithSumGreaterThanK.java)
+- [x] [Number of Subarrays with product < K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarrayProductLessThanK.java)
+
+## Stack
+- [x] [Two Sum with a BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumBST.java)
+- [x] [Two Sum with Two BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumTwoBST.java)
+- [x] [Monotonic Stack - Increasing and Decreasing](https://github.com/kalpak92/TechInterview2020/blob/master/src/Stack/MonotonicStack.java)
+- [x] [Daily Temperature - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DailyTemperaturs.java)
+- [x] [Next Greater Element 1 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterElement.java)
+- [x] [Next Greater Element 2 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterElementCircular.java)
+- [x] [Stock Span - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/StockSpan.java)
+- [x] [Find 132 Pattern - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/Pattern132.java)
+- [x] [Sum of Subarray Minimums - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SumSubarrayMinimums.java)
+- [x] [Largest Rectangle in Histogram - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LargestRectangleInHistogram.java)
+- [x] [Maximum Rectangle in a Binary Matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximalRectangleBinaryMatrix.java)
+- [x] [Trapping Rain Water - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TrappingRainWater.java)
+- [x] [Min Stack in O(1) space - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinStack.java)
+- [x] [Incremental Stack - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IncrementalStack.java)
+
 
 ## Hashing
 
@@ -59,33 +94,4 @@ This repository contains the solutions to problems done from various resources f
 ## Heaps
 - [x] [Top K frequent words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TopKFrequentWords.java)
 
-## Two Pointers
-- [x] [Two Sum II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumII.java)
-- [x] [Two Sum Less than K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumLessThanK.java)
-- [x] [Two Sum with a BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumBST.java)
-- [x] [Two Sum with Two BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumTwoBST.java)
-- [x] [4 sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FourSum.java)
-- [x] [Shortest Unsorted Contiguous Subarray - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ShortestUnsortedContiguousSubarray.java)
-- [x] [Next Greater Element 3 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterPermutation.java)
-- [x] [Container with Most Water - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContainerWithMostWater.java)
 
-## Sliding Window
-- [x] [Minimum size of Subarray with sum >= K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumSizeSubarrayWithSumGreaterThanK.java)
-- [x] [Number of Subarrays with product < K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarrayProductLessThanK.java)
-
-
-## Stack
-- [x] [Two Sum with a BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumBST.java)
-- [x] [Two Sum with Two BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumTwoBST.java)
-- [x] [Monotonic Stack - Increasing and Decreasing](https://github.com/kalpak92/TechInterview2020/blob/master/src/Stack/MonotonicStack.java)
-- [x] [Daily Temperature - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DailyTemperaturs.java)
-- [x] [Next Greater Element 1 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterElement.java)
-- [x] [Next Greater Element 2 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterElementCircular.java)
-- [x] [Stock Span - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/StockSpan.java)
-- [x] [Find 132 Pattern - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/Pattern132.java)
-- [x] [Sum of Subarray Minimums - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SumSubarrayMinimums.java)
-- [x] [Largest Rectangle in Histogram - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LargestRectangleInHistogram.java)
-- [x] [Maximum Rectangle in a Binary Matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximalRectangleBinaryMatrix.java)
-- [x] [Trapping Rain Water - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TrappingRainWater.java)
-- [x] [Min Stack in O(1) space - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinStack.java)
-- [x] [Incremental Stack - Leetcode]()
