@@ -3,7 +3,7 @@
 This repository contains the solutions to problems done from various resources for the upcoming interviews.
 
 ## Array
-- [x] [Celebrity Problem]()
+- [x] [Celebrity Problem](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CelebrityFinder.java)
 
 
 ### Prefix Sum
