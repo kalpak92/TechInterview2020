@@ -3,7 +3,7 @@
 This repository contains the solutions to problems done from various resources for the upcoming interviews.
 
 ## Array
-- [x] [Celebrity Problem](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CelebrityFinder.java)
+- [x] [Celebrity Problem - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CelebrityFinder.java)
 
 
 ### Prefix Sum
@@ -48,7 +48,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Trapping Rain Water - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TrappingRainWater.java)
 - [x] [Min Stack in O(1) space - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinStack.java)
 - [x] [Incremental Stack - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IncrementalStack.java)
-
+- [x] [Valid Parenthesis - Leetcode]()
 
 ## Hashing
 
