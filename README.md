@@ -51,8 +51,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Valid Parenthesis - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ValidParenthesis.java)
 - [x] [Minimum Remove to Make Valid Parenthesis - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumRemoveValidParenthesis.java)
 - [x] [Longest Valid Parenthesis - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestValidParenthesis.java)
-- [x] [Basic Calculator with +, - and () functionality - Leetcode]()
-
+- [x] [Basic Calculator with +, - and () functionality - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BasicCalculator.java)
+- [x] [Basic Calculator with +, -, * and / functionality - Leetcode]()
 
 ## Hashing
 
