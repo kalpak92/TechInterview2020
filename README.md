@@ -58,7 +58,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Flatten a Nested List Iterator - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FlattenNestedListIterator.java)
 - [x] [Exclusive Running Time of Functions -Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ExclusiveTimeOfFunctions.java)
 - [x] [Asteroid Collision - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AsteroidCollision.java)
-- [x] [Remove all adjacent duplicates in a string II - Leetcode]()
+- [x] [Remove all adjacent duplicates in a string- Leetcode]()
+- [x] [Remove all adjacent duplicates in a string II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveAllAdjacentDuplicatedInStringII.java)
 ## Hashing
 
 - [x] [Array Subset](https://github.com/kalpak92/TechInterview2020/blob/master/src/Hashing/ArraySubset.java)
