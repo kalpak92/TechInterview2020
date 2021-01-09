@@ -56,7 +56,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Basic Calculator with +, -, *, and . with () functionality - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BasicCalculatorIII.java)
 - [x] [Decode a given string - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DecodeString.java)
 - [x] [Flatten a Nested List Iterator - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FlattenNestedListIterator.java)
-- [x] [Exclusive Running Time of Functions -Leetcode]()
+- [x] [Exclusive Running Time of Functions -Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ExclusiveTimeOfFunctions.java)
+- [x] [Asteroid Collision]()
 
 ## Hashing
 
