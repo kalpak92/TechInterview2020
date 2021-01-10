@@ -6,7 +6,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Celebrity Problem - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CelebrityFinder.java)
 - [x] [Find Missing Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MissingNumber.java)
 - [x] [First Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstMissingPositive.java)
-- [x] [Find numbers disappeared in an Array - Leetcode]()
+- [x] [Find numbers disappeared in an Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstMissingPositive.java)
+- [x] [Find Duplicate in an Array - Leetcode]()
 
 ### Prefix Sum
 
