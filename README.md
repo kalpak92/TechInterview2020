@@ -8,7 +8,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [First Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstMissingPositive.java)
 - [x] [Find numbers disappeared in an Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstMissingPositive.java)
 - [x] [Find Duplicate in an Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DuplicateInArray.java)
-- [x] [Couples holding hands - Leetcode]()
+- [x] [Couples holding hands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CouplesHoldingHands.java)
 
 
 ### Prefix Sum
@@ -35,6 +35,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Container with Most Water - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContainerWithMostWater.java)
 
 ### Sliding Window
+- [x] [Naive way to solve a sliding window problem]()
 - [x] [Minimum size of Subarray with sum >= K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumSizeSubarrayWithSumGreaterThanK.java)
 - [x] [Number of Subarrays with product < K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarrayProductLessThanK.java)
 
