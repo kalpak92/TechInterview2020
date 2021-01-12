@@ -38,7 +38,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Naive way to solve a sliding window problem](https://github.com/kalpak92/TechInterview2020/tree/master/src/SlidingWindow)
 - [x] [Maximum sum with subarray of size K](https://github.com/kalpak92/TechInterview2020/blob/master/src/SlidingWindow/MaximumSumSubarraySizeK.java)
 - [x] [Minimum sum with subarray of size K](https://github.com/kalpak92/TechInterview2020/blob/master/src/SlidingWindow/MinimumSumSubarraySizeK.java)
-- [x] [First Negative Number in every window of size K]()
+- [x] [First Negative Number in every window of size K](https://github.com/kalpak92/TechInterview2020/blob/master/src/SlidingWindow/FirstNegativeInEveryWindowSizeK.java)
+- [x] [Find all Anagrams of a String - Leetcode]()
 - [x] [Minimum size of Subarray with sum >= K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumSizeSubarrayWithSumGreaterThanK.java)
 - [x] [Number of Subarrays with product < K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarrayProductLessThanK.java)
 
