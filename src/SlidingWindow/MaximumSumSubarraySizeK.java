@@ -1,11 +1,13 @@
 package SlidingWindow;
 
 /**
+ * @author kalpak
+ *
  * Given an array of integers Arr of size N and a number K. Return the maximum sum of a subarray of size K.
  *
  * Example 1:
  * Input:
- * N = 4, K = 2
+ * K = 2
  * Arr = [100, 200, 300, 400]
  * Output:
  * 700
@@ -14,7 +16,7 @@ package SlidingWindow;
  *
  * Example 2:
  * Input:
- * N = 4, K = 4
+ * K = 4
  * Arr = [100, 200, 300, 400]
  * Output:
  * 1000
@@ -26,7 +28,7 @@ package SlidingWindow;
  * Expected Auxiliary Space: O(1)
  *
  * Constraints:
- * 1<=N<=105
+ * 1<=N<=10^5
  * 1<=K<=N
  *
  */
