@@ -41,7 +41,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [First Negative Number in every window of size K](https://github.com/kalpak92/TechInterview2020/blob/master/src/SlidingWindow/FirstNegativeInEveryWindowSizeK.java)
 - [x] [Find all Anagrams of a String - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AllAnagramsInAString.java)
 - [x] [Find the maximum value of all subarray of size k - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumValueInSubarraySizeK.java)
-- [x] [Longest subarray with sum of the elements equal to the given value K for positive integer array]()
+- [x] [Longest subarray with sum of the elements equal to the given value K for positive integer array](https://github.com/kalpak92/TechInterview2020/blob/master/src/SlidingWindow/LargestSubarraySumEqualsKforPositiveNumbers.java)
+- [x] [Longest substring with K Distinct Characters]()
 - [x] [Minimum size of Subarray with sum >= K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumSizeSubarrayWithSumGreaterThanK.java)
 - [x] [Number of Subarrays with product < K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarrayProductLessThanK.java)
 
