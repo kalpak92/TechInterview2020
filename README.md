@@ -43,7 +43,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find the maximum value of all subarray of size k - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumValueInSubarraySizeK.java)
 - [x] [Longest subarray with sum of the elements equal to the given value K for positive integer array](https://github.com/kalpak92/TechInterview2020/blob/master/src/SlidingWindow/LargestSubarraySumEqualsKforPositiveNumbers.java)
 - [x] [Longest substring with K Distinct Characters](https://github.com/kalpak92/TechInterview2020/blob/master/src/SlidingWindow/LongestSubstringWithKDistinctCharacters.java)
-- [x] [Longest substring with No Repeating Characters - Leetcode]()
+- [x] [Longest substring with No Repeating Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestSubstringWithNoRepeatingCharacters.java)
+- [x] [Longest substring with At Most Two Distinct Characters - Leetcode]()
 - [x] [Minimum size of Subarray with sum >= K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumSizeSubarrayWithSumGreaterThanK.java)
 - [x] [Number of Subarrays with product < K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarrayProductLessThanK.java)
 
