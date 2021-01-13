@@ -21,13 +21,23 @@ public class MinimumSizeSubarrayWithSumGreaterThanK {
 
         int result = Integer.MAX_VALUE;
         int windowSum = 0;
-        for(int i = 0, j = 0; j < nums.length; j++) {
+        int i = 0;
+        int j = 0;
+
+        while(j < nums.length) {
             windowSum += nums[j];
 
-            while(windowSum >= s) {
-                result = Math.min(result, j - i + 1);
-                windowSum -= nums[i];
-                i++;
+            if(windowSum < s)
+                j++;
+            else if(windowSum >= s) {
+                // Shrink the window
+                // Important to note that we need to perform the check for minimum window inside the while loop for the best window and not outside, since we are interested in a lower bound.
+                while(windowSum >= s) {
+                    result = Math.min(result, j - i + 1);
+                    windowSum -= nums[i];
+                    i++;
+                }
+                j++;
             }
         }
         return result == Integer.MAX_VALUE ? 0 : result;
