@@ -42,14 +42,15 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find all Anagrams of a String - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AllAnagramsInAString.java)
 - [x] [Find the maximum value of all subarray of size k - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumValueInSubarraySizeK.java)
 - [x] [Longest subarray with sum of the elements equal to the given value K for positive integer array](https://github.com/kalpak92/TechInterview2020/blob/master/src/SlidingWindow/LargestSubarraySumEqualsKforPositiveNumbers.java)
+- [x] [Number of Subarrays with product < K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarrayProductLessThanK.java)
 - [x] [Longest substring with K Distinct Characters](https://github.com/kalpak92/TechInterview2020/blob/master/src/SlidingWindow/LongestSubstringWithKDistinctCharacters.java)
 - [x] [Longest substring with No Repeating Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestSubstringWithNoRepeatingCharacters.java)
 - [x] [Longest substring with At Most Two Distinct Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestSubstringWithAtMostTwoDistinctCharacters.java)
 - [x] [Longest substring with At Most K Distinct Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestSubstringWithAtMostKDistinctCharacters.java)
 - [x] [Minimum size of Subarray with sum >= K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumSizeSubarrayWithSumGreaterThanK.java)
 - [x] [Minimum Window Substring containing all characters of a given string - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumWindowSubstring.java)
-- [x] [Longest Repeating Character Replacement - Leetcode]()
-- [x] [Number of Subarrays with product < K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarrayProductLessThanK.java)
+- [x] [Longest Repeating Character Replacement - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestRepeatingCharacterReplacement.java)
+- [x] [Longest subarray of consecutive 1's by replacing at most K 0's - Leetcode]()
 
 ## Stack
 - [x] [Two Sum with a BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumBST.java)
