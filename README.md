@@ -47,7 +47,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Longest substring with At Most Two Distinct Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestSubstringWithAtMostTwoDistinctCharacters.java)
 - [x] [Longest substring with At Most K Distinct Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestSubstringWithAtMostKDistinctCharacters.java)
 - [x] [Minimum size of Subarray with sum >= K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumSizeSubarrayWithSumGreaterThanK.java)
-- [x] [Minimum Window Substring containing all characters of a given string - Leetcode]()
+- [x] [Minimum Window Substring containing all characters of a given string - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumWindowSubstring.java)
+- [x] [Longest Repeating Character Replacement - Leetcode]()
 - [x] [Number of Subarrays with product < K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarrayProductLessThanK.java)
 
 ## Stack
