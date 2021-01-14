@@ -51,8 +51,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimum Window Substring containing all characters of a given string - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumWindowSubstring.java)
 - [x] [Longest Repeating Character Replacement - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestRepeatingCharacterReplacement.java)
 - [x] [Longest subarray of consecutive 1's by replacing at most K 0's - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaxConsecutiveOnesIII.java)
-- [x] [Longest substring with At Least K repeating characters - Leetcode]()
-
+- [x] [Longest substring with At Least K repeating characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestSubstringWithAtLeastKRepeatingCharacters.java)
+- [x] [Sliding Window Median - Leetcode]()
 
 ## Stack
 - [x] [Two Sum with a BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumBST.java)
