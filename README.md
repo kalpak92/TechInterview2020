@@ -10,7 +10,9 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find Duplicate in an Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DuplicateInArray.java)
 - [x] [Couples holding hands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CouplesHoldingHands.java)
 - [x] [Rotate Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RotateArray.java)
-- [x] [Remove duplicates from Sorted Array - Leetcode]()
+- [x] [Remove duplicates from Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedArray.java)
+
+
 ### Prefix Sum
 
 - [x] [Basic Prefix Sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/PrefixSum/BasicPrefixSum.java)
@@ -20,9 +22,9 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Size Subarray Sum equals K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaxSubarrayEqualK.java)
 - [x] [Subarrays sum divisible by K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarraySumsDivisibleByK.java)
 - [x] [Number of Subarray with product less than K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarrayProductLessThanK.java)
-- [x] [Maximum Subarray size with sum less than K]()
-- [x] [Maximum valus after M range increments]()
-- [x] [Maximum Occurred Interger from given ranges]()
+- [ ] Maximum Subarray size with sum less than K
+- [ ] Maximum values after M range increments
+- [ ] Maximum Occurred Integer from given ranges
 
 ### Two Pointers
 - [x] [Two Sum II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumII.java)
@@ -134,3 +136,4 @@ This repository contains the solutions to problems done from various resources f
 
 ## Linked List
 - [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
+- [x] [Remove duplicates from Sorted List II - Leetcode]()
