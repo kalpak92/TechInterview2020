@@ -9,7 +9,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find numbers disappeared in an Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstMissingPositive.java)
 - [x] [Find Duplicate in an Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DuplicateInArray.java)
 - [x] [Couples holding hands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CouplesHoldingHands.java)
-- [x] [Rotate Array - Leetcode]
+- [x] [Rotate Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RotateArray.java)
 
 ### Prefix Sum
 
@@ -132,3 +132,5 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Top K frequent words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TopKFrequentWords.java)
 
 
+## Linked List
+- [x] [Remove duplicates from Sorted List - Leetcode]()
