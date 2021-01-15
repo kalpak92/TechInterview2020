@@ -48,10 +48,28 @@ public class SubarraySumEqualsK {
         return result;
     }
 
+    public static int subarraySumEqualsK(int[] nums, int k) {
+        int runningSum = 0;
+        int result = 0;
+        Map<Integer, Integer> map = new HashMap<>();
+
+        map.put(0, 1);
+        for(int i = 0; i < nums.length; i++) {
+            runningSum += nums[i];
+            if(map.containsKey(runningSum - k))
+                result += map.get(runningSum - k);
+
+            map.put(runningSum, map.getOrDefault(runningSum, 0) + 1);
+        }
+        return result;
+    }
+
     public static void main(String[] args) {
         int[] arr = new int[]{1, 1, 1};
         System.out.println(subarraySum(arr, 2));
+        System.out.println(subarraySumEqualsK(arr, 2));
         arr = new int[]{1, 2, 3};
         System.out.println(subarraySum(arr, 3));
+        System.out.println(subarraySumEqualsK(arr, 3));
     }
 }
