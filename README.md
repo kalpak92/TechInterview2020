@@ -10,7 +10,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find Duplicate in an Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DuplicateInArray.java)
 - [x] [Couples holding hands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CouplesHoldingHands.java)
 - [x] [Rotate Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RotateArray.java)
-
+- [x] [Remove duplicates from Sorted Array - Leetcode]()
 ### Prefix Sum
 
 - [x] [Basic Prefix Sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/PrefixSum/BasicPrefixSum.java)
@@ -133,4 +133,4 @@ This repository contains the solutions to problems done from various resources f
 
 
 ## Linked List
-- [x] [Remove duplicates from Sorted List - Leetcode]()
+- [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
