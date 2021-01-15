@@ -56,6 +56,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Longest substring with At Least K repeating characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestSubstringWithAtLeastKRepeatingCharacters.java)
 - [x] [Sliding Window Median - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SlidingWindowMedian.java)
 - [x] [Maximum Points Cards - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumPointsFromCards.java)
+- [x] [Maximum Contiguous Array of 0 and 1 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContiguousArray.java)
 - [ ] Substring with Concatenation of all words
 - [ ] Fruits into Baskets
 
@@ -105,7 +106,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Two Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSum.java)
 - [x] [Subarray Sum Equals K - Leetcpde](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarraySumEqualsK.java)
 - [x] [Two Sum Design - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumDesign.java)
-- [x] [Contiguous Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContiguousArray.java)
+- [x] [Maximum Contiguous Array of 0 and 1 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContiguousArray.java)
 - [x] [Maximum Size Subarray Sum equals K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaxSubarrayEqualK.java)
 - [x] [Sort Characters by Frequency - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SortCharacters.java)
 - [x] [Fraction to Recurring Decimal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/Fraction2Decimal.java)
