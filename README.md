@@ -9,7 +9,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find numbers disappeared in an Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstMissingPositive.java)
 - [x] [Find Duplicate in an Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DuplicateInArray.java)
 - [x] [Couples holding hands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CouplesHoldingHands.java)
-
+- [x] [Rotate Array - Leetcode]
 
 ### Prefix Sum
 
@@ -54,8 +54,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Longest substring with At Least K repeating characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestSubstringWithAtLeastKRepeatingCharacters.java)
 - [x] [Sliding Window Median - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SlidingWindowMedian.java)
 - [x] [Maximum Points Cards - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumPointsFromCards.java)
-- [ ] [Substring with Concatenation of all words]
-- [ ] [Fruits into Baskets]
+- [ ] Substring with Concatenation of all words
+- [ ] Fruits into Baskets
 
 
 ## Stack
