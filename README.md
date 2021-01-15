@@ -11,17 +11,16 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Couples holding hands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CouplesHoldingHands.java)
 - [x] [Rotate Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RotateArray.java)
 - [x] [Remove duplicates from Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedArray.java)
-
+- [x] [SnapShot Array - Leetcode]()
 
 ### Prefix Sum
 
 - [x] [Basic Prefix Sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/PrefixSum/BasicPrefixSum.java)
 - [x] [Zero Subarray Sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/PrefixSum/ZeroSubarraySum.java)
-- [x] [Maximum Contiguous Array of 0 and 1 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContiguousArray.java)
 - [x] [Number of Subarrays with Sum Equals K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarraySumEqualsK.java)
-- [x] [Maximum Size Subarray Sum equals K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaxSubarrayEqualK.java)
-- [x] [Subarrays sum divisible by K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarraySumsDivisibleByK.java)
-- [x] [Number of Subarray with product less than K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarrayProductLessThanK.java)
+- [x] [Maximum Size of Subarray Sum equals K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaxSubarrayEqualK.java)
+- [x] [Maximum Contiguous Array of 0 and 1 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContiguousArray.java)
+- [x] [Subarray sum divisible by K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarraySumsDivisibleByK.java)
 - [ ] Maximum Subarray size with sum less than K
 - [ ] Maximum values after M range increments
 - [ ] Maximum Occurred Integer from given ranges
