@@ -11,7 +11,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Couples holding hands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CouplesHoldingHands.java)
 - [x] [Rotate Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RotateArray.java)
 - [x] [Remove duplicates from Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedArray.java)
-- [x] [SnapShot Array - Leetcode]()
+- [x] [SnapShot Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SnapShotArray.java)
 
 ### Prefix Sum
 
@@ -137,3 +137,6 @@ This repository contains the solutions to problems done from various resources f
 ## Linked List
 - [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
 - [x] [Remove duplicates from Sorted List II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedListII.java)
+
+## Binary Search
+- [x] [Kth Missing Positive Number - Leetcode]()
