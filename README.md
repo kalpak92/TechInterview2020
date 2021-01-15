@@ -17,7 +17,7 @@ This repository contains the solutions to problems done from various resources f
 
 - [x] [Basic Prefix Sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/PrefixSum/BasicPrefixSum.java)
 - [x] [Zero Subarray Sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/PrefixSum/ZeroSubarraySum.java)
-- [x] [Contiguous Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContiguousArray.java)
+- [x] [Maximum Contiguous Array of 0 and 1 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContiguousArray.java)
 - [x] [Subarray Sum Equals K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarraySumEqualsK.java)
 - [x] [Maximum Size Subarray Sum equals K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaxSubarrayEqualK.java)
 - [x] [Subarrays sum divisible by K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubarraySumsDivisibleByK.java)
@@ -136,4 +136,4 @@ This repository contains the solutions to problems done from various resources f
 
 ## Linked List
 - [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
-- [x] [Remove duplicates from Sorted List II - Leetcode]()
+- [x] [Remove duplicates from Sorted List II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedListII.java)
