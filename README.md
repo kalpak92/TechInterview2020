@@ -54,6 +54,9 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Longest substring with At Least K repeating characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestSubstringWithAtLeastKRepeatingCharacters.java)
 - [x] [Sliding Window Median - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SlidingWindowMedian.java)
 - [x] [Maximum Points Cards - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumPointsFromCards.java)
+- [ ] [Substring with Concatenation of all words]
+- [ ] [Fruits into Baskets]
+
 
 ## Stack
 - [x] [Two Sum with a BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumBST.java)
