@@ -131,7 +131,8 @@ This repository contains the solutions to problems done from various resources f
 
 
 ## Heaps
-- [x] [Kth largest element in an array - Leetcode]()
+- [x] [Kth largest element in an array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthLargestElement.java)
+- [x] [Sort an almost Sorted Array]()
 - [x] [Top K frequent words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TopKFrequentWords.java)
 
 
