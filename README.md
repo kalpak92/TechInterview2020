@@ -133,7 +133,8 @@ This repository contains the solutions to problems done from various resources f
 ## Heaps
 - [x] [Kth largest element in an array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthLargestElement.java)
 - [x] [Sort an almost Sorted Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/Heap/SortNearlySortedArray.java)
-- [x] [K closest elements in an Unsorted Array]()
+- [x] [K closest elements in an Unsorted Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/Heap/KClosestElementsInUnsortedArray.java)
+- [x] [Top K frequent elements - Leetcode]()
 - [x] [Top K frequent words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TopKFrequentWords.java)
 
 
