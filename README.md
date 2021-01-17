@@ -131,6 +131,7 @@ This repository contains the solutions to problems done from various resources f
 
 
 ## Heaps
+- [x] [Kth largest element in an array - Leetcode]()
 - [x] [Top K frequent words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TopKFrequentWords.java)
 
 
@@ -139,4 +140,4 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Remove duplicates from Sorted List II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedListII.java)
 
 ## Binary Search
-- [x] [Kth Missing Positive Number - Leetcode]()
+- [x] [Kth Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthMissingPositiveNumber.java)
