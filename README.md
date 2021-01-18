@@ -147,8 +147,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Frequency Stack - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumFrequencyStack.java)
 
 ### Two Heaps
-- [x] [Median of a Data Stream]()
-
+- [x] [Median of a Data Stream - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DataStreamMedian.java)
+- [x] [IPO - Leetcode]()
 
 ## Linked List
 - [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
