@@ -139,7 +139,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [K Closest Points to Origin - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KClosestPointsToOrigin.java)
 - [x] [Minimum Cost to Connect Sticks - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumCostToConnectSticks.java)
 - [x] [Top K frequent words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TopKFrequentWords.java)
-
+- [x] [Least Number of Unique Integers After K removals - Leetcode]()
 
 ## Linked List
 - [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
