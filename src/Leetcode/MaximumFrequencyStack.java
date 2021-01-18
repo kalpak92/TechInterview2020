@@ -1,8 +1,6 @@
 package Leetcode;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.PriorityQueue;
+import java.util.*;
 
 /**
  * @author kalpak
@@ -86,5 +84,42 @@ public class MaximumFrequencyStack {
         System.out.println(obj.pop());
         System.out.println(obj.pop());
 
+    }
+}
+
+/**
+ * Solution Using Two Maps
+ * 1. Frequency Map
+ * 2. Maximum Frequency Map with Stack
+ */
+
+class FreqStack {
+    Map<Integer, Integer> frequencyMap;
+    Map<Integer, Deque<Integer>> maxFrequencyMap;
+    int maxFrequency;
+
+    public FreqStack() {
+        frequencyMap = new HashMap<>();
+        maxFrequencyMap = new HashMap<>();
+        maxFrequency = 0;
+    }
+
+    public void push(int x) {
+        frequencyMap.put(x, frequencyMap.getOrDefault(x, 0) + 1);
+
+        if(frequencyMap.get(x) > maxFrequency)
+            maxFrequency = frequencyMap.get(x);
+
+        maxFrequencyMap.computeIfAbsent(frequencyMap.get(x), z -> new ArrayDeque()).push(x);
+    }
+
+    public int pop() {
+        int element = maxFrequencyMap.get(maxFrequency).poll();
+        frequencyMap.put(element, frequencyMap.get(element) - 1);
+
+        if(maxFrequencyMap.get(maxFrequency).size() == 0)
+            maxFrequency--;
+
+        return element;
     }
 }
