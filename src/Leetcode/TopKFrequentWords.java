@@ -34,7 +34,7 @@ import java.util.*;
  */
 
 public class TopKFrequentWords {
-    public List<String> topKFrequent(String[] words, int k) {
+    public static List<String> topKFrequent(String[] words, int k) {
         Map<String, Integer> wordFrequency = new HashMap<>();
         PriorityQueue<String> pq = new PriorityQueue<>((word1, word2) ->
                 wordFrequency.get(word1).equals(wordFrequency.get(word2)) ?
@@ -59,4 +59,8 @@ public class TopKFrequentWords {
         return result;
     }
 
+    public static void main(String[] args) {
+        String[] arr = new String[]{"i", "love", "leetcode", "i", "love", "coding"};
+        System.out.println(topKFrequent(arr, 2));
+    }
 }
