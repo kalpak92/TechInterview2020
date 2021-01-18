@@ -142,7 +142,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Least Number of Unique Integers After K removals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LeastNumberOfUniqueIntegersAfterKRemovals.java)
 - [x] [Reorganize String - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReorganizeString.java)
 - [x] [Rearrange String such that same characters are at least K distance apart - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RearrangeStringWithSameCharactersKApart.java)
-- [x] [Task Scheduler - Leetcode]()
+- [x] [Task Scheduler - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TaskScheduler.java)
+- [x] [Maximum Frequency Stack - Leetcode]()
 
 ## Linked List
 - [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
