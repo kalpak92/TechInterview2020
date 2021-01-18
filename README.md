@@ -140,6 +140,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimum Cost to Connect Sticks - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumCostToConnectSticks.java)
 - [x] [Top K frequent words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TopKFrequentWords.java)
 - [x] [Least Number of Unique Integers After K removals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LeastNumberOfUniqueIntegersAfterKRemovals.java)
+- [x] [Sum of elements between k1 and k2 smallest elements]()
 - [x] [Reorganize String - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReorganizeString.java)
 - [x] [Rearrange String such that same characters are at least K distance apart - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RearrangeStringWithSameCharactersKApart.java)
 - [x] [Task Scheduler - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TaskScheduler.java)
