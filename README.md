@@ -145,11 +145,12 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Rearrange String such that same characters are at least K distance apart - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RearrangeStringWithSameCharactersKApart.java)
 - [x] [Task Scheduler - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TaskScheduler.java)
 - [x] [Maximum Frequency Stack - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumFrequencyStack.java)
+- [x] [Employee Free Time - Leetcode]()
 
 ### Two Heaps
 - [x] [Median of a Data Stream - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DataStreamMedian.java)
 - [x] [Maximize Capital for an IPO - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IPO.java)
-- [x] [Find Right Interval - Leetcode]()
+- [x] [Find Right Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FindRightInterval.java)
 
 ## Linked List
 - [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
