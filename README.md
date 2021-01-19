@@ -141,11 +141,12 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Top K frequent words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TopKFrequentWords.java)
 - [x] [Least Number of Unique Integers After K removals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LeastNumberOfUniqueIntegersAfterKRemovals.java)
 - [x] [Sum of elements between k1 and k2 smallest elements](https://github.com/kalpak92/TechInterview2020/blob/master/src/Heap/SumOfK1andK2SmallestElements.java)
+- [x] [Find K Pairs with Smallest Sums - Leetcode]()
 - [x] [Reorganize String - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReorganizeString.java)
 - [x] [Rearrange String such that same characters are at least K distance apart - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RearrangeStringWithSameCharactersKApart.java)
 - [x] [Task Scheduler - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TaskScheduler.java)
 - [x] [Maximum Frequency Stack - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumFrequencyStack.java)
-- [x] [Employee Free Time - Leetcode]()
+- [x] [Employee Free Time - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EmployeeFreeTime.java)
 
 ### Two Heaps
 - [x] [Median of a Data Stream - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DataStreamMedian.java)
