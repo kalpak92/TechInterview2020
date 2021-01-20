@@ -129,6 +129,8 @@ This repository contains the solutions to problems done from various resources f
 - [ ] [High Five]()
 - [ ] [Design a LeaderBoard]()
 
+## Merge Intervals
+- [x] [Merge Intervals - Leetcode]()
 
 ## Heaps
 - [x] [Kth largest element in an array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthLargestElement.java)
@@ -142,7 +144,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Least Number of Unique Integers After K removals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LeastNumberOfUniqueIntegersAfterKRemovals.java)
 - [x] [Sum of elements between k1 and k2 smallest elements](https://github.com/kalpak92/TechInterview2020/blob/master/src/Heap/SumOfK1andK2SmallestElements.java)
 - [x] [Find K Pairs with Smallest Sums - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KPairsWithSmallestSum.java)
-- [x] [Merge K Sorted Lists - Leetcode]()
+- [x] [Merge K Sorted Lists - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeKSortedLists.java)
 - [x] [Smallest Range covering elements from K elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SmallestRangeFromKLists.java)
 - [x] [Reorganize String - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReorganizeString.java)
 - [x] [Rearrange String such that same characters are at least K distance apart - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RearrangeStringWithSameCharactersKApart.java)
