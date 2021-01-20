@@ -147,8 +147,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Task Scheduler - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TaskScheduler.java)
 - [x] [Maximum Frequency Stack - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumFrequencyStack.java)
 - [x] [Employee Free Time - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EmployeeFreeTime.java)
-- [x] [Design Twitter - Leetcode]()
-
+- [x] [Design Twitter - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DesignTwitter.java)
+- [x] [Minimum Number of Refueling Stops - Leetcode]()
 
 ### Two Heaps
 - [x] [Median of a Data Stream - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DataStreamMedian.java)
