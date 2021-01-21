@@ -133,7 +133,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Merge Intervals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeIntervals.java)
 - [x] [Insert Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InsertInterval.java)
 - [x] [Interval List Intersection - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IntervalListIntersection.java)
-- [x] [Meeting Rooms - Leetcode]()
+- [x] [Meeting Rooms - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConflictingAppointments.java)
+- [x] [Meeting Rooms II - Leetcode]()
 
 
 ## Heaps
