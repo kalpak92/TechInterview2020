@@ -130,7 +130,8 @@ This repository contains the solutions to problems done from various resources f
 - [ ] [Design a LeaderBoard]()
 
 ## Merge Intervals
-- [x] [Merge Intervals - Leetcode]()
+- [x] [Merge Intervals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeIntervals.java)
+- [x] [Insert Interval - Leetcode]()
 
 ## Heaps
 - [x] [Kth largest element in an array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthLargestElement.java)
