@@ -24,18 +24,18 @@ public class OrderAgnosticBinarySearch {
             return -1;
 
         boolean ascend = arr[0] < arr[arr.length-1];
-        int start = 0;
-        int end = arr.length-1;
+        int left = 0;
+        int right = arr.length-1;
 
-        while (start <= end) {
-            int mid = (start+end)/2;
+        while (left <= right) {
+            int mid = (left+right)/2;
             if (arr[mid] == key) return mid;
             if (ascend) {
-                if (arr[mid] < key) start = mid+1;
-                else end = mid-1;
+                if (arr[mid] < key) left = mid+1;
+                else right = mid-1;
             } else {
-                if (arr[mid] < key) end = mid-1;
-                else start = mid+1;
+                if (arr[mid] < key) right = mid-1;
+                else left = mid+1;
             }
         }
         return -1;
