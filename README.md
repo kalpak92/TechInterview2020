@@ -176,5 +176,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find the count of an element in a Sorted Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/NumberOfOccurrencesInASortedArray.java)
 - [x] [Find minimum in a Rotated Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumInRotatedSortedArray.java)
 - [x] [Find minimum in a Rotated Sorted Array with duplicate numbers - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumRotatedSortedArrayWithDuplicates.java)
-- [x] [Search in a Rotated Sorted Array - Leetcode]()
+- [x] [Search in a Rotated Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInRotatedSortedArray.java)
+- [x] [Search in a Rotated Sorted Array with Duplicates - Leetcode]()
 - [x] [Kth Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthMissingPositiveNumber.java)
