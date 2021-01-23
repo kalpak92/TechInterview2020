@@ -46,11 +46,11 @@ public class SearchInsertPosition {
             if(nums[mid] == target) {
                 return mid;
             }
-            else if (nums[mid] < target) {
+            else if (nums[mid] < target) {  // target is greater
                 left = mid + 1;
-            } else if (nums[mid] > target) {
+            } else if (nums[mid] > target) {    // target is smaller
                 right = mid - 1;
-                result = mid;
+                result = mid;       // cache the result. Can be a candidate for ceiling.
             }
         }
         return (left >= nums.length) ? left : result;       // Return left, if number to be entered is at the end of the array
