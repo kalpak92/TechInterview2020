@@ -186,5 +186,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimum Difference element in a sorted array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/MinimumDifferenceElement.java)
 - [x] [Peak Element - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PeakElement.java)
 - [x] [Find Maximum in a Bitonic Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/MaximumInBitonicArray.java)
-- [x] [Search in a Bitonic array]()
+- [x] [Search in a Bitonic array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/SearchInABitonicArray.java)
+- [x] [Search in a Matrix Sorted Row-wise and Column-wise - Leetcode]()
 - [x] [Kth Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthMissingPositiveNumber.java)
