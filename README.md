@@ -179,6 +179,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Search in a Rotated Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInRotatedSortedArray.java)
 - [x] [Search in a Rotated Sorted Array with Duplicates - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInRotatedSortedArrayWithDuplicates.java)
 - [x] [Search in an Infinite Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInInfiniteArray.java)
-- [x] [Find element in an Almost Sorted Array]()
-
+- [x] [Find element in an Almost Sorted Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/FindElementInAlmostSortedArray.java)
+- [x] [Find the Floor of a number in a sorted array - Leetcode]()
 - [x] [Kth Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthMissingPositiveNumber.java)
