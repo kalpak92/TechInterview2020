@@ -31,7 +31,7 @@ package Leetcode;
  */
 
 public class PeakElement {
-    public int findPeakElement(int[] nums) {
+    public static int findPeakElement(int[] nums) {
         if (nums.length == 1)
             return 0;
 
@@ -61,5 +61,9 @@ public class PeakElement {
             }
         }
         return -1;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("Index of Peak Element: " + findPeakElement(new int[]{1,2,1,3,5,6,4}));
     }
 }
