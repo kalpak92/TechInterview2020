@@ -182,6 +182,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find element in an Almost Sorted Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/FindElementInAlmostSortedArray.java)
 - [x] [Find the Ceil of a number in a sorted array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInsertPosition.java)
 - [x] [Find the smallest next letter greater than the target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextLetterGreaterThanTarget.java)
-- [x] [First Bad Version - Leetcode]()
-
+- [x] [First Bad Version - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstBadVersion.java)
+- [x] [Minimum Difference element in a sorted array]()
 - [x] [Kth Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthMissingPositiveNumber.java)
