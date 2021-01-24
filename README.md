@@ -152,7 +152,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find K Pairs with Smallest Sums - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KPairsWithSmallestSum.java)
 - [x] [Merge K Sorted Lists - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeKSortedLists.java)
 - [x] [Smallest Range covering elements from K elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SmallestRangeFromKLists.java)
-- [x] [Find kth smallest element in a sorted matrix - Leetcode]()
+- [x] [Find kth smallest element in a sorted matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthSmallestElementInSortedMatrix.java)
 - [x] [Reorganize String - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReorganizeString.java)
 - [x] [Rearrange String such that same characters are at least K distance apart - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RearrangeStringWithSameCharactersKApart.java)
 - [x] [Task Scheduler - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TaskScheduler.java)
@@ -190,6 +190,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Search in a Bitonic array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/SearchInABitonicArray.java)
 - [x] [Search in a Matrix Sorted Row-wise and Column-wise - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInMatrixSortedRowiseColumnwise.java)
 - [x] [Search in a Matrix Sorted Row-wise and 1st number of a row is greater than the last number of the previous row - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInMatrixSortedRowiseIncreasingOrder.java)
-- [x] [Find kth smallest element in a sorted matrix - Leetcode]()
+- [x] [Find kth smallest element in a sorted matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthSmallestElementInSortedMatrix.java)
+- [x] [Find Single Element in a Sorted Array - Leetcode]()
+
 - [x] [Kth Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthMissingPositiveNumber.java)
 
