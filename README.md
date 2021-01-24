@@ -187,5 +187,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Peak Element - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PeakElement.java)
 - [x] [Find Maximum in a Bitonic Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/MaximumInBitonicArray.java)
 - [x] [Search in a Bitonic array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/SearchInABitonicArray.java)
-- [x] [Search in a Matrix Sorted Row-wise and Column-wise - Leetcode]()
+- [x] [Search in a Matrix Sorted Row-wise and Column-wise - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInMatrixSortedRowiseColumnwise.java)
+- [x] [Search in a Matrix Sorted Row-wise and 1st number of a row is greater than the last number of the previous row - Leetcode]()
 - [x] [Kth Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthMissingPositiveNumber.java)
