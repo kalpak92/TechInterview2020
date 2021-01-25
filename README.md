@@ -26,7 +26,7 @@ This repository contains the solutions to problems done from various resources f
 - [ ] Maximum Occurred Integer from given ranges
 
 ### Two Pointers
-- [x] [Two Sum II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumII.java)
+- [x] [Two Sum on a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumII.java)
 - [x] [Two Sum Less than K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumLessThanK.java)
 - [x] [Two Sum with a BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumBST.java)
 - [x] [Two Sum with Two BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumTwoBST.java)
@@ -174,6 +174,7 @@ This repository contains the solutions to problems done from various resources f
 
 ## Binary Search
 - [x] [Binary Search - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BinarySearch.java)
+- [x] [Two Sum on a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumII.java)
 - [x] [Play the Guessing Game - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GuessingGame.java)
 - [x] [Median of two Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MedianOfTwoSortedArray.java)
 - [x] [Order Agnostic Binary Search](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/OrderAgnosticBinarySearch.java)
