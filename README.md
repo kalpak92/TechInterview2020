@@ -174,7 +174,7 @@ This repository contains the solutions to problems done from various resources f
 
 ## Binary Search
 - [x] [Binary Search - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BinarySearch.java)
-- [x] [Play the Guessing Game - Leetcode]()
+- [x] [Play the Guessing Game - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GuessingGame.java)
 - [x] [Order Agnostic Binary Search](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/OrderAgnosticBinarySearch.java)
 - [x] [First and Last Position of an Element in a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstAndLastPositionOfAnElement.java)
 - [x] [Find the count of an element in a Sorted Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/NumberOfOccurrencesInASortedArray.java)
@@ -185,6 +185,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Search in an Infinite Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInInfiniteArray.java)
 - [x] [Find element in an Almost Sorted Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/FindElementInAlmostSortedArray.java)
 - [x] [Find the Ceil of a number in a sorted array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInsertPosition.java)
+- [x] [Sqrt of a number - Leetcode]()
 - [x] [Find the smallest next letter greater than the target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextLetterGreaterThanTarget.java)
 - [x] [First Bad Version - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstBadVersion.java)
 - [x] [Minimum Difference element in a sorted array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/MinimumDifferenceElement.java)
