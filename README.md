@@ -194,6 +194,5 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find Single Element in a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SingleElementInSortedArray.java)
 - [x] [Build a weighted sampler API - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RandomPickWithWeight.java)
 - [x] [Timestamp based Key Value Storage - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TimeBasedKeyValueStorage.java)
-
 - [x] [Kth Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthMissingPositiveNumber.java)
-
+- [x] [Find K closest elements to a number in a Sorted Array - Leetcode]()
