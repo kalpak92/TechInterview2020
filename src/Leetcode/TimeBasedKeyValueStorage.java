@@ -1,5 +1,6 @@
 package Leetcode;
 
+import java.sql.Time;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -61,7 +62,6 @@ class Data {
 public class TimeBasedKeyValueStorage {
     Map<String, List<Data>> map;
 
-    /** Initialize your data structure here. */
     public TimeBasedKeyValueStorage() {
         map = new HashMap<>();
     }
@@ -90,5 +90,15 @@ public class TimeBasedKeyValueStorage {
                 right = mid - 1;
         }
         return (resultIdx == -1) ? "" : data.get(resultIdx).value;
+    }
+
+    public static void main(String[] args) {
+        TimeBasedKeyValueStorage obj = new TimeBasedKeyValueStorage();
+        obj.set("foo","bar",1);
+        System.out.println(obj.get("foo", 1));
+        System.out.println(obj.get("foo", 3));
+        obj.set("foo","bar2",4);
+        System.out.println(obj.get("foo", 4));
+        System.out.println(obj.get("foo", 5));
     }
 }
