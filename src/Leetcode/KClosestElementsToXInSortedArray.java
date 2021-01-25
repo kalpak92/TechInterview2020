@@ -1,7 +1,6 @@
 package Leetcode;
 
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 /**
  * @author kalpak
@@ -36,15 +35,12 @@ import java.util.List;
 public class KClosestElementsToXInSortedArray {
     public static List<Integer> findClosestElements(int[] arr, int k, int x) {
         int left = 0;
-        int right = arr.length - k;
+        int right = arr.length - k - 1;
 
         while (left <= right) {
             int mid = (left + right) /2;
 
-            if ((x-arr[mid]) == (arr[mid + k] - x))
-                break;
-                // this determines how to shift the range
-            else if ((x - arr[mid]) > (arr[mid + k] - x))  {
+            if ((x - arr[mid]) > (arr[mid + k] - x))  {
                 // because the range can start from mid + 1 as the
                 // arr[mid] is more than the arr[mid+k]
 
@@ -77,8 +73,29 @@ public class KClosestElementsToXInSortedArray {
         return list;
     }
 
+    public static List<Integer> findClosestElementsUsingHeap(int[] arr, int k, int x) {
+        PriorityQueue<Integer> maxHeap = new PriorityQueue<>((a, b) -> (Math.abs(b - x) == Math.abs(a - x)) ? (b - a)
+                : (Math.abs(b - x) - Math.abs(a - x)));
+
+        for(int i : arr) {
+            maxHeap.offer(i);
+
+            if(maxHeap.size() > k)
+                maxHeap.poll();
+        }
+
+        List<Integer> result = new ArrayList<>();
+        while(!maxHeap.isEmpty())
+            result.add(maxHeap.poll());
+
+        Collections.sort(result);
+
+        return result;
+    }
+
     public static void main(String[] args) {
         int[] nums = new int[]{1, 2, 3, 4, 5};
         System.out.println(findClosestElements(nums, 4, 1));
+        System.out.println(findClosestElementsUsingHeap(nums, 4, 1));
     }
 }

@@ -160,6 +160,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Employee Free Time - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EmployeeFreeTime.java)
 - [x] [Design Twitter - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DesignTwitter.java)
 - [x] [Minimum Number of Refueling Stops - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumNumberOfRefuelingStops.java)
+- [x] [Find K closest elements to a number in a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KClosestElementsToXInSortedArray.java)
+
 
 ### Two Heaps
 - [x] [Median of a Data Stream - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DataStreamMedian.java)
@@ -188,6 +190,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Peak Element - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PeakElement.java)
 - [x] [Find Maximum in a Bitonic Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/MaximumInBitonicArray.java)
 - [x] [Search in a Bitonic array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/SearchInABitonicArray.java)
+- [x] [Find in Mountain Array - Leetcode]()
 - [x] [Search in a Matrix Sorted Row-wise and Column-wise - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInMatrixSortedRowiseColumnwise.java)
 - [x] [Search in a Matrix Sorted Row-wise and 1st number of a row is greater than the last number of the previous row - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInMatrixSortedRowiseIncreasingOrder.java)
 - [x] [Find kth smallest element in a sorted matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthSmallestElementInSortedMatrix.java)
@@ -195,4 +198,4 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Build a weighted sampler API - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RandomPickWithWeight.java)
 - [x] [Timestamp based Key Value Storage - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TimeBasedKeyValueStorage.java)
 - [x] [Kth Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthMissingPositiveNumber.java)
-- [x] [Find K closest elements to a number in a Sorted Array - Leetcode]()
+- [x] [Find K closest elements to a number in a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KClosestElementsToXInSortedArray.java)
