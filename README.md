@@ -191,7 +191,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Search in a Matrix Sorted Row-wise and Column-wise - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInMatrixSortedRowiseColumnwise.java)
 - [x] [Search in a Matrix Sorted Row-wise and 1st number of a row is greater than the last number of the previous row - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInMatrixSortedRowiseIncreasingOrder.java)
 - [x] [Find kth smallest element in a sorted matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthSmallestElementInSortedMatrix.java)
-- [x] [Find Single Element in a Sorted Array - Leetcode]()
+- [x] [Find Single Element in a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SingleElementInSortedArray.java)
+- [x] [Build a weighted sampler API - Leetcode]()
 
 - [x] [Kth Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthMissingPositiveNumber.java)
 
