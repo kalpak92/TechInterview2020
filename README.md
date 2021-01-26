@@ -35,7 +35,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Next Greater Element 3 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterPermutation.java)
 - [x] [Container with Most Water - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContainerWithMostWater.java)
 - [x] [Squares of a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SquaresOfSortedArray.java)
-- [x] [Three Sum - Leetcode]
+- [x] [Three Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ThreeSum.java)
+- [x] [Three Sum closest to a target - Leetcode]()
 
 ### Sliding Window
 - [x] [Naive way to solve a sliding window problem](https://github.com/kalpak92/TechInterview2020/tree/master/src/SlidingWindow)
