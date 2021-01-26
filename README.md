@@ -30,14 +30,14 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Two Sum Less than K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumLessThanK.java)
 - [x] [Two Sum with a BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumBST.java)
 - [x] [Two Sum with Two BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumTwoBST.java)
-- [x] [4 sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FourSum.java)
 - [x] [Shortest Unsorted Contiguous Subarray - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ShortestUnsortedContiguousSubarray.java)
 - [x] [Next Greater Element 3 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterPermutation.java)
 - [x] [Container with Most Water - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContainerWithMostWater.java)
 - [x] [Squares of a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SquaresOfSortedArray.java)
 - [x] [Three Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ThreeSum.java)
 - [x] [Three Sum closest to a target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ThreeSumClosest.java)
-- [x] [Number of Three Sum triplets lesser than a target - Leetcode]()
+- [x] [Number of Three Sum triplets lesser than a target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ThreeSumTripletSmallerThanTarget.java)
+- [x] [Four sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FourSum.java)
 
 
 ### Sliding Window
