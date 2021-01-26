@@ -34,8 +34,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Shortest Unsorted Contiguous Subarray - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ShortestUnsortedContiguousSubarray.java)
 - [x] [Next Greater Element 3 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterPermutation.java)
 - [x] [Container with Most Water - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContainerWithMostWater.java)
-- [x] [Squares of a Sorted Array - Leetcode]()
-
+- [x] [Squares of a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SquaresOfSortedArray.java)
+- [x] [Three Sum - Leetcode]
 
 ### Sliding Window
 - [x] [Naive way to solve a sliding window problem](https://github.com/kalpak92/TechInterview2020/tree/master/src/SlidingWindow)
