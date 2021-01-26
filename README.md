@@ -34,6 +34,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Shortest Unsorted Contiguous Subarray - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ShortestUnsortedContiguousSubarray.java)
 - [x] [Next Greater Element 3 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterPermutation.java)
 - [x] [Container with Most Water - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContainerWithMostWater.java)
+- [x] [Squares of a Sorted Array - Leetcode]()
+
 
 ### Sliding Window
 - [x] [Naive way to solve a sliding window problem](https://github.com/kalpak92/TechInterview2020/tree/master/src/SlidingWindow)
@@ -58,6 +60,10 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Contiguous Array of 0 and 1 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContiguousArray.java)
 - [ ] Substring with Concatenation of all words
 - [ ] Fruits into Baskets
+
+## Linked List
+- [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
+- [x] [Remove duplicates from Sorted List II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedListII.java)
 
 
 ## Stack
@@ -87,7 +93,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Asteroid Collision - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AsteroidCollision.java)
 - [x] [Remove all adjacent duplicates in a string- Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveAllAdjacentDuplicatesInString.java)
 - [x] [Remove all adjacent duplicates in a string II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveAllAdjacentDuplicatedInStringII.java)
-
 
 ## Hashing
 
@@ -167,10 +172,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Median of a Data Stream - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DataStreamMedian.java)
 - [x] [Maximize Capital for an IPO - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IPO.java)
 - [x] [Find Right Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FindRightInterval.java)
-
-## Linked List
-- [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
-- [x] [Remove duplicates from Sorted List II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedListII.java)
 
 ## Binary Search
 - [x] [Binary Search - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BinarySearch.java)
