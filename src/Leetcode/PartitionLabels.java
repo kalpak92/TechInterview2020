@@ -71,8 +71,31 @@ public class PartitionLabels {
         return result;
     }
 
+    public static List<Integer> partitionLabelsTwoPointers(String S) {
+        List<Integer> result = new ArrayList<>();
+        int[] index = new int[26];
+
+        for(int i = 0; i < S.length(); i++)
+            index[S.charAt(i) - 'a'] = i;
+
+        int partitionStart = 0;
+        for(int i = 0; i < S.length(); i++) {
+            int partitionEnd = index[S.charAt(i) - 'a'];
+
+            while(i != partitionEnd) {
+                i++;
+                int tempEnd = index[S.charAt(i) - 'a'];
+                partitionEnd = Math.max(partitionEnd, tempEnd);
+            }
+            result.add(partitionEnd - partitionStart + 1);
+            partitionStart = partitionEnd + 1;
+        }
+        return result;
+    }
+
     public static void main(String[] args) {
         String str = "ababcbacadefegdehijhklij";
         System.out.println(partitionLabels(str));
+        System.out.println(partitionLabelsTwoPointers(str));
     }
 }

@@ -40,6 +40,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Four sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FourSum.java)
 - [x] [Sort Colors - Dutch National Flag - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SortColors.java)
 - [x] [Partition List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionList.java)
+- [x] [Partition Label - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionLabels.java)
 
 
 ### Sliding Window
@@ -147,7 +148,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Meeting Rooms II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfMeetingRoomsNeeded.java)
 - [x] [Meeting Scheduler - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MeetingScheduler.java)
 - [x] [Maximum CPU Load at any point of time](https://github.com/kalpak92/TechInterview2020/blob/master/src/Heap/MaxCPULoad.java)
-- [x] [Partition Label - Leetcode]()
+- [x] [Partition Label - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionLabels.java)
+
 
 ## Heaps
 - [x] [Kth largest element in an array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthLargestElement.java)
