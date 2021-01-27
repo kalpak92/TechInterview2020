@@ -13,7 +13,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Remove duplicates from Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedArray.java)
 - [x] [SnapShot Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SnapShotArray.java)
 - [x] [Sparse Matrix Multiplication - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SparseMatrixMultiplication.java)
-- [x] [Candy Crush - Leetcode]()
+- [x] [Candy Crush - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CandyCrush.java)
 
 ### Prefix Sum
 
