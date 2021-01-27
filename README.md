@@ -12,6 +12,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Rotate Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RotateArray.java)
 - [x] [Remove duplicates from Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedArray.java)
 - [x] [SnapShot Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SnapShotArray.java)
+- [x] [Sparse Matrix Multiplication - Leetcode]()
+
 
 ### Prefix Sum
 
@@ -132,7 +134,7 @@ This repository contains the solutions to problems done from various resources f
 - [ ] [LRU Cache]()
 - [ ] [Group Anagrams]()
 - [x] [Group Shifted Strings - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GroupShiftedStrings.java)
-- [x] [Dot Product of Sparse Vectors - Leetcode]()
+- [x] [Dot Product of Sparse Vectors - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SparseVectorDotProduct.java)
 - [ ] [Insert Delete GetRandom in O(1)]()
 - [ ] [Time based Key Value Storage]()
 - [ ] [Longest String Chain]()
