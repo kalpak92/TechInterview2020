@@ -12,7 +12,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Rotate Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RotateArray.java)
 - [x] [Remove duplicates from Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedArray.java)
 - [x] [SnapShot Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SnapShotArray.java)
-- [x] [Sparse Matrix Multiplication - Leetcode]()
+- [x] [Sparse Matrix Multiplication - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SparseMatrixMultiplication.java)
 
 
 ### Prefix Sum
@@ -44,6 +44,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Partition List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionList.java)
 - [x] [Partition Label - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionLabels.java)
 - [x] [Number of Unique pairs having a difference of K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KDifferencePairs.java)
+- [x] [Backspace String Compare - Leetcode]()
 
 ### Sliding Window
 - [x] [Naive way to solve a sliding window problem](https://github.com/kalpak92/TechInterview2020/tree/master/src/SlidingWindow)
