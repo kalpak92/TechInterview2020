@@ -44,7 +44,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Partition List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionList.java)
 - [x] [Partition Label - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionLabels.java)
 - [x] [Number of Unique pairs having a difference of K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KDifferencePairs.java)
-- [x] [Backspace String Compare - Leetcode]()
+- [x] [Backspace String Compare - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BackspaceStringCompare.java)
+- [x] [Candy Crush - Leetcode]()
 
 ### Sliding Window
 - [x] [Naive way to solve a sliding window problem](https://github.com/kalpak92/TechInterview2020/tree/master/src/SlidingWindow)
