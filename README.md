@@ -3,7 +3,7 @@
 This repository contains the solutions to problems done from various resources for the upcoming interviews.
 
 ## Array
-- [x] [Majority Element - Leetcode]()
+- [x] [Majority Element - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MajorityElement.java)
 - [x] [Celebrity Problem - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CelebrityFinder.java)
 - [x] [Find Missing Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MissingNumber.java)
 - [x] [First Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstMissingPositive.java)
@@ -71,6 +71,43 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Contiguous Array of 0 and 1 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContiguousArray.java)
 - [ ] Substring with Concatenation of all words
 - [ ] Fruits into Baskets
+
+## Divide and Conquer
+- [x] [Reverse Pairs - Leetcode]()
+
+
+### Binary Search
+- [x] [Binary Search - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BinarySearch.java)
+- [x] [Two Sum on a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumII.java)
+- [x] [Play the Guessing Game - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GuessingGame.java)
+- [x] [Median of two Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MedianOfTwoSortedArray.java)
+- [x] [Order Agnostic Binary Search](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/OrderAgnosticBinarySearch.java)
+- [x] [First and Last Position of an Element in a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstAndLastPositionOfAnElement.java)
+- [x] [Find the count of an element in a Sorted Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/NumberOfOccurrencesInASortedArray.java)
+- [x] [Find minimum in a Rotated Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumInRotatedSortedArray.java)
+- [x] [Find minimum in a Rotated Sorted Array with duplicate numbers - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumRotatedSortedArrayWithDuplicates.java)
+- [x] [Search in a Rotated Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInRotatedSortedArray.java)
+- [x] [Search in a Rotated Sorted Array with Duplicates - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInRotatedSortedArrayWithDuplicates.java)
+- [x] [Search in an Infinite Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInInfiniteArray.java)
+- [x] [Find element in an Almost Sorted Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/FindElementInAlmostSortedArray.java)
+- [x] [Find the Ceil of a number in a sorted array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInsertPosition.java)
+- [x] [Sqrt of a number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SqrtOfNumber.java)
+- [x] [Find the smallest next letter greater than the target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextLetterGreaterThanTarget.java)
+- [x] [First Bad Version - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstBadVersion.java)
+- [x] [Minimum Difference element in a sorted array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/MinimumDifferenceElement.java)
+- [x] [Peak Element - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PeakElement.java)
+- [x] [Find Maximum in a Bitonic Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/MaximumInBitonicArray.java)
+- [x] [Search in a Bitonic array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/SearchInABitonicArray.java)
+- [x] [Find in Mountain Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FindInMountainArray.java)
+- [x] [Search in a Matrix Sorted Row-wise and Column-wise - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInMatrixSortedRowiseColumnwise.java)
+- [x] [Search in a Matrix Sorted Row-wise and 1st number of a row is greater than the last number of the previous row - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInMatrixSortedRowiseIncreasingOrder.java)
+- [x] [Find kth smallest element in a sorted matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthSmallestElementInSortedMatrix.java)
+- [x] [Find Single Element in a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SingleElementInSortedArray.java)
+- [x] [Build a weighted sampler API - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RandomPickWithWeight.java)
+- [x] [Timestamp based Key Value Storage - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TimeBasedKeyValueStorage.java)
+- [x] [Kth Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthMissingPositiveNumber.java)
+- [x] [Find K closest elements to a number in a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KClosestElementsToXInSortedArray.java)
+
 
 ## Linked List
 - [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
@@ -187,34 +224,3 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximize Capital for an IPO - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IPO.java)
 - [x] [Find Right Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FindRightInterval.java)
 
-## Binary Search
-- [x] [Binary Search - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BinarySearch.java)
-- [x] [Two Sum on a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumII.java)
-- [x] [Play the Guessing Game - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GuessingGame.java)
-- [x] [Median of two Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MedianOfTwoSortedArray.java)
-- [x] [Order Agnostic Binary Search](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/OrderAgnosticBinarySearch.java)
-- [x] [First and Last Position of an Element in a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstAndLastPositionOfAnElement.java)
-- [x] [Find the count of an element in a Sorted Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/NumberOfOccurrencesInASortedArray.java)
-- [x] [Find minimum in a Rotated Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumInRotatedSortedArray.java)
-- [x] [Find minimum in a Rotated Sorted Array with duplicate numbers - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumRotatedSortedArrayWithDuplicates.java)
-- [x] [Search in a Rotated Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInRotatedSortedArray.java)
-- [x] [Search in a Rotated Sorted Array with Duplicates - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInRotatedSortedArrayWithDuplicates.java)
-- [x] [Search in an Infinite Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInInfiniteArray.java)
-- [x] [Find element in an Almost Sorted Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/FindElementInAlmostSortedArray.java)
-- [x] [Find the Ceil of a number in a sorted array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInsertPosition.java)
-- [x] [Sqrt of a number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SqrtOfNumber.java)
-- [x] [Find the smallest next letter greater than the target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextLetterGreaterThanTarget.java)
-- [x] [First Bad Version - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstBadVersion.java)
-- [x] [Minimum Difference element in a sorted array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/MinimumDifferenceElement.java)
-- [x] [Peak Element - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PeakElement.java)
-- [x] [Find Maximum in a Bitonic Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/MaximumInBitonicArray.java)
-- [x] [Search in a Bitonic array](https://github.com/kalpak92/TechInterview2020/blob/master/src/BinarySearch/SearchInABitonicArray.java)
-- [x] [Find in Mountain Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FindInMountainArray.java)
-- [x] [Search in a Matrix Sorted Row-wise and Column-wise - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInMatrixSortedRowiseColumnwise.java)
-- [x] [Search in a Matrix Sorted Row-wise and 1st number of a row is greater than the last number of the previous row - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SearchInMatrixSortedRowiseIncreasingOrder.java)
-- [x] [Find kth smallest element in a sorted matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthSmallestElementInSortedMatrix.java)
-- [x] [Find Single Element in a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SingleElementInSortedArray.java)
-- [x] [Build a weighted sampler API - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RandomPickWithWeight.java)
-- [x] [Timestamp based Key Value Storage - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TimeBasedKeyValueStorage.java)
-- [x] [Kth Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthMissingPositiveNumber.java)
-- [x] [Find K closest elements to a number in a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KClosestElementsToXInSortedArray.java)
