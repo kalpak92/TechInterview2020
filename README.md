@@ -183,16 +183,6 @@ This repository contains the solutions to problems done from various resources f
 - [ ] [High Five]()
 - [ ] [Design a LeaderBoard]()
 
-## Merge Intervals
-- [x] [Merge Intervals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeIntervals.java)
-- [x] [Insert Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InsertInterval.java)
-- [x] [Interval List Intersection - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IntervalListIntersection.java)
-- [x] [Meeting Rooms - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConflictingAppointments.java)
-- [x] [Meeting Rooms II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfMeetingRoomsNeeded.java)
-- [x] [Meeting Scheduler - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MeetingScheduler.java)
-- [x] [Maximum CPU Load at any point of time](https://github.com/kalpak92/TechInterview2020/blob/master/src/Heap/MaxCPULoad.java)
-- [x] [Partition Label - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionLabels.java)
-
 
 ## Heaps
 - [x] [Kth largest element in an array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthLargestElement.java)
@@ -224,3 +214,12 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximize Capital for an IPO - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IPO.java)
 - [x] [Find Right Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FindRightInterval.java)
 
+## Merge Intervals
+- [x] [Merge Intervals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeIntervals.java)
+- [x] [Insert Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InsertInterval.java)
+- [x] [Interval List Intersection - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IntervalListIntersection.java)
+- [x] [Meeting Rooms - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConflictingAppointments.java)
+- [x] [Meeting Rooms II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfMeetingRoomsNeeded.java)
+- [x] [Meeting Scheduler - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MeetingScheduler.java)
+- [x] [Maximum CPU Load at any point of time](https://github.com/kalpak92/TechInterview2020/blob/master/src/Heap/MaxCPULoad.java)
+- [x] [Partition Label - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionLabels.java)
