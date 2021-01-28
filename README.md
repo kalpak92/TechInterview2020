@@ -73,6 +73,7 @@ This repository contains the solutions to problems done from various resources f
 - [ ] Fruits into Baskets
 
 ## Divide and Conquer
+- [x] [Global and Local Inversions - Leetcode]()
 - [x] [Reverse Pairs - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReversePairs.java)
 
 
