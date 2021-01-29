@@ -40,6 +40,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Three Sum closest to a target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ThreeSumClosest.java)
 - [x] [Number of Three Sum triplets lesser than a target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ThreeSumTripletSmallerThanTarget.java)
 - [x] [Four sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FourSum.java)
+- [x] [Merge Sorted Arrays - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeSortedArrays.java)
 - [x] [Sort Colors - Dutch National Flag - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SortColors.java)
 - [x] [Partition List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionList.java)
 - [x] [Partition Label - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionLabels.java)
@@ -74,7 +75,7 @@ This repository contains the solutions to problems done from various resources f
 
 ## Divide and Conquer
 - [x] [Merge Sort](https://github.com/kalpak92/TechInterview2020/blob/master/src/DivideAndConquer/MergeSort.java)
-- [x] [Merge Sorted Arrays - Leetcode]()
+- [x] [Merge Sorted Arrays - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeSortedArrays.java)
 - [x] [Count the number of inversions](https://github.com/kalpak92/TechInterview2020/blob/master/src/DivideAndConquer/CountNumberOfInversions.java)  
 - [x] [Global and Local Inversions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GlobalAndLocalInversion.java)
 - [x] [Reverse Pairs - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReversePairs.java)
