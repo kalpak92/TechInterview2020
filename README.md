@@ -74,6 +74,7 @@ This repository contains the solutions to problems done from various resources f
 
 ## Divide and Conquer
 - [x] [Merge Sort](https://github.com/kalpak92/TechInterview2020/blob/master/src/DivideAndConquer/MergeSort.java)
+- [x] [Merge Sorted Arrays - Leetcode]()
 - [x] [Count the number of inversions](https://github.com/kalpak92/TechInterview2020/blob/master/src/DivideAndConquer/CountNumberOfInversions.java)  
 - [x] [Global and Local Inversions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GlobalAndLocalInversion.java)
 - [x] [Reverse Pairs - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReversePairs.java)
