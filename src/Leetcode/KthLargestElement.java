@@ -34,6 +34,48 @@ public class KthLargestElement {
         return minHeap.peek();
     }
 
+    public static int findKthLargestUsingQuickSelect(int[] nums, int k) {
+        int left = 0;
+        int right = nums.length - 1;
+        int result = Integer.MIN_VALUE;
+
+        while(true) {
+            int pivot = partition(nums, left, right);
+
+            if(pivot == k - 1) {
+                result = nums[pivot];
+                break;
+            }
+
+            if(pivot < k - 1)
+                left = pivot + 1;
+            else
+                right = pivot - 1;
+        }
+        return result;
+    }
+
+    private static int partition(int[] nums, int start, int end) {
+        int pivot = nums[end];
+        int pIndex = start;
+
+        for(int i = start; i < end; i++) {
+            if(nums[i] >= pivot) {              // Sort in descending order
+                swap(nums, i, pIndex);
+                pIndex++;
+            }
+        }
+
+        swap(nums, end, pIndex);
+        return pIndex;
+    }
+
+    private static void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
+
     public static void main(String[] args) {
         int[] nums = new int[]{3,2,3,1,2,4,5,5,6};
         System.out.println(findKthLargest(nums, 4));
