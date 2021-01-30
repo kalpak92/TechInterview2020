@@ -86,6 +86,9 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Reverse Pairs - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReversePairs.java)
 - [x] [Count of Numbers Smaller than Self - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountOfNumbersSmallerThanSelf.java)
 - [x] [Kth largest element in an array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthLargestElement.java)
+- [x] [K Closest Points to Origin - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KClosestPointsToOrigin.java)
+- [x] [Top K frequent elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TopKFrequentElements.java)
+
 
 ### Binary Search
 - [x] [Binary Search - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BinarySearch.java)
