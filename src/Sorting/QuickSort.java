@@ -13,14 +13,23 @@ public class QuickSort {
         if (nums == null)
             return;
 
-        quickSort(nums, 0, nums.length - 1);
+        // quickSortUsingHoarePartition(nums, 0, nums.length - 1);
+        quickSortUsingLomutoPartition(nums, 0, nums.length - 1);
     }
 
-    public static void quickSort(int[] nums, int left, int right) {
+    private static void quickSortUsingHoarePartition(int[] nums, int left, int right) {
         if(left < right) {
             int pivot = hoarePartition(nums, left, right);
-            quickSort(nums, left, pivot);
-            quickSort(nums, pivot + 1, right);
+            quickSortUsingHoarePartition(nums, left, pivot);
+            quickSortUsingHoarePartition(nums, pivot + 1, right);
+        }
+    }
+
+    private static void quickSortUsingLomutoPartition(int[] nums, int left, int right) {
+        if(left < right) {
+            int pivot = lomutoPartition(nums, left, right);
+            quickSortUsingLomutoPartition(nums, left, pivot - 1);
+            quickSortUsingHoarePartition(nums, pivot + 1, right);
         }
     }
 
@@ -31,7 +40,7 @@ public class QuickSort {
         // elements less than pivot will be pushed to the left of pIndex
         // elements more than pivot will be pushed to the right of pIndex
         // equal elements can go either way
-        int pIndex = start;
+        int pIndex = start;         // Basically has the index of the 1st element greater than the pivot chosen
 
         // each time we finds an element less than or equal to pivot,
         // pIndex is incremented and that element would be placed
