@@ -126,6 +126,7 @@ This repository contains the solutions to problems done from various resources f
 ## Linked List
 - [x] [Add Two Numbers - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AddTwoNumbers.java)
 - [x] [Reverse a Linked List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReverseLinkedList.java)
+- [x] [Reverse Nodes in k group - Leetcode]  
 - [x] [Merge Two Sorted Lists - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeTwoSortedLists.java)
 - [x] [Copy List with Random Pointer - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CopyListWithRandomPointer.java)  
 - [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
