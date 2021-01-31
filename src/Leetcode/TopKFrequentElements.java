@@ -1,8 +1,6 @@
 package Leetcode;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.PriorityQueue;
+import java.util.*;
 
 /**
  * @author kalpak
@@ -114,16 +112,51 @@ public class TopKFrequentElements {
         numberAndCount[j] = temp;
     }
 
-    public static void printArray(int[] nums) {
-        for(int i : nums)
-            System.out.print(i + " ");
+    public static int[] topKFrequentUsingBucketSort(int[] nums, int k) {
+        Map<Integer, Integer> map = new HashMap<>();
+        int[] result = new int[k];
 
-        System.out.println();
+        // Create the frequency map
+        for(int i : nums) {
+            map.put(i, map.getOrDefault(i, 0) + 1);
+        }
+
+        // Buckets based on frequencies
+        // Use a list because there can be multiple numbers of the same frequency
+        List<Integer>[] buckets = new ArrayList[nums.length + 1];
+
+        for(int key : map.keySet()) {
+            if(buckets[map.get(key)] == null)
+                buckets[map.get(key)] = new ArrayList<>();
+
+            buckets[map.get(key)].add(key);
+        }
+
+        // Process the buckets from the highest frequency
+        int resultIdx = 0;
+        for(int i = buckets.length - 1; i >= 0; i--) {
+            if(buckets[i] == null)
+                continue;
+            for(int num : buckets[i]) {
+                result[resultIdx] = num;
+                resultIdx++;
+
+                if(resultIdx == k)
+                    return result;
+            }
+
+        }
+        return result;
     }
+
 
     public static void main(String[] args) {
         int[] arr = new int[]{1,1,1,2,2,3};
-        printArray(topKFrequent(arr, 2));
+        System.out.println(Arrays.toString(topKFrequent(arr, 2)));
+
+        System.out.println(Arrays.toString(topKFrequentUsingQuickSelect(arr, 2)));
+
+        System.out.println(Arrays.toString(topKFrequentUsingBucketSort(arr, 2)));
     }
 }
 
