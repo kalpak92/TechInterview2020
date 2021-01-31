@@ -124,6 +124,7 @@ This repository contains the solutions to problems done from various resources f
 
 
 ## Linked List
+- [x] [Add Two Numbers - Leetcode]()
 - [x] [Merge Two Sorted Lists - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeTwoSortedLists.java)
 - [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
 - [x] [Remove duplicates from Sorted List II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedListII.java)
@@ -156,6 +157,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Asteroid Collision - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AsteroidCollision.java)
 - [x] [Remove all adjacent duplicates in a string- Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveAllAdjacentDuplicatesInString.java)
 - [x] [Remove all adjacent duplicates in a string II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveAllAdjacentDuplicatedInStringII.java)
+
 
 ## Hashing
 
@@ -227,6 +229,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Median of a Data Stream - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DataStreamMedian.java)
 - [x] [Maximize Capital for an IPO - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IPO.java)
 - [x] [Find Right Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FindRightInterval.java)
+
 
 ## Merge Intervals
 - [x] [Merge Intervals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeIntervals.java)
