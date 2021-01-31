@@ -130,7 +130,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Reverse Nodes in k group - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReverseLinkedListInKgroup.java)
 - [x] [Merge Two Sorted Lists - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeTwoSortedLists.java)
 - [x] [Copy List with Random Pointer - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CopyListWithRandomPointer.java)
-- [x] [Rotate a Linked List by k positions - Leetcode]()
+- [x] [Rotate a Linked List by k positions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RotateLinkedList.java)
 - [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
 - [x] [Remove duplicates from Sorted List II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedListII.java)
 
