@@ -134,8 +134,9 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Rotate a Linked List by k positions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RotateLinkedList.java)
 - [x] [Remove duplicates from Sorted List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedList.java)
 - [x] [Remove duplicates from Sorted List II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedListII.java)
+- [x] [Middle of a Linked List - Leetcode]()
 - [x] [Check for Palindrome Linked List = Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PalindromeLinkedList.java)
-- [x] [Sort a Linked List - Leetcode]()
+- [x] [Sort a Linked List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SortALinkedList.java)
 
 ## Stack
 - [x] [Two Sum with a BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumBST.java)
