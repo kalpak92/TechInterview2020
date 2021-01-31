@@ -138,6 +138,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Check for Palindrome Linked List = Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PalindromeLinkedList.java)
 - [x] [Sort a Linked List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SortALinkedList.java)
 - [x] [Reorder a Linked List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReOrderLinkedList.java)
+- [x] [Delete Nth Node from the End of the Linked List - Leetcode]()
 
 ## Stack
 - [x] [Two Sum with a BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumBST.java)
