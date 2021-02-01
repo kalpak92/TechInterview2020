@@ -255,4 +255,7 @@ This repository contains the solutions to problems done from various resources f
 
 ## Recursion
 - [x] [Print Natural Numbers upto N](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/Print1toNUsingRecursion.java)
-- [x] [Print Natural Numbers upto N in reverse order]()
+- [x] [Print Natural Numbers upto N in reverse order](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/PrintNto1UsingRecursion.java)
+
+## Trees
+- [x] [Height of a Binary Tree - Leetcode]()
