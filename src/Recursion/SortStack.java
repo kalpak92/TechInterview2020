@@ -1,4 +1,4 @@
-package Leetcode;
+package Recursion;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
