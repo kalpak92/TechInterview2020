@@ -34,7 +34,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Two Sum Less than K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumLessThanK.java)
 - [x] [Two Sum with a BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumBST.java)
 - [x] [Two Sum with Two BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumTwoBST.java)
-- [x] [Pair of Songs with Total Duration divisible by 60 - Leetcode]()  
+- [x] [Pair of Songs with Total Duration divisible by 60 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PairOfSongsWithGivenTotalDuration.java)  
 - [x] [Next Greater Element 3 - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextGreaterPermutation.java)
 - [x] [Container with Most Water - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ContainerWithMostWater.java)
 - [x] [Squares of a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SquaresOfSortedArray.java)
@@ -124,7 +124,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Kth Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthMissingPositiveNumber.java)
 - [x] [Find K closest elements to a number in a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KClosestElementsToXInSortedArray.java)
 
-
 ## Linked List
 - [x] [Add Two Numbers - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AddTwoNumbers.java)
 - [x] [Add Two Numbers, where numbers are given from MSB to LSB - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AddTwoNumbersMSBToLSB.java)
@@ -145,7 +144,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Sort a Linked List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SortALinkedList.java)
 - [x] [Reorder a Linked List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReOrderLinkedList.java)
 - [x] [Delete Nth Node from the End of the Linked List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveNthNodeFromEnd.java)
-
 
 ## Stack
 - [x] [Two Sum with a BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoSumBST.java)
@@ -174,7 +172,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Asteroid Collision - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AsteroidCollision.java)
 - [x] [Remove all adjacent duplicates in a string- Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveAllAdjacentDuplicatesInString.java)
 - [x] [Remove all adjacent duplicates in a string II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveAllAdjacentDuplicatedInStringII.java)
-
 
 ## Hashing
 
@@ -216,7 +213,6 @@ This repository contains the solutions to problems done from various resources f
 - [ ] [High Five]()
 - [ ] [Design a LeaderBoard]()
 
-
 ## Heaps
 - [x] [Kth largest element in an array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthLargestElement.java)
 - [x] [Sort an almost Sorted Array](https://github.com/kalpak92/TechInterview2020/blob/master/src/Heap/SortNearlySortedArray.java)
@@ -247,7 +243,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximize Capital for an IPO - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IPO.java)
 - [x] [Find Right Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FindRightInterval.java)
 
-
 ## Merge Intervals
 - [x] [Merge Intervals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeIntervals.java)
 - [x] [Insert Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InsertInterval.java)
@@ -257,3 +252,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Meeting Scheduler - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MeetingScheduler.java)
 - [x] [Maximum CPU Load at any point of time](https://github.com/kalpak92/TechInterview2020/blob/master/src/Heap/MaxCPULoad.java)
 - [x] [Partition Label - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionLabels.java)
+
+## Recursion
+- [x] [Print Natural Numbers upto N]()
