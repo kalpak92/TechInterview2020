@@ -254,4 +254,5 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Partition Label - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionLabels.java)
 
 ## Recursion
-- [x] [Print Natural Numbers upto N]()
+- [x] [Print Natural Numbers upto N](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/Print1toNUsingRecursion.java)
+- [x] [Print Natural Numbers upto N in reverse order]()
