@@ -15,19 +15,22 @@ public class SortStack {
         if(stack.isEmpty())
             return stack;
 
-        int temp = stack.poll();
+        int temp = stack.poll(); // store the top element
 
-        stack = sortStack(stack);
-        insertElement(stack, temp);
+        stack = sortStack(stack);  // recursively call the sort function on the remaining stack
+        insertElement(stack, temp); // insert the element at the correct position
+
         return stack;
     }
 
     private static Deque<Integer> insertElement(Deque<Integer> stack, int element) {
+        // push the element if the top is smaller than the element to be inserted
         if (stack.isEmpty() || stack.peek() < element) {
             stack.push(element);
             return stack;
         }
 
+        // Recursively store the top element and try to insert the element in the remaining stack
         int top = stack.poll();
         stack = insertElement(stack, element);
         stack.push(top);
