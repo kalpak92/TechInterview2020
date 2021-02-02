@@ -267,4 +267,5 @@ This repository contains the solutions to problems done from various resources f
 ## Subsets
 - [x] [Subsets of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfUniqueElements.java)
 - [x] [Subsets of all numbers with duplicates - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfElementsWithDuplicates.java)
-- [x] [Permutation of all given unique elements - Leetcode]()
+- [x] [Permutation of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PermutationOfUniqueElements.java)
+- [x] [Permutation of all given numbers that may contain duplicates - Leetcode]()
