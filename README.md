@@ -265,4 +265,5 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Height of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HeightOfBinaryTree.java)
 
 ## Subsets
--[x] [Subsets of all given unique elements - Leetcode]()
+- [x] [Subsets of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfUniqueElements.java)
+- [x] [Subsets of all numbers with duplicates - Leetcode]()
