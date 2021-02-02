@@ -17,6 +17,7 @@ public class ReverseStack {
 
         int temp = stack.poll();
         stack = reverseStack(stack);
+
         insertElement(stack, temp);
 
         return stack;
@@ -28,7 +29,7 @@ public class ReverseStack {
             return stack;
         }
 
-        // Recursively store the top element and try to insert the element in the remaining stack
+        // Recursively store the top element and try to insert the element in the remaining stack to change the order
         int top = stack.poll();
         stack = insertElement(stack, element);
         stack.push(top);

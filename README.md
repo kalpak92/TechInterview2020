@@ -258,7 +258,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Print Natural Numbers upto N in reverse order](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/PrintNto1UsingRecursion.java)
 - [x] [Sort a Stack](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/SortStack.java)
 - [x] [Delete middle element of a stack](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/DeleteMiddleElementOfStack.java)
-- [x] [Reverse a Stack without extra memory]()
+- [x] [Reverse a Stack without extra memory](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/ReverseStack.java)
 
 ## Trees
 - [x] [Height of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HeightOfBinaryTree.java)

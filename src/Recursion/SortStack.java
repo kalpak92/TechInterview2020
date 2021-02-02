@@ -45,7 +45,8 @@ public class SortStack {
         stack.push(4);
         stack.push(6);
 
+        System.out.println("Before Sorting: " + stack);
         stack = sortStack(stack);
-        System.out.println(stack);
+        System.out.println("After Sorting: " + stack);
     }
 }
