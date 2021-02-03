@@ -276,4 +276,5 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Word Search - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordSearch.java)
 - [x] [Combination Sum with elements allowed to be reused - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CombinationSum.java)
 - [x] [Combination Sum with no reuse of elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CombinationSumII.java)
-- [x] [Word Break II - Leetcode]()
+- [x] [Word Break II : Give all possible sentences that can be constructed- Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordBreakII.java)
+- [x] [Design a Add and Search words Data Structure - Leetcode]()
