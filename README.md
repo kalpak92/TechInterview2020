@@ -279,5 +279,5 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Combination Sum with no reuse of elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CombinationSumII.java)
 - [x] [Word Break II : Give all possible sentences that can be constructed- Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordBreakII.java)
 - [x] [Design a Add and Search words Data Structure - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DesignAddSearchWordsDictionary.java)
-- [x] [Restore IP Address - Leetcode]()
+- [x] [Restore IP Address - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RestoreIPAddress.java)
 - [x] [Sudoku Solver - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SudokuSolver.java)
