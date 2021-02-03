@@ -271,6 +271,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Permutation of all given numbers that may contain duplicates - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PermutationOfElementsWithDuplicates.java)
 - [x] [Letter Case Permutation - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LetterCasePermutation.java)
 - [x] [Generate all combinations of parenthesis - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GenerateAllParenthesis.java)
+- [x] [All Paths from Source to Target - Leetcode]()
 - [x] [Generalized Abbreviation - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GeneralizedAbbreviation.java)
 - [x] [Letter Combination of a Phone Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LetterCombinationsOfPhoneNumber.java)
 - [x] [Word Search - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordSearch.java)
@@ -278,4 +279,4 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Combination Sum with no reuse of elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CombinationSumII.java)
 - [x] [Word Break II : Give all possible sentences that can be constructed- Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordBreakII.java)
 - [x] [Design a Add and Search words Data Structure - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DesignAddSearchWordsDictionary.java)
-- [x] [Sudoku Solver - Leetcode]()
+- [x] [Sudoku Solver - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SudokuSolver.java)
