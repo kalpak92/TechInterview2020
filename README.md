@@ -79,7 +79,7 @@ This repository contains the solutions to problems done from various resources f
 - [ ] Fruits into Baskets
 
 ### String
-- [x] [Consecutive occurence of characters in a string]()
+- [x] [Consecutive occurence of characters in a string](https://github.com/kalpak92/TechInterview2020/blob/master/src/String/ConsecutiveOccurenceOfCharacters.java)
 
 ## Divide and Conquer
 - [x] [Merge Sort](https://github.com/kalpak92/TechInterview2020/blob/master/src/DivideAndConquer/MergeSort.java)
