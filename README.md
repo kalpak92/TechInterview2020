@@ -285,4 +285,5 @@ This repository contains the solutions to problems done from various resources f
 
 
 ## Dynamic Programming
-- [x] [Unique PathsII - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePathsII.java)
+- [x] [Unique Paths : Basic - Leetcode]()
+- [x] [Unique PathsII : with obstacles in the grid - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePathsII.java)
