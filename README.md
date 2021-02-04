@@ -78,6 +78,9 @@ This repository contains the solutions to problems done from various resources f
 - [ ] Substring with Concatenation of all words
 - [ ] Fruits into Baskets
 
+### String
+- [x] [Consecutive occurence of characters in a string]()
+
 ## Divide and Conquer
 - [x] [Merge Sort](https://github.com/kalpak92/TechInterview2020/blob/master/src/DivideAndConquer/MergeSort.java)
 - [x] [Merge Sorted Arrays - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeSortedArrays.java)
@@ -285,5 +288,5 @@ This repository contains the solutions to problems done from various resources f
 
 
 ## Dynamic Programming
-- [x] [Unique Paths : Basic - Leetcode]()
+- [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
 - [x] [Unique PathsII : with obstacles in the grid - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePathsII.java)
