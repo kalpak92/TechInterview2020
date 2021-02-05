@@ -274,7 +274,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Connect Siblings in a level of a Perfect Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConnectNextRightNodes.java)  
 - [x] [Find Maximum in each level of a binary tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumInEachRowOfBinaryTree.java)
 - [x] [Maximum width of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumWidthBinaryTree.java)
-- [x] [Even Odd Tree - Leetcode]()
+- [x] [Even Odd Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EvenOddTree.java)
 - [x] [Height of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HeightOfBinaryTree.java)
 
 ## Subsets and Backtracking
