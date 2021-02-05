@@ -266,7 +266,8 @@ This repository contains the solutions to problems done from various resources f
 
 ## Trees
 - [x] [Binary Tree Level Order Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LevelOrderTraversalBinaryTree.java)
-- [x] [Binary Tree Reverse Level Order Traversal - Leetcode]()  
+- [x] [Binary Tree Reverse Level Order Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReverseLevelOrderTraversal.java)
+- [x] [Binary Tree Zigzag Level Order Traversal - Leetcode]()  
 - [x] [Height of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HeightOfBinaryTree.java)
 
 ## Subsets and Backtracking
