@@ -272,7 +272,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimum Depth of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDepthOfBinaryTree.java)
 - [x] [Right Side View of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RightSideViewBinaryTree.java)
 - [x] [Connect Next Right Nodes in a level of a Perfect Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConnectNextRightNodes.java)  
-- [x] [Find Maximum in each level of a binary tree - Leetcode]()
+- [x] [Find Maximum in each level of a binary tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumInEachRowOfBinaryTree.java)
 
 - [x] [Height of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HeightOfBinaryTree.java)
 
