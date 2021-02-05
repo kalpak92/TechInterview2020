@@ -68,6 +68,29 @@ public class ConnectNextRightNodes {
         return root;
     }
 
+    public static TreeNodeWithNext connectRecursive(TreeNodeWithNext root) {
+        doConnection(root);
+        return root;
+    }
+
+    private static void doConnection(TreeNodeWithNext root) {
+        // base case
+        if(root == null || root.left == null)
+            return;
+
+        // At every step, connect the child nodes and recurse
+        // Connect the left child to the right child
+        root.left.next = root.right;
+
+        if(root.next != null) { // this means the current level has at least two nodes
+            root.right.next = root.next.left;
+        }
+
+        // recurse
+        doConnection(root.left);
+        doConnection(root.right);
+    }
+
     public static void main(String[] args) {
         TreeNodeWithNext root = new TreeNodeWithNext(12);
 
@@ -81,5 +104,6 @@ public class ConnectNextRightNodes {
         root.right.right = new TreeNodeWithNext(5);
 
         TreeNodeWithNext result = connect(root);
+        TreeNodeWithNext resultRecursive = connectRecursive(root);
     }
 }
