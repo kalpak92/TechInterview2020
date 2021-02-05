@@ -270,7 +270,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Binary Tree Zigzag Level Order Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ZigzagLevelOrderTraversalBinaryTree.java)  
 - [x] [Average of Levels in Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LevelAverageBinaryTree.java)
 - [x] [Minimum Depth of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDepthOfBinaryTree.java)
-- [x] [Right Side View of a Binary Tree - Leetcode]()  
+- [x] [Right Side View of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RightSideViewBinaryTree.java)
+- [x] [Connect Next Right Nodes in a level of a Binary Tree - Leetcode]()  
 - [x] [Height of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HeightOfBinaryTree.java)
 
 ## Subsets and Backtracking
