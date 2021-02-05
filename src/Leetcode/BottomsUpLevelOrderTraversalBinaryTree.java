@@ -25,7 +25,7 @@ import java.util.List;
  * ]
  *
  */
-public class ReverseLevelOrderTraversal {
+public class BottomsUpLevelOrderTraversalBinaryTree {
     public static List<List<Integer>> levelOrderBottom(TreeNode root) {
         List<List<Integer>> result = new ArrayList<>();
         Deque<TreeNode> queue = new LinkedList<>();
