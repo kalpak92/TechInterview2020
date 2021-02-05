@@ -265,6 +265,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Kth Symbol in Grammar - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthSymbolInGrammar.java)
 
 ## Trees
+
+### BFS on Trees
 - [x] [Binary Tree Level Order Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LevelOrderTraversalBinaryTree.java)
 - [x] [Binary Tree Bottom Up Level Order Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BottomsUpLevelOrderTraversalBinaryTree.java)
 - [x] [Binary Tree Zigzag Level Order Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ZigzagLevelOrderTraversalBinaryTree.java)  
@@ -275,7 +277,10 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find Maximum in each level of a binary tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumInEachRowOfBinaryTree.java)
 - [x] [Maximum width of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumWidthBinaryTree.java)
 - [x] [Even Odd Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EvenOddTree.java)
+
+### DFS on Trees
 - [x] [Height of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HeightOfBinaryTree.java)
+- [x] [Path Sum : Check if a path with given sum exists - Leetcode]()
 
 ## Subsets and Backtracking
 - [x] [Subsets of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfUniqueElements.java)
