@@ -288,6 +288,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Sum of Path as Numbers - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SumOfPathNumbers.java)
 - [x] [Maximum Path Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumPathSumBinaryTree.java)
 - [x] [Diameter of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DiameterOfATree.java)
+- [x] [Boundary of a Binary Tree - Leetcode]()
 
 ## Subsets and Backtracking
 - [x] [Subsets of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfUniqueElements.java)
