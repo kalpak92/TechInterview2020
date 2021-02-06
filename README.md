@@ -281,6 +281,8 @@ This repository contains the solutions to problems done from various resources f
 ### DFS on Trees
 - [x] [Height of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HeightOfBinaryTree.java)
 - [x] [Path Sum : Check if a path with given sum exists - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PathSum.java)
+- [x] [Path Sum II : Return all paths with given sum - Leetcode]()
+
 
 ## Subsets and Backtracking
 - [x] [Subsets of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfUniqueElements.java)
