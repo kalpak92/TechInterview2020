@@ -299,9 +299,10 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Lowest Common Ancestor of Binary Tree with Parent Connection - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LCAwithParentConnectionInBinaryTree.java)
 - [x] [Serialize and Deserialize a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SerializeDeserializeBinaryTree.java)
 - [x] [Find duplicate subtrees - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CheckSubtree.java)
-- [x] [Maximum Average Subtree - Leetcode]()
+- [x] [Maximum Average Subtree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumAverageSubtree.java)
 - [x] [All nodes at distance K in a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AllNodesAtKDistanceBinaryTree.java)
 - [x] [Distribute Coins in Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DistributeCoinsInBinaryTree.java)
+
 
 ## Subsets and Backtracking
 - [x] [Subsets of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfUniqueElements.java)
