@@ -268,6 +268,7 @@ This repository contains the solutions to problems done from various resources f
 
 ### BFS on Trees
 - [x] [Binary Tree Level Order Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LevelOrderTraversalBinaryTree.java)
+- [x] [Invert a Binary Tree - Leetcode]()
 - [x] [Binary Tree Bottom Up Level Order Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BottomsUpLevelOrderTraversalBinaryTree.java)
 - [x] [Binary Tree Zigzag Level Order Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ZigzagLevelOrderTraversalBinaryTree.java)  
 - [x] [Average of Levels in Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LevelAverageBinaryTree.java)
@@ -292,6 +293,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Check of Same Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SameTree.java)
 - [x] [Check subtree of another tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CheckSubtree.java)
 - [x] [Check for Symmetric Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SymmetricTree.java)
+- [x] [Invert a Binary Tree - Leetcode]()
 
 ## Subsets and Backtracking
 - [x] [Subsets of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfUniqueElements.java)
