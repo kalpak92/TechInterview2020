@@ -143,6 +143,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Odd Even Linked List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/OddEvenLinkedList.java)
 - [x] [Detect a Cycle in a Linked List and return its starting point - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LinkedListCycle.java)
 - [x] [Middle of a Linked List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MiddleOfLinkedList.java)
+- [x] [Intersection of Two LinkedList - Leetcode]()
 - [x] [Check for Palindrome Linked List = Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PalindromeLinkedList.java)
 - [x] [Sort a Linked List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SortALinkedList.java)
 - [x] [Reorder a Linked List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReOrderLinkedList.java)
@@ -294,7 +295,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Check subtree of another tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CheckSubtree.java)
 - [x] [Check for Symmetric Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SymmetricTree.java)
 - [x] [Invert a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InvertBinaryTree.java)
-- [x] [Lowest Common Ancestor of Binary Tree - Leetcode]()
+- [x] [Lowest Common Ancestor of Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LCABinaryTree.java)
+
 
 ## Subsets and Backtracking
 - [x] [Subsets of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfUniqueElements.java)
