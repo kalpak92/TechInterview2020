@@ -291,14 +291,19 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Path Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumPathSumBinaryTree.java)
 - [x] [Diameter of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DiameterOfATree.java)
 - [x] [Boundary of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BoundaryOfBinaryTree.java)
+- [x] [Vertical Order Traversal of a Binary Tree - Leetcode]()
+  
 - [x] [Check of Same Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SameTree.java)
 - [x] [Check subtree of another tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CheckSubtree.java)
 - [x] [Check for Symmetric Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SymmetricTree.java)
 - [x] [Invert a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InvertBinaryTree.java)
+
 - [x] [Lowest Common Ancestor of Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LCABinaryTree.java)
 - [x] [Lowest Common Ancestor of Binary Tree with Parent Connection - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LCAwithParentConnectionInBinaryTree.java)
+
 - [x] [Serialize and Deserialize a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SerializeDeserializeBinaryTree.java)
 - [x] [Find duplicate subtrees - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CheckSubtree.java)
+
 - [x] [Maximum Average Subtree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumAverageSubtree.java)
 - [x] [All nodes at distance K in a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AllNodesAtKDistanceBinaryTree.java)
 - [x] [Distribute Coins in Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DistributeCoinsInBinaryTree.java)
