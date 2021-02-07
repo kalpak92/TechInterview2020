@@ -297,7 +297,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Invert a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InvertBinaryTree.java)
 - [x] [Lowest Common Ancestor of Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LCABinaryTree.java)
 - [x] [Lowest Common Ancestor of Binary Tree with Parent Connection - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LCAwithParentConnectionInBinaryTree.java)
-- [x] [Serialize and Deserialize a Binary Tree - Leetcode]()
+- [x] [Serialize and Deserialize a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SerializeDeserializeBinaryTree.java)
+- [x] [Find duplicate subtrees - Leetcode]()
 
 ## Subsets and Backtracking
 - [x] [Subsets of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfUniqueElements.java)
