@@ -291,7 +291,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Boundary of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BoundaryOfBinaryTree.java)
 - [x] [Check of Same Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SameTree.java)
 - [x] [Check subtree of another tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CheckSubtree.java)
-- [x] [Check for Symmetric Tree - Leetcode]()
+- [x] [Check for Symmetric Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SymmetricTree.java)
 
 ## Subsets and Backtracking
 - [x] [Subsets of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfUniqueElements.java)
