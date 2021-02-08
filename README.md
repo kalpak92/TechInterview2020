@@ -313,7 +313,8 @@ This repository contains the solutions to problems done from various resources f
 
 ### Binary Search Trees
 - [x] [Validate Binary Search Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ValidateBST.java)
-- [x] [Binary Search Tree Iterator - Leetcode]()
+- [x] [Binary Search Tree Iterator - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BSTIterator.java)
+- [x] [Closest Value to target in BST - Leetcode]()
 
 ## Subsets and Backtracking
 - [x] [Subsets of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfUniqueElements.java)
