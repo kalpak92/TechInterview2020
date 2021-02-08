@@ -312,8 +312,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Distribute Coins in Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DistributeCoinsInBinaryTree.java)
 
 ### Binary Search Trees
-- [x] [Validate Binary Search Tree]()
-
+- [x] [Validate Binary Search Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ValidateBST.java)
+- [x] [Binary Search Tree Iterator - Leetcode]()
 
 ## Subsets and Backtracking
 - [x] [Subsets of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfUniqueElements.java)
