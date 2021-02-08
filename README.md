@@ -291,9 +291,10 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Path Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumPathSumBinaryTree.java)
 - [x] [Diameter of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DiameterOfATree.java)
 - [x] [Boundary of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BoundaryOfBinaryTree.java)
-- [x] [Vertical Order Traversal of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/VerticalOrderTraversalBinaryTree.java)
 
-- [x] [Construct Binary Tree from Preorder and Inorder Traversal - Leetcode]()
+- [x] [Binary Tree Inorder Traversal - Leetcode]()
+- [x] [Construct Binary Tree from Preorder and Inorder Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConstructBinaryTreeFromPreorderInorderTraversal.java)
+- [x] [Vertical Order Traversal of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/VerticalOrderTraversalBinaryTree.java)
   
 - [x] [Check of Same Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SameTree.java)
 - [x] [Check subtree of another tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CheckSubtree.java)
@@ -309,6 +310,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Average Subtree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumAverageSubtree.java)
 - [x] [All nodes at distance K in a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AllNodesAtKDistanceBinaryTree.java)
 - [x] [Distribute Coins in Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DistributeCoinsInBinaryTree.java)
+
 
 
 ## Subsets and Backtracking
