@@ -311,6 +311,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [All nodes at distance K in a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AllNodesAtKDistanceBinaryTree.java)
 - [x] [Distribute Coins in Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DistributeCoinsInBinaryTree.java)
 
+### Binary Search Trees
+- [x] [Validate Binary Search Tree]()
 
 
 ## Subsets and Backtracking
