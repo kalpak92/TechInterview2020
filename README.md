@@ -292,7 +292,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Diameter of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DiameterOfATree.java)
 - [x] [Boundary of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BoundaryOfBinaryTree.java)
 
-- [x] [Binary Tree Inorder Traversal - Leetcode]()
+- [x] [Binary Tree Inorder Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InorderTraversalBinaryTree.java)
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConstructBinaryTreeFromPreorderInorderTraversal.java)
 - [x] [Vertical Order Traversal of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/VerticalOrderTraversalBinaryTree.java)
   

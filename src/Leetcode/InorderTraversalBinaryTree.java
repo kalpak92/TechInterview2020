@@ -1,6 +1,8 @@
 package Leetcode;
 
+import java.util.ArrayDeque;
 import java.util.ArrayList;
+import java.util.Deque;
 import java.util.List;
 
 /**
@@ -64,11 +66,34 @@ public class InorderTraversalBinaryTree {
         return;
     }
 
+    public static List<Integer> inorderTraversalIterative(TreeNode root) {
+        List<Integer> result = new ArrayList<>();
+        Deque<TreeNode> stack = new ArrayDeque<>();
+
+        if(root == null)
+            return result;
+
+        TreeNode current = root;
+
+        while(current != null || !stack.isEmpty()) {
+            while(current != null) {
+                stack.push(current);
+                current = current.left;
+            }
+
+            current = stack.pop();
+            result.add(current.val);
+            current = current.right;
+        }
+        return result;
+    }
+
     public static void main(String[] args) {
         TreeNode root = new TreeNode(1);
         root.right = new TreeNode(2);
         root.right.left = new TreeNode(3);
 
         System.out.println(inorderTraversal(root));
+        System.out.println(inorderTraversalIterative(root));
     }
 }
