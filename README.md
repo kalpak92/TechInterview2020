@@ -308,7 +308,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Binary Tree Cameras - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BinaryTreeCameras.java)
 
 ### Binary Search Trees
-- [x] [Insert into a Binary Search Tree - Leetcode]()
+- [x] [Insert into a Binary Search Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InsertIntoBST.java)
 - [x] [Validate Binary Search Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ValidateBST.java)
 - [x] [Binary Search Tree Iterator - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BSTIterator.java)
 - [x] [Range sum BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RangeSumBST.java)  
@@ -334,6 +334,9 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Restore IP Address - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RestoreIPAddress.java)
 - [x] [Number of unique paths from start to end, visiting every non-blocking cell - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePathsIII.java)  
 - [x] [Sudoku Solver - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SudokuSolver.java)
+
+## Graphs
+- [x] [Graph Adjacency List Representation]()
 
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
