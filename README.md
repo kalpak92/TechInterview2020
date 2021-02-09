@@ -314,6 +314,7 @@ This repository contains the solutions to problems done from various resources f
 ### Binary Search Trees
 - [x] [Validate Binary Search Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ValidateBST.java)
 - [x] [Binary Search Tree Iterator - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BSTIterator.java)
+- [x] [Range sum BST - Leetcode]()  
 - [x] [Closest Value to target in BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ClosestValueInBST.java)
 - [x] [Convert a BST to Sorted Circular DLL - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BSTtoCircularDLL.java)
 - [x] [Recover Binary Search Tree - Leetcode]()
