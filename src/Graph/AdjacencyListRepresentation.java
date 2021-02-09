@@ -6,7 +6,7 @@ public class AdjacencyListRepresentation {
     int numOfVertex;
     LinkedList<Integer> list[];
 
-    public AdjacencyListRepresentation(int vertex) {
+    public AdjacencyListRepresentation(int numOfVertex) {
         this.numOfVertex = numOfVertex;
 
         // Initialize the adjacency list
@@ -17,7 +17,6 @@ public class AdjacencyListRepresentation {
     }
 
     public void addEdge(int source, int destination){
-
         //add edge
         list[source].addFirst(destination);
 
