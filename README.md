@@ -291,7 +291,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Path Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumPathSumBinaryTree.java)
 - [x] [Diameter of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DiameterOfATree.java)
 - [x] [Boundary of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BoundaryOfBinaryTree.java)
-***  
 - [x] [Binary Tree Inorder Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InorderTraversalBinaryTree.java)
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConstructBinaryTreeFromPreorderInorderTraversal.java)
 - [x] [Vertical Order Traversal of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/VerticalOrderTraversalBinaryTree.java)
@@ -309,6 +308,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Binary Tree Cameras - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BinaryTreeCameras.java)
 
 ### Binary Search Trees
+- [x] [Insert into a Binary Search Tree - Leetcode]()
 - [x] [Validate Binary Search Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ValidateBST.java)
 - [x] [Binary Search Tree Iterator - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BSTIterator.java)
 - [x] [Range sum BST - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RangeSumBST.java)  
