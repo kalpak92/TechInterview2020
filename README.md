@@ -340,7 +340,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Depth First Search Recursive](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/DepthFirstSearchRecursive.java)
 - [x] [Depth First Search Iterative](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/DepthFirstSearchIterative.java)
 - [x] [Count the number of connected components](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/ConnectedComponentsDFS.java)
-- [x] [Number of connected components in an Undirected Graph - Leetcode]()
+- [x] [Number of connected components in an Undirected Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConnectedComponentsUndirectedGraph.java)
+- [x] [Number of Operations to connect the network - Leetcode]()
 
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
