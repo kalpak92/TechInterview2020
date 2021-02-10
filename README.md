@@ -339,7 +339,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Graph Adjacency List Representation](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/AdjacencyListRepresentation.java)
 - [x] [Depth First Search Recursive](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/DepthFirstSearchRecursive.java)
 - [x] [Depth First Search Iterative](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/DepthFirstSearchIterative.java)
-- [x] [Count the number of connected components]()
+- [x] [Count the number of connected components](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/ConnectedComponentsDFS.java)
+- [x] [Number of connected components in an Undirected Graph - Leetcode]()
 
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
