@@ -1,16 +1,16 @@
 package Graph;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.security.spec.RSAOtherPrimeInfo;
+import java.util.*;
 
 /**
  * @author kalpak
  *
- * DFS Traversal on a Graph - Recursive
+ * DFS Traversal on a Graph - Iterative
+ *
  */
-public class DepthFirstSearchRecursive {
+
+public class DepthFirstSearchIterative {
     static class Edge {
         int from, to, cost;
 
@@ -31,20 +31,26 @@ public class DepthFirstSearchRecursive {
         list.add(new Edge(from, to, cost));
     }
 
-    public static void dfsRecursive(int start, boolean[] isVisited, Map<Integer, List<Edge>> graph) {
-        if(isVisited[start])
-            return;
+    public static void dfsIterative(int start, boolean[] isVisited, Map<Integer, List<Edge>> graph) {
+        Deque<Integer> stack = new ArrayDeque<>();
+        stack.push(start);
 
-        isVisited[start] = true;
-        System.out.print(start + " ");
+        while(!stack.isEmpty()) {
+            int currentNode = stack.pop();
+            if (!isVisited[currentNode]) {
+                isVisited[currentNode] = true;
+                System.out.print(currentNode + " ");
 
-        List<Edge> adjacencyList = graph.get(start);
-        if(adjacencyList != null) {
-            for(Edge edge : adjacencyList) {
-                dfsRecursive(edge.to, isVisited, graph);
+                List<Edge> edges = graph.get(currentNode);
+                if (edges != null) {
+                    for (Edge edge : edges) {
+                        if (!isVisited[edge.to]) {
+                            stack.push(edge.to);
+                        }
+                    }
+                }
             }
         }
-        return;
     }
 
     public static void main(String[] args) {
@@ -58,6 +64,6 @@ public class DepthFirstSearchRecursive {
         addDirectedEdge(graph, 2, 3, 1);
         addDirectedEdge(graph, 2, 2, 10); // Self loop
 
-        dfsRecursive(0, new boolean[numNodes], graph);
+        dfsIterative(0, new boolean[numNodes], graph);
     }
 }
