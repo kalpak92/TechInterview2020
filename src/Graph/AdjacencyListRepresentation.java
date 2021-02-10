@@ -2,6 +2,13 @@ package Graph;
 
 import java.util.LinkedList;
 
+/**
+ * @author kalpak
+ *
+ * Adjacency List Representation
+ *
+ */
+
 public class AdjacencyListRepresentation {
     int numOfVertex;
     LinkedList<Integer> list[];

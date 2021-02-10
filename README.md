@@ -337,6 +337,7 @@ This repository contains the solutions to problems done from various resources f
 
 ## Graphs
 - [x] [Graph Adjacency List Representation](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/AdjacencyListRepresentation.java)
+- [x] [Depth First Search Recursive]()
 
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
