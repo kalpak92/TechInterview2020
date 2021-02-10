@@ -47,7 +47,7 @@ public class DepthFirstSearchRecursive {
         return;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         int numNodes = 5;
         Map<Integer, List<Edge>> graph = new HashMap<>();
 
