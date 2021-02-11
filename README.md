@@ -350,7 +350,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Area of an Island - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumAreaOfIsland.java)  
 - [x] [Surrounded Regions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SurroundedRegions.java)
 - [x] [Walls and Gates - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WallsAndGates.java)
-- [x] [Is Graph Bipartite? - Leetcode]()
+- [x] [Is Graph Bipartite? - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BipartiteGraph.java)
+- [x] [Can Split everyone into two groups of any size - Leetcode]()
 
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
