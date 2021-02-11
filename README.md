@@ -16,6 +16,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Sparse Matrix Multiplication - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SparseMatrixMultiplication.java)
 - [x] [Candy Crush - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CandyCrush.java)
 - [x] [Product of Array except Self - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ProductOfArrayExceptSelf.java)
+- [x] [Next Permutation - Leetcode]()
 
 ### Prefix Sum
 
