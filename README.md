@@ -345,7 +345,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Merge Accounts with same email id - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeAccounts.java)
 - [x] [Number of Islands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfIslands.java)
 - [x] [Number of Distinct Islands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfDistinctIslands.java)
-- [x] [Maximum Area of an Island - Leetcode]()  
+- [x] [Maximum Area of an Island - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumAreaOfIsland.java)  
 - [x] [Surrounded Regions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SurroundedRegions.java)
 - [x] [Walls and Gates - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WallsAndGates.java)
 
