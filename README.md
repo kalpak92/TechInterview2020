@@ -342,7 +342,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Depth First Search Iterative](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/DepthFirstSearchIterative.java)
 - [x] [Count the number of connected components](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/ConnectedComponentsDFS.java)
 - [x] [Number of connected components in an Undirected Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConnectedComponentsUndirectedGraph.java)
-- [x] [Graph Valid Tree - Leetcode]()
+- [x] [Graph Valid Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GraphValidTree.java)
 - [x] [Number of Operations to connect the network - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfOperationsToConnectNetwork.java)
 - [x] [Merge Accounts with same email id - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeAccounts.java)
 - [x] [Number of Islands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfIslands.java)
@@ -350,6 +350,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Area of an Island - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumAreaOfIsland.java)  
 - [x] [Surrounded Regions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SurroundedRegions.java)
 - [x] [Walls and Gates - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WallsAndGates.java)
+- [x] [Is Graph Bipartite? - Leetcode]()
 
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
