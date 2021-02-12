@@ -299,6 +299,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Check of Same Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SameTree.java)
 - [x] [Check subtree of another tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CheckSubtree.java)
 - [x] [Count univalue subtrees - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountUnivalueSubtrees.java)
+- [x] [Calcuate Size of Subtree]()
 - [x] [Check for Symmetric Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SymmetricTree.java)
 - [x] [Invert a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InvertBinaryTree.java)
 - [x] [Lowest Common Ancestor of Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LCABinaryTree.java)
