@@ -2,43 +2,39 @@ package Graph;
 
 import java.util.*;
 
-public class BreadthFirstSearchRecursive {
+public class BreadthFirstSearchIterative {
     // Helper method to setup graph
     private static void addUndirectedEdge(List<List<Integer>> graph, int from, int to) {
         graph.get(from).add(to);
         graph.get(to).add(from);
     }
 
-    public static void bfsRecursive(List<List<Integer>> graph, Deque<Integer> queue, boolean[] isVisited, int[] distance) {
-        int currentNode = queue.poll();
+    public static void bfsIterative(List<List<Integer>> graph, Deque<Integer> queue, boolean[] isVisited, int[] distance) {
+        while(!queue.isEmpty()) {
+            int currentNode = queue.poll();
 
-        // This node is already visited.
-        if (isVisited[currentNode])
-            return;
+            // This node is already visited.
+            if (isVisited[currentNode])
+                continue;
 
-        // Visit this node.
-        isVisited[currentNode] = true;
+            // Visit this node.
+            isVisited[currentNode] = true;
 
-        // Add all neighbors to queue.
-        List<Integer> neighbors = graph.get(currentNode);
+            // Add all neighbors to queue.
+            List<Integer> neighbors = graph.get(currentNode);
 
-        if (neighbors != null) {
-            for (int next : neighbors) {
-                if (!isVisited[next]) {
-                    queue.add(next);
-                    distance[next] = distance[currentNode] + 1;
+            if (neighbors != null) {
+                for (int next : neighbors) {
+                    if (!isVisited[next]) {
+                        queue.add(next);
+                        distance[next] = distance[currentNode] + 1;
+                    }
                 }
             }
         }
 
-        while(true) {
-            if(queue.size() == 1)
-                break;
-
-            bfsRecursive(graph, queue, isVisited, distance);
-        }
+        System.out.println(Arrays.toString(distance));
     }
-
 
     public static void main(String[] args) {
         int n = 14;
@@ -67,8 +63,6 @@ public class BreadthFirstSearchRecursive {
         int[] distance = new int[n];
         distance[0] = 1;
 
-        bfsRecursive(graph, queue, new boolean[n], distance);
-
-        System.out.println(Arrays.toString(distance));
+        bfsIterative(graph, queue, new boolean[n], distance);
     }
 }
