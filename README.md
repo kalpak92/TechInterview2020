@@ -352,7 +352,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Walls and Gates - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WallsAndGates.java)
 - [x] [Is Graph Bipartite? - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BipartiteGraph.java)
 - [x] [Can Split everyone into two groups of any size - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PossibleBipartition.java)
-- [x] [Detect Cycle in an Undirected Graph - Leetcode]()
+- [x] [Detect Cycle in an Undirected Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/CycleInUndirectedGraph.java)
+
 
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)

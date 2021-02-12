@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @author kalpak
  *
- * Detect cycle in an Undirected Graph
+ * Detect cycle in an Undirected Graph.
  *
  */
 
@@ -25,19 +25,20 @@ public class CycleInUndirectedGraph {
     }
 
     public static boolean hasCycleDFS(List<List<Integer>> graph, int startNode, boolean[] visited, int parent) {
-
         // mark the current node as discovered
         visited[startNode] = true;
 
-        // do for every edge `v —> w`
+        // do for every edge `startNode —> childNode`
         List<Integer> adjacencyList = graph.get(startNode);
+
         for (int node: adjacencyList) {
             // if `node` is not discovered
             if (!visited[node]) {
                 if (hasCycleDFS(graph, node, visited, startNode)) {
                     return true;
                 }
-            } else if (node != parent) {  // if `w` is discovered, and `w` is not a parent
+            } else if (node != parent) {
+                // if `node` is discovered, and `node` is not the parent of startNode
                 // we found a back-edge (cycle)
                 return true;
             }
