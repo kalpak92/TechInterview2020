@@ -291,6 +291,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Sum of Path as Numbers - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SumOfPathNumbers.java)
 - [x] [Maximum Path Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumPathSumBinaryTree.java)
 - [x] [Diameter of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DiameterOfATree.java)
+- [x] [Longest Univalue Path - Leetcode]()
 - [x] [Boundary of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BoundaryOfBinaryTree.java)
 - [x] [Binary Tree Inorder Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InorderTraversalBinaryTree.java)
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConstructBinaryTreeFromPreorderInorderTraversal.java)
@@ -353,7 +354,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Is Graph Bipartite? - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BipartiteGraph.java)
 - [x] [Can Split everyone into two groups of any size - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PossibleBipartition.java)
 - [x] [Detect Cycle in an Undirected Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/CycleInUndirectedGraph.java)
-- [x] [In out time of nodes - Leetcode]()
+- [x] [In out time of nodes - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/InOutTimeOfNodes.java)
 
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
