@@ -1,5 +1,8 @@
 package Leetcode;
 
+import java.util.Deque;
+import java.util.LinkedList;
+
 /**
  * @author kalpak
  *
@@ -38,6 +41,7 @@ package Leetcode;
  */
 
 public class NumberOfIslands {
+    static int[][] directions = new int[][]{{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
     public static int numIslands(char[][] grid) {
         int result = 0;
 
@@ -66,6 +70,31 @@ public class NumberOfIslands {
         dfsDetectIslands(grid, i, j+1);
         dfsDetectIslands(grid, i, j-1);
         return;
+    }
+
+    private static void bfsDetectIslands(char[][] grid, int i, int j) {
+        Deque<int[]> queue = new LinkedList<>();
+        queue.offer(new int[]{i, j});
+
+        // Mark the cell as visited
+        grid[i][j] = '0';
+
+        while(!queue.isEmpty()) {
+            int[] currentIdx = queue.poll();
+
+            for(int[] dir : directions) {
+                int row = currentIdx[0] + dir[0];
+                int col = currentIdx[1] + dir[1];
+
+                // edge cases
+                if(row < 0 || row >= grid.length || col < 0 || col >= grid[0].length || grid[row][col] == '0')
+                    continue;
+
+                // Mark the cell as visited
+                grid[row][col] = '0';
+                queue.offer(new int[]{row, col});
+            }
+        }
     }
 
     public static void main(String[] args) {

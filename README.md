@@ -344,7 +344,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Depth First Search Recursive](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/DepthFirstSearchRecursive.java)
 - [x] [Depth First Search Iterative](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/DepthFirstSearchIterative.java)
 - [x] [Breadth First Search Recursive](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/BreadthFirstSearchRecursive.java)
-- [x] [Breadth First Search Iterative]()  
+- [x] [Breadth First Search Iterative](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/BreadthFirstSearchIterative.java)  
 - [x] [Count the number of connected components](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/ConnectedComponentsDFS.java)
 - [x] [Number of connected components in an Undirected Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConnectedComponentsUndirectedGraph.java)
 - [x] [Graph Valid Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GraphValidTree.java)
@@ -359,6 +359,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Can Split everyone into two groups of any size - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PossibleBipartition.java)
 - [x] [Detect Cycle in an Undirected Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/CycleInUndirectedGraph.java)
 - [x] [In out time of nodes - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/InOutTimeOfNodes.java)
+- [x] [Course Schedule - Leetcode]()
 
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
