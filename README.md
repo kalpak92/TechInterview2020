@@ -359,7 +359,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Can Split everyone into two groups of any size - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PossibleBipartition.java)
 - [x] [Detect Cycle in an Undirected Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/CycleInUndirectedGraph.java)
 - [x] [In out time of nodes - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/InOutTimeOfNodes.java)
-- [x] [Course Schedule - Leetcode]()
+- [x] [Course Schedule - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CourseSchedule.java)
+- [x] [Course Schedule Ordering - Leetcode]()
 
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)

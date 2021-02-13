@@ -50,10 +50,10 @@ public class CourseSchedule {
 
         // Put the edges into the graph.
         // Put the edges  ways as directed
-        // Update the indegree
+        // Update the in-degree
         for(int[] edge : prerequisites) {
-            graph.get(edge[0]).add(edge[1]);
-            indegree[edge[1]]++;
+            graph.get(edge[1]).add(edge[0]);
+            indegree[edge[0]]++;
         }
 
 
