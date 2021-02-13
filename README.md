@@ -361,7 +361,10 @@ This repository contains the solutions to problems done from various resources f
 - [x] [In out time of nodes - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/InOutTimeOfNodes.java)
 - [x] [Course Schedule - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CourseSchedule.java)
 - [x] [Course Schedule Ordering using BFS - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CourseScheduleII.java)
-- [x] [Topological Sort]()
+
+### Topological Sort
+- [x] [Topological Sort](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/TopologicalSorting.java)
+- [x] [Alien Dictionary - Leetcode]()
 
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
