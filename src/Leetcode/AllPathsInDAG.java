@@ -1,7 +1,6 @@
 package Leetcode;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 /**
  * @author kalpak
@@ -68,6 +67,37 @@ public class AllPathsInDAG {
             backtrack(result, path, graph, nextNode);
             path.remove(path.size() - 1);
         }
+    }
+
+    // Time Complexity: O(2^n)
+    public static List<List<Integer>> allPathsSourceTargetBFS(int[][] graph) {
+        List<List<Integer>> result = new ArrayList<>();
+        Queue<List<Integer>> queue = new LinkedList<>();
+
+        // Add the source to the queue.
+        queue.offer(Arrays.asList(0));
+        int destination = graph.length - 1;     // Given
+
+        // Perform BFS
+        while(!queue.isEmpty()) {
+            List<Integer> currentPath = queue.poll();
+            int currentNode = currentPath.get(currentPath.size() - 1); // Get the last node in the current path
+
+            // Check if currentNode == destination
+            if(currentNode == destination) {
+                result.add(new ArrayList(currentPath));
+            }
+
+            // Check for the neighbors of the currentNode
+            for(int neighbor : graph[currentNode]) {
+                // Create a new path and add the neighbor
+                List<Integer> newPath = new ArrayList<>(currentPath);
+                newPath.add(neighbor);
+                queue.offer(newPath);
+            }
+        }
+
+        return result;
     }
 
     public static void main(String[] args) {
