@@ -380,6 +380,9 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Tarjans Algorithm](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/TarjansAlgorithm.java)
 - [x] [Critical components in a network - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CriticalConnectionsInANetwork.java)
 
+### Djikstra's Algorithm
+- [x] [Cheapest Flights within K stops - Leetcode]()
+
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
 - [x] [Unique PathsII : with obstacles in the grid - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePathsII.java)
