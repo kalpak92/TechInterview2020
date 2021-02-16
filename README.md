@@ -373,7 +373,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Reconstruct Itinerary - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReconstructItinerary.java)
 
 ### Strongly Connected Components
-- [x] [Tarjans Algorithm]
+- [x] [Tarjans Algorithm]()
 - [x] [Critical components in a network - Leetcode]()
 
 ## Dynamic Programming
