@@ -381,7 +381,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Critical components in a network - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CriticalConnectionsInANetwork.java)
 
 ### Djikstra's Algorithm
-- [x] [Cheapest Flights within K stops - Leetcode]()
+- [x] [Cheapest Flights within K stops - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CheapestFlightsWithinKStops.java)
 
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
