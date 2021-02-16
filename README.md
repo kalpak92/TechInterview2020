@@ -347,7 +347,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Breadth First Search Iterative](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/BreadthFirstSearchIterative.java)  
 - [x] [Clone Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CloneGraph.java)
 - [x] [Maximal Network Rank - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximalNetworkRank.java)
-- [x] [Minimum Number of Vertices to reach all nodes - Leetcode]()  
+- [x] [Minimum Number of Vertices to reach all nodes - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumNumberOfVerticesToReachAllNodes.java)  
 - [x] [Count the number of connected components](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/ConnectedComponentsDFS.java)
 - [x] [Number of connected components in an Undirected Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConnectedComponentsUndirectedGraph.java)
 - [x] [Graph Valid Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GraphValidTree.java)
