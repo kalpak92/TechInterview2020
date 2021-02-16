@@ -358,7 +358,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Surrounded Regions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SurroundedRegions.java)
 - [x] [Walls and Gates - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WallsAndGates.java)
 - [x] [Number of Provinces - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfProvinces.java)
-- [x] [Longest Increasing Path in a Matrix - Leetcode]()  
+- [x] [Longest Increasing Path in a Matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestIncreasingPathInMatrix.java)  
 - [x] [All Paths from Source to Target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AllPathsInDAG.java)
 - [x] [Word Ladder - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordLadder.java)
 - [x] [Word Ladder II : Generate all possible transformation sequences - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordLadderII.java)
