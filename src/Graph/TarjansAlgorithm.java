@@ -35,8 +35,8 @@ public class TarjansAlgorithm {
 
         List< List< Integer >> strongComponents = new ArrayList<>();
 
-        for (int i = 0; i < count; i++) { // initialization
-            strongComponents.add(new ArrayList< Integer >());
+        for (int i = 0; i < count; i++) {   // initialization
+            strongComponents.add(new ArrayList<Integer>());
         }
 
         for (int vertex = 0; vertex < len; vertex++) {
@@ -60,7 +60,8 @@ public class TarjansAlgorithm {
         for (int adjVertex : adjacencyLists.get(currentNode)) {
             //adjacencyList of vertex i is stored at index i in arraylist
             if (discoveryTime[adjVertex] == 0) { // discoveryTime[v] == 0 when vertex v is not already visited
-                dfs(adjacencyLists, id, discoveryTime, earliestDiscoveredNodeReachable, strongComponentStack, onStack, adjVertex);
+                dfs(adjacencyLists, id, discoveryTime, earliestDiscoveredNodeReachable,
+                        strongComponentStack, onStack, adjVertex);
 
                 earliestDiscoveredNodeReachable[currentNode] =
                         Math.min(earliestDiscoveredNodeReachable[currentNode], earliestDiscoveredNodeReachable[adjVertex]);
@@ -76,6 +77,7 @@ public class TarjansAlgorithm {
                     // adjacent vertex is in stack, so must be in the same SCC
                     earliestDiscoveredNodeReachable[currentNode] =
                             Math.min(earliestDiscoveredNodeReachable[currentNode], discoveryTime[adjVertex]);
+
                     // NOTE: Because adjacentVertex is on the stack already, the edge (currentNode, adjacentVertex)
                     // is a back-edge in the DFS tree and
                     // therefore adjacentVertex is not in the subtree of currentNode.
@@ -86,6 +88,7 @@ public class TarjansAlgorithm {
                 }
             }
         }
+
         // now that DFS on currentNode is done lets see
         // if we got any SCC before backtracking
         if (earliestDiscoveredNodeReachable[currentNode] == discoveryTime[currentNode]) {
