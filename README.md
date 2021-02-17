@@ -364,13 +364,14 @@ This repository contains the solutions to problems done from various resources f
 - [x] [All Paths from Source to Target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AllPathsInDAG.java)
 - [x] [Word Ladder - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordLadder.java)
 - [x] [Word Ladder II : Generate all possible transformation sequences - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordLadderII.java)
-- [x] [Snakes and Ladders - Leetcode]()
+- [x] [Snakes and Ladders - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SnakesAndLadders.java)
 - [x] [Is Graph Bipartite? - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BipartiteGraph.java)
 - [x] [Can Split everyone into two groups of any size - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PossibleBipartition.java)
 - [x] [Detect Cycle in an Undirected Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/CycleInUndirectedGraph.java)
 - [x] [In out time of nodes - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/InOutTimeOfNodes.java)
 - [x] [Course Schedule - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CourseSchedule.java)
 - [x] [Course Schedule Ordering using BFS - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CourseScheduleII.java)
+- [x] [Rotten Oranges - Leetcode]()
 
 ### Topological Sort
 - [x] [Topological Sort](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/TopologicalSorting.java)
