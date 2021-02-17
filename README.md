@@ -347,37 +347,47 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Breadth First Search Iterative](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/BreadthFirstSearchIterative.java)  
 - [x] [Clone Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CloneGraph.java)
 - [x] [Maximal Network Rank - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximalNetworkRank.java)
-- [x] [Minimum Number of Vertices to reach all nodes - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumNumberOfVerticesToReachAllNodes.java)  
-- [x] [Count the number of connected components](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/ConnectedComponentsDFS.java)
-- [x] [Number of connected components in an Undirected Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConnectedComponentsUndirectedGraph.java)
+- [x] [Minimum Number of Vertices to reach all nodes - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumNumberOfVerticesToReachAllNodes.java)
 - [x] [Graph Valid Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GraphValidTree.java)
-- [x] [Number of Operations to connect the network - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfOperationsToConnectNetwork.java)
-- [x] [Merge Accounts with same email id - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeAccounts.java)
-- [x] [Evaluate Division Query - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EvaluateDivision.java)
+
+### DFS and BFS
 - [x] [Number of Islands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfIslands.java)
 - [x] [Number of Distinct Islands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfDistinctIslands.java)
 - [x] [Maximum Area of an Island - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumAreaOfIsland.java)  
 - [x] [Surrounded Regions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SurroundedRegions.java)
 - [x] [Walls and Gates - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WallsAndGates.java)
 - [x] [Number of Provinces - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfProvinces.java)
+- [x] [Merge Accounts with same email id - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeAccounts.java)
+- [x] [Evaluate Division Query - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EvaluateDivision.java)
 - [x] [Longest Increasing Path in a Matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestIncreasingPathInMatrix.java)  
 - [x] [All Paths from Source to Target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AllPathsInDAG.java)
+
+### BFS
+- [x] [Rotten Oranges - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RottenOranges.java)
+- [x] [Minimum Knight Moves - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumKnightMoves.java)
 - [x] [Word Ladder - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordLadder.java)
 - [x] [Word Ladder II : Generate all possible transformation sequences - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordLadderII.java)
 - [x] [Snakes and Ladders - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SnakesAndLadders.java)
+
+### Bipartite Graph
 - [x] [Is Graph Bipartite? - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BipartiteGraph.java)
 - [x] [Can Split everyone into two groups of any size - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PossibleBipartition.java)
+
+### Cycle in a Graph
 - [x] [Detect Cycle in an Undirected Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/CycleInUndirectedGraph.java)
 - [x] [In out time of nodes - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/InOutTimeOfNodes.java)
-- [x] [Course Schedule - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CourseSchedule.java)
-- [x] [Course Schedule Ordering using BFS - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CourseScheduleII.java)
-- [x] [Rotten Oranges - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RottenOranges.java)
-- [x] [Minimum Knight Moves - Leetcode]()
+
+### Connected Components
+- [x] [Count the number of connected components](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/ConnectedComponentsDFS.java)
+- [x] [Number of connected components in an Undirected Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConnectedComponentsUndirectedGraph.java)
+- [x] [Number of Operations to connect the network - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfOperationsToConnectNetwork.java)
 
 ### Topological Sort
 - [x] [Topological Sort](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/TopologicalSorting.java)
 - [x] [Alien Dictionary - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AlienDictionary.java)
 - [x] [Reconstruct Itinerary - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReconstructItinerary.java)
+- [x] [Course Schedule - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CourseSchedule.java)
+- [x] [Course Schedule Ordering using BFS - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CourseScheduleII.java)
 
 ### Strongly Connected Components
 - [x] [Tarjans Algorithm](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/TarjansAlgorithm.java)
