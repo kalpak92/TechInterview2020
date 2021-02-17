@@ -350,7 +350,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimum Number of Vertices to reach all nodes - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumNumberOfVerticesToReachAllNodes.java)
 - [x] [Graph Valid Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GraphValidTree.java)
 
-### DFS and BFS
+### DFS
 - [x] [Number of Islands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfIslands.java)
 - [x] [Number of Distinct Islands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfDistinctIslands.java)
 - [x] [Maximum Area of an Island - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumAreaOfIsland.java)  
@@ -361,8 +361,10 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Evaluate Division Query - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EvaluateDivision.java)
 - [x] [Longest Increasing Path in a Matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestIncreasingPathInMatrix.java)  
 - [x] [All Paths from Source to Target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AllPathsInDAG.java)
+- [x] [Remove Invalid Parenthesis - Leetcode]()
 
 ### BFS
+- [x] [Number of Islands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfIslands.java)
 - [x] [Rotten Oranges - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RottenOranges.java)
 - [x] [Minimum Knight Moves - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumKnightMoves.java)
 - [x] [Word Ladder - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordLadder.java)
