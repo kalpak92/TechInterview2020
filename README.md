@@ -361,7 +361,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Evaluate Division Query - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EvaluateDivision.java)
 - [x] [Longest Increasing Path in a Matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestIncreasingPathInMatrix.java)  
 - [x] [All Paths from Source to Target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AllPathsInDAG.java)
-- [x] [Remove Invalid Parenthesis - Leetcode]()
+- [x] [Remove Invalid Parenthesis - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveInvalidParenthesis.java)
 
 ### BFS
 - [x] [Number of Islands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfIslands.java)
