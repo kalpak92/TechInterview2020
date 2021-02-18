@@ -369,7 +369,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Rotten Oranges - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RottenOranges.java)
 - [x] [Employee Importance - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EmployeeImportance.java)
 - [x] [Nested List Weight Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NestedListWeightSum.java)  
-- [x] [Open the Lock - Leetcode]()  
+- [x] [Open the Lock - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/OpenTheLock.java)  
 - [x] [Minimum Knight Moves - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumKnightMoves.java)
 - [x] [Word Ladder - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordLadder.java)
 - [x] [Word Ladder II : Generate all possible transformation sequences - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordLadderII.java)
