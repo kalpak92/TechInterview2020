@@ -367,11 +367,13 @@ This repository contains the solutions to problems done from various resources f
 ### BFS
 - [x] [Number of Islands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfIslands.java)
 - [x] [Rotten Oranges - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RottenOranges.java)
+- [x] [Employee Importance - Leetcode]()  
 - [x] [Minimum Knight Moves - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumKnightMoves.java)
 - [x] [Word Ladder - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordLadder.java)
 - [x] [Word Ladder II : Generate all possible transformation sequences - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordLadderII.java)
 - [x] [Snakes and Ladders - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SnakesAndLadders.java)
-- [x] [Shortest Path in a grid with Obstacle Elimination - Leetcode]()
+- [x] [Shortest Path in a grid with Obstacle Elimination - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ShortestPathInGridWithObstacleElimination.java)
+
 
 ### Bipartite Graph
 - [x] [Is Graph Bipartite? - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BipartiteGraph.java)
