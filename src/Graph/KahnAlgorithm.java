@@ -56,6 +56,7 @@ public class KahnAlgorithm {
         }
         return topologicalOrder;
     }
+
     public static void main(String[] args) {
         // Graph setup
         final int N = 7;
