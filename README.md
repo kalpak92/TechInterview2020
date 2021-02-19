@@ -391,9 +391,10 @@ This repository contains the solutions to problems done from various resources f
 
 ### Topological Sort
 - [x] [Topological Sort](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/TopologicalSorting.java)
+- [x] [Kahn's Algorithm]()
 - [x] [Alien Dictionary - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AlienDictionary.java)
 - [x] [Reconstruct Itinerary - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReconstructItinerary.java)
-- [x] [Minimum Height Trees - Leetcode]()  
+- [x] [Minimum Height Trees - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumHeightTrees.java)  
 - [x] [Course Schedule - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CourseSchedule.java)
 - [x] [Course Schedule Ordering using BFS - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CourseScheduleII.java)
 
