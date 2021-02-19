@@ -406,7 +406,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Cheapest Flights within K stops - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CheapestFlightsWithinKStops.java)
 
 ### Minimum Spanning Tree
-- [x] [Minimum cost to Connect All points - Leetcode]()
+- [x] [Minimum cost to Connect All points - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinCostToConnectAllPoints.java)
 
 
 ## Dynamic Programming
