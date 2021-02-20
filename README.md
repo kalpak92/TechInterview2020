@@ -410,7 +410,8 @@ This repository contains the solutions to problems done from various resources f
 
 ## Disjoint Sets
 - [x] [Union Find Algorithm with Path Compression](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/UnionFind.java)
-- [x] [Identifying Redundant Connections - Leetcode]()
+- [x] [Identifying Redundant Connections - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RedundantConnection.java)
+- [x] [Identifying Redundant Connection in a Directed Graph - Leetcode]()
 
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
