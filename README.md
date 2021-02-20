@@ -409,7 +409,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimum cost to Connect All points - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinCostToConnectAllPoints.java)
 
 ## Disjoint Sets
-- [x] [Union Find Algorithm with Path Compression]()
+- [x] [Union Find Algorithm with Path Compression](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/UnionFind.java)
+- [x] [Identifying Redundant Connections - Leetcode]()
 
 ## Dynamic Programming
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
