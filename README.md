@@ -415,5 +415,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Longest Consecutive Sequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestConsecutiveSequence.java)
 
 ## Dynamic Programming
+- [x] [0-1 Knapsack Problem]()
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
 - [x] [Unique PathsII : with obstacles in the grid - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePathsII.java)
