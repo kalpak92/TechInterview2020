@@ -2,7 +2,7 @@ package DynamicProgramming;
 
 /**
  *
- * Implementation of the KnapSack problem.
+ * Implementation of the 0-1 KnapSack problem.
  *
  */
 
@@ -40,22 +40,21 @@ public class Knapsack {
         if (capacity <= 0 || profits.length == 0 || weights.length != profits.length)
             return 0;
 
-        int n = profits.length;
-        int[][] dp = new int[n][capacity + 1];
+        int[][] dp = new int[profits.length][capacity + 1];
 
         // populate the capacity = 0 columns, with '0' capacity we have '0' profit
-        for(int i=0; i < n; i++)
+        for(int i = 0; i < profits.length; i++)
             dp[i][0] = 0;
 
         // if we have only one weight, we will take it if it is not more than the capacity
-        for(int c = 0; c <= capacity; c++) {
+        for(int c = 0; c < capacity + 1; c++) {
             if(weights[0] <= c)
                 dp[0][c] = profits[0];
         }
 
         // process all sub-arrays for all the capacities
-        for(int i=1; i < n; i++) {
-            for(int c=1; c <= capacity; c++) {
+        for(int i = 1; i < profits.length; i++) {
+            for(int c = 1; c <= capacity; c++) {
                 int profit1 = 0, profit2 = 0;
                 // include the item, if it is not more than the capacity
                 if(weights[i] <= c)
@@ -70,7 +69,7 @@ public class Knapsack {
         }
 
         // maximum profit will be at the bottom-right corner.
-        return dp[n-1][capacity];
+        return dp[profits.length - 1][capacity];
     }
 
     public static void main(String[] args) {

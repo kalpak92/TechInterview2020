@@ -416,5 +416,6 @@ This repository contains the solutions to problems done from various resources f
 
 ## Dynamic Programming
 - [x] [0-1 Knapsack Problem](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/Knapsack.java)
+- [x] [Subset Sum]()  
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
 - [x] [Unique PathsII : with obstacles in the grid - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePathsII.java)
