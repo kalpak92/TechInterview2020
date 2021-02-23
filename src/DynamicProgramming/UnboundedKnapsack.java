@@ -42,7 +42,7 @@ package DynamicProgramming;
 
 
 public class UnboundedKnapsack {
-    public int solveKnapsackRecursive(int[] profits, int[] weights, int capacity) {
+    public int solveUnboundedKnapsackRecursive(int[] profits, int[] weights, int capacity) {
         Integer[][] dp = new Integer[profits.length][capacity + 1];
         return unboundedKnapsackRecursive(dp, profits, weights, capacity, 0);
     }
@@ -110,7 +110,7 @@ public class UnboundedKnapsack {
         int[] profits = {1, 6, 10, 16};
         int[] weights = {1, 2, 3, 5};
 
-        int maxProfit = uks.solveKnapsackRecursive(profits, weights, 7);
+        int maxProfit = uks.solveUnboundedKnapsackRecursive(profits, weights, 7);
         System.out.println("Total knapsack profit with repetition allowed ---> " + maxProfit);
 
         maxProfit = uks.solveUnboundedKnapsackBottomsUp(profits, weights, 7);

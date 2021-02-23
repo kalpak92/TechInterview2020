@@ -424,6 +424,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimize Subset Sum difference](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/MinimizeSubsetSumDifference.java)
   
 ### Unbounded Knapsack
-- [x] [Unbounded Knapsack]()
+- [x] [Unbounded Knapsack](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/UnboundedKnapsack.java)
+- [x] [Rod Cutting]()  
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
 - [x] [Unique PathsII : with obstacles in the grid - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePathsII.java)
