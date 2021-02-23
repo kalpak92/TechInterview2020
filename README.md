@@ -415,11 +415,15 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Longest Consecutive Sequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestConsecutiveSequence.java)
 
 ## Dynamic Programming
+### 0-1 Fractional Knapsack
 - [x] [0-1 Knapsack Problem](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/Knapsack.java)
 - [x] [Subset Sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/SubsetSum.java)
 - [x] [Parition Equal Subset Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionEqualSubsetSum.java)
 - [x] [Count number of subsets with given sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/CountSubsets.java)
 - [x] [Target Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TargetSum.java)  
-- [x] [Minimize Subset Sum difference](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/MinimizeSubsetSumDifference.java)  
+- [x] [Minimize Subset Sum difference](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/MinimizeSubsetSumDifference.java)
+  
+### Unbounded Knapsack
+- [x] [Unbounded Knapsack]()
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
 - [x] [Unique PathsII : with obstacles in the grid - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePathsII.java)
