@@ -427,6 +427,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Unbounded Knapsack](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/UnboundedKnapsack.java)
 - [x] [Rod Cutting](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/RodCutting.java)
 - [x] [Coin Change : Number of ways to make an Amount - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfWaysToGetAmount.java)
-- [x] [Coin Change : Minimum number of coins to make an Amount - Leetcode]()  
+- [x] [Coin Change : Minimum number of coins to make an Amount - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumNumberOfCoinsToMakeAmount.java)  
+
+
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
 - [x] [Unique PathsII : with obstacles in the grid - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePathsII.java)
