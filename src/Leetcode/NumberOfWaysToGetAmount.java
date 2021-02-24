@@ -56,7 +56,7 @@ public class NumberOfWaysToGetAmount {
 
 
         // recursive call after choosing the element at the currentIndex
-        // if the weight of the element at currentIndex exceeds the capacity, we shouldn't process this
+        // if the denominatoin of the coin at currentIndex exceeds the amount, we shouldn't process this
         int ways1 = 0;
         if(coins[currentIndex] <= amount)
             ways1 = waysToComputeAmountTopDown(coins, dp, amount - coins[currentIndex], currentIndex);  // since no value is associated with the coins
