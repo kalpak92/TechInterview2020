@@ -428,9 +428,11 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Rod Cutting](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/RodCutting.java)
 - [x] [Coin Change : Number of ways to make an Amount - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfWaysToGetAmount.java)
 - [x] [Coin Change : Minimum number of coins to make an Amount - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumNumberOfCoinsToMakeAmount.java)  
+- [x] [Minimum number of ways to make a number with perfect squares - Leetcode]()
 
 ### Fibonacci Sequence
 - [x] [Fibonacci Numbers - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FibonacciNumber.java)
-- [x] [Climb Stairs - Leetcode]()  
+- [x] [Climb Stairs - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ClimbStairs.java)
+  
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
 - [x] [Unique PathsII : with obstacles in the grid - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePathsII.java)
