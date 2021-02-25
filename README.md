@@ -436,4 +436,5 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Unique Paths : Basic - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePaths.java)
 - [x] [Unique PathsII : with obstacles in the grid - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePathsII.java)
 - [x] [Decode a string into possible ways - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DecodeWays.java)
-- [x] [House Robber - Leetcode]()
+- [x] [House Robber - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HouseRobber.java)
+- [x] [House Robber : Houses are arranged in a circle - Leetcode]()
