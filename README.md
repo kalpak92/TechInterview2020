@@ -418,7 +418,7 @@ This repository contains the solutions to problems done from various resources f
 ### 0-1 Fractional Knapsack
 - [x] [0-1 Knapsack Problem](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/Knapsack.java)
 - [x] [Subset Sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/SubsetSum.java)
-- [x] [Parition Equal Subset Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionEqualSubsetSum.java)
+- [x] [Partition Equal Subset Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionEqualSubsetSum.java)
 - [x] [Count number of subsets with given sum](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/CountSubsets.java)
 - [x] [Target Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TargetSum.java)  
 - [x] [Minimize Subset Sum difference](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/MinimizeSubsetSumDifference.java)
@@ -428,7 +428,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Rod Cutting](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/RodCutting.java)
 - [x] [Coin Change : Number of ways to make an Amount - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfWaysToGetAmount.java)
 - [x] [Coin Change : Minimum number of coins to make an Amount - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumNumberOfCoinsToMakeAmount.java)  
-- [x] [Minimum number of ways to make a number with perfect squares - Leetcode]()
+- [x] [Minimum number of ways to make a number with perfect squares - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PerfectSquares.java)
 
 ### Fibonacci Sequence
 - [x] [Fibonacci Numbers - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FibonacciNumber.java)
