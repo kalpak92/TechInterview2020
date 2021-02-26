@@ -438,4 +438,5 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Decode a string into possible ways - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DecodeWays.java)
 - [x] [House Robber - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HouseRobber.java)
 - [x] [House Robber : Houses are arranged in a circle - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HouseRobberII.java)
-- [x] [House Robber : Houses are arranged as a Binary Tree - Leetcode]()
+- [x] [House Robber : Houses are arranged as a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HouseRobberIII.java)
+- [x] [Buy and Sell Stock - Leetcode]()
