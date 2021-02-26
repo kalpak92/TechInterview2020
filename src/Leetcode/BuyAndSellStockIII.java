@@ -57,8 +57,40 @@ public class BuyAndSellStockIII {
         return profit2;
     }
 
+    public static int maxProfitUsingDivideAndConquerAndDP(int[] prices) {
+
+        if(prices.length == 0 || prices == null) {
+            return 0;
+        }
+
+        int[] left = new int[prices.length];        // highest profit in 0 ... i
+        int[] right = new int[prices.length];       // highest profit in i ... n - 1
+
+        // DP from left to right
+        int min = prices[0];
+        for (int i = 1; i < prices.length; i++) {
+            min = Math.min(min, prices[i]);
+            left[i] = Math.max(left[i - 1], prices[i] - min);
+        }
+
+        // DP from right to left
+        int max = prices[prices.length - 1];
+        for (int i = prices.length - 2; i >= 0; i--) {
+            max = Math.max(max, prices[i]);
+            right[i] = Math.max(right[i + 1], max - prices[i]);
+        }
+
+        int profit = 0;
+        for (int i = 0; i < prices.length; i++) {
+            profit = Math.max(profit, left[i] + right[i]);
+        }
+
+        return profit;
+    }
+
     public static void main(String[] args) {
         int[] prices = new int[]{3,3,5,0,0,3,1,4};
         System.out.println(maxProfit(prices));
+        System.out.println(maxProfitUsingDivideAndConquerAndDP(prices));
     }
 }
