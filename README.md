@@ -443,5 +443,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Buy and Sell StockII : Allow Multiple transaction - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BuyAndSellStockII.java)
 - [x] [Buy and Sell StockIII : Only Two Transactions Allowed - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BuyAndSellStockIII.java)
 - [x] [Buy and Sell StockIV : K Transactions Allowed - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BuyAndSellStockIV.java)
-- [x] [Edit Distance - Leetcode]()
+
+### Substring problems
+- [x] [Word Break - Leetcode]()
+- [x] [Edit Distance - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EditDistance.java)
 - [x] [Regular Expression Matching- Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RegularExpressionMatching.java)
