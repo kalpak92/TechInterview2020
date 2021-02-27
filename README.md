@@ -259,7 +259,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Partition Label - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionLabels.java)
 
 ## Design Problems
-- [x] [Design Underground System - Leetcode]()
+- [x] [Design Underground System - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DesignUndergroundSystem.java)
+- [x] [Design a LRU Cache - Leetcode]()
 
 ## Recursion
 - [x] [Print Natural Numbers upto N](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/Print1toNUsingRecursion.java)
