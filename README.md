@@ -450,4 +450,4 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Regular Expression Matching- Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RegularExpressionMatching.java)
 - [x] [Minimum Path Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumPathSum.java)
 - [x] [Burst Balloons - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BurstBalloons.java)
-- [x] [Minimum Difficulty of a Job Schedule - Leetcode]()
+- [x] [Minimum Difficulty of a Job Schedule - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDifficultOfJobSchedule.java)
