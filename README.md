@@ -445,6 +445,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Buy and Sell StockIV : K Transactions Allowed - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BuyAndSellStockIV.java)
 
 ### Substring problems
-- [x] [Word Break - Leetcode]()
+- [x] [Word Break - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordBreak.java)
 - [x] [Edit Distance - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EditDistance.java)
 - [x] [Regular Expression Matching- Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RegularExpressionMatching.java)
+- [x] [Minimum Path Sum - Leetcode]()
