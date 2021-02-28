@@ -248,6 +248,9 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximize Capital for an IPO - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IPO.java)
 - [x] [Find Right Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FindRightInterval.java)
 
+## Strings
+- [x] [Invalid Transactions - Leetcode]()
+
 ## Merge Intervals
 - [x] [Merge Intervals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeIntervals.java)
 - [x] [Insert Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InsertInterval.java)
@@ -467,4 +470,4 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Profit in Job Scheduling - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumProfitInJobSchedule.java)
 
 ## Greedy
-- [x] [Two City Scheduling - Leetcode]()
+- [x] [Two City Scheduling - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoCityScheduling.java)
