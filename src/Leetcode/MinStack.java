@@ -36,38 +36,45 @@ package Leetcode;
  * Methods pop, top and getMin operations will always be called on non-empty stacks.
  */
 
-public class MinStack {
-    private Node element;
+class MinStack {
+    private Node head;
+
     /** initialize your data structure here. */
     public MinStack() {
 
     }
 
     public void push(int x) {
-        if(element == null)
-            element = new Node(x, x, null);
+        if(head == null)
+            head = new Node(x, x);
         else
-            element = new Node(x, Math.min(element.minVal, x), element);
+            head = new Node(x, Math.min(head.minVal, x), head);
     }
 
     public void pop() {
-        element = element.next;
+        head = head.next;
     }
 
     public int top() {
-        return element.val;
+        return head.val;
     }
 
     public int getMin() {
-        return element.minVal;
+        return head.minVal;
     }
 
-    private class Node {
-        private int val;
-        private int minVal;
-        private Node next;
+    class Node {
+        int val;
+        int minVal;
+        Node next;
 
-        private Node(int val, int minVal, Node next) {
+        public Node(int val, int minVal) {
+            this.val = val;
+            this.minVal = minVal;
+            next = null;
+        }
+
+        public Node(int val, int minVal, Node next) {
             this.val = val;
             this.minVal = minVal;
             this.next = next;

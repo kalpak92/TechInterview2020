@@ -263,7 +263,9 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Design a LRU Cache - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LRUCache.java)
 - [x] [Design a LFU Cache - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LFUCache.java)
 - [x] [Design Browser History - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BrowserHistory.java)
-- [x] [Design a LeaderBoard - Leetcode]()
+- [x] [Design a LeaderBoard - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LeaderBoard.java)
+- [x] [Min Stack in O(1) space - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinStack.java)
+- [x] [Binary Search Tree Iterator - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BSTIterator.java)
 
 ## Recursion
 - [x] [Print Natural Numbers upto N](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/Print1toNUsingRecursion.java)
