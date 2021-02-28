@@ -261,7 +261,8 @@ This repository contains the solutions to problems done from various resources f
 ## Design Problems
 - [x] [Design Underground System - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DesignUndergroundSystem.java)
 - [x] [Design a LRU Cache - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LRUCache.java)
-- [x] [Design a LFU Cache - Leetcode]()
+- [x] [Design a LFU Cache - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LFUCache.java)
+- [x] [Design Browser History - Leetcode]()
 
 ## Recursion
 - [x] [Print Natural Numbers upto N](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/Print1toNUsingRecursion.java)
