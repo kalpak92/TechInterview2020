@@ -249,7 +249,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find Right Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FindRightInterval.java)
 
 ## Strings
-- [x] [Invalid Transactions - Leetcode]()
+- [x] [Invalid Transactions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InvalidTransactions.java)
 
 ## Merge Intervals
 - [x] [Merge Intervals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeIntervals.java)
