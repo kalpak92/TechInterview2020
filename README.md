@@ -250,7 +250,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find Right Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FindRightInterval.java)
 
 ## Strings
-- [x] [Minimum number of steps to make two strings anagram - Leetcode]()
+- [x] [Minimum number of steps to make two strings anagram - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumStepsToMakeTwoStringAnagram.java)
 - [x] [Invalid Transactions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InvalidTransactions.java)
 
 ## Merge Intervals
@@ -272,6 +272,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Min Stack in O(1) space - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinStack.java)
 - [x] [Binary Search Tree Iterator - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BSTIterator.java)
 - [x] [Design Hit Counter - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HitCounter.java)
+- [x] [Design Bounded Blocking Queue - Leetcode]()
 
 ## Recursion
 - [x] [Print Natural Numbers upto N](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/Print1toNUsingRecursion.java)
