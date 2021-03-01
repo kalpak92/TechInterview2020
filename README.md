@@ -273,7 +273,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Binary Search Tree Iterator - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BSTIterator.java)
 - [x] [Design Hit Counter - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HitCounter.java)
 - [x] [Design Bounded Blocking Queue - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BoundedBlockingQueue.java)
-- [x] [Kill Process - Leetcode]()
+- [x] [Kill Process - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KillProcess.java)
 
 ## Recursion
 - [x] [Print Natural Numbers upto N](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/Print1toNUsingRecursion.java)
@@ -386,7 +386,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Number of Islands - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfIslands.java)
 - [x] [Rotten Oranges - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RottenOranges.java)
 - [x] [Employee Importance - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EmployeeImportance.java)
-- [x] [Kill Process - Leetcode]()  
+- [x] [Kill Process - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KillProcess.java)  
 - [x] [Nested List Weight Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NestedListWeightSum.java)  
 - [x] [Open the Lock - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/OpenTheLock.java)  
 - [x] [Minimum Knight Moves - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumKnightMoves.java)
