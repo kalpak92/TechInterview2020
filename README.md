@@ -48,7 +48,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Intersection of Two Arrays - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IntersectionOfTwoArrays.java)
 - [x] [Intersection of Three Sorted Arrays - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IntersectionOfThreeSortedArrays.java)
 - [x] [Sort Colors - Dutch National Flag - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SortColors.java)
-- [x] [Summary Ranges - Leetcode]()
+- [x] [Summary Ranges - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SummaryRanges.java)
 - [x] [Partition List - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionList.java)
 - [x] [Partition Label - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PartitionLabels.java)
 - [x] [Number of Unique pairs having a difference of K - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KDifferencePairs.java)
