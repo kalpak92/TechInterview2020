@@ -255,6 +255,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Nesting Depth of Parenthesis - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumNestingDepthParenthesis.java)
 - [x] [Minimum number of steps to make two strings anagram - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumStepsToMakeTwoStringAnagram.java)
 - [x] [Invalid Transactions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InvalidTransactions.java)
+- [x] [Count and Say Sequence - Leetcode]()
 
 ## Merge Intervals
 - [x] [Merge Intervals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeIntervals.java)
