@@ -14,6 +14,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Remove duplicates from Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedArray.java)
 - [x] [SnapShot Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SnapShotArray.java)
 - [x] [Sparse Matrix Multiplication - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SparseMatrixMultiplication.java)
+- [x] [Count Unhappy Friends - Leetcode]()
 - [x] [Candy Crush - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CandyCrush.java)
 - [x] [Product of Array except Self - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ProductOfArrayExceptSelf.java)
 - [x] [Next Permutation - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextPermutation.java)
@@ -94,7 +95,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Kth largest element in an array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthLargestElement.java)
 - [x] [K Closest Points to Origin - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KClosestPointsToOrigin.java)
 - [x] [Top K frequent elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TopKFrequentElements.java)
-- [x] [Number of Ships in a Rectangle - Leetcode]()
+- [x] [Number of Ships in a Rectangle - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfShipsInRectangle.java)
 
 ### Binary Search
 - [x] [Binary Search - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BinarySearch.java)
