@@ -41,8 +41,10 @@ public class RemoveAllAdjacentDuplicatesInString {
                 stack.push(c);
         }
 
-        for(char c : stack)
-            result.insert(0, c);
+        while(!stack.isEmpty()){
+            result.insert(0, stack.pop());
+        }
+
         return result.toString();
     }
 
