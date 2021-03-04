@@ -18,6 +18,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Candy Crush - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CandyCrush.java)
 - [x] [Product of Array except Self - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ProductOfArrayExceptSelf.java)
 - [x] [Next Permutation - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextPermutation.java)
+- [x] [Set Matrix Zeros - Leetcode]()
 
 ### Prefix Sum
 
