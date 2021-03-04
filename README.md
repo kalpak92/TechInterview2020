@@ -18,7 +18,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Candy Crush - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CandyCrush.java)
 - [x] [Product of Array except Self - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ProductOfArrayExceptSelf.java)
 - [x] [Next Permutation - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextPermutation.java)
-- [x] [Set Matrix Zeros - Leetcode]()
+- [x] [Set Matrix Zeros - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SetMatrixZeros.java)
 
 ### Prefix Sum
 
@@ -84,6 +84,7 @@ This repository contains the solutions to problems done from various resources f
 
 ### String
 - [x] [Consecutive occurence of characters in a string](https://github.com/kalpak92/TechInterview2020/blob/master/src/String/ConsecutiveOccurenceOfCharacters.java)
+- [x] [Integer to Roman - Leetcode]()
 
 ## Divide and Conquer
 - [x] [Merge Sort](https://github.com/kalpak92/TechInterview2020/blob/master/src/DivideAndConquer/MergeSort.java)
