@@ -317,6 +317,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Path Sum II : Return all paths from root to leaf with given sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PathSumII.java)
 - [x] [Path Sum III : Return all paths with a given sum (Need not be root to leaf) - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PathSumIII.java)
 - [x] [Sum of Path as Numbers - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SumOfPathNumbers.java)
+- [x] [Find Good Nodes in a Binary Tree - Leetcode]()
 - [x] [Maximum Path Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumPathSumBinaryTree.java)
 - [x] [Diameter of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DiameterOfATree.java)
 - [x] [Longest Univalue Path - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestUnivaluePath.java)
@@ -488,4 +489,4 @@ This repository contains the solutions to problems done from various resources f
 ## Greedy
 - [x] [Two City Scheduling - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoCityScheduling.java)
 - [x] [Jump Game - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/JumpGame.java)
-- [x] [Minimum Deletions to make character frequencies unique - Leetcode]()
+- [x] [Minimum Deletions to make character frequencies unique - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDeletionsToMakeUniqueCharacterFrequency.java)
