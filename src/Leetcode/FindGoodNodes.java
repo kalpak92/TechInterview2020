@@ -38,14 +38,14 @@ package Leetcode;
  */
 
 public class FindGoodNodes {
-    public int goodNodes(TreeNode root) {
+    public static int goodNodes(TreeNode root) {
         if (root == null)
             return 0;
 
         return findGoodNodesDFS(root, root.val);
     }
 
-    private int findGoodNodesDFS(TreeNode root, int max) {
+    private static int findGoodNodesDFS(TreeNode root, int max) {
         if(root == null)
             return 0;
 

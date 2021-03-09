@@ -317,7 +317,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Path Sum II : Return all paths from root to leaf with given sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PathSumII.java)
 - [x] [Path Sum III : Return all paths with a given sum (Need not be root to leaf) - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PathSumIII.java)
 - [x] [Sum of Path as Numbers - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SumOfPathNumbers.java)
-- [x] [Find Good Nodes in a Binary Tree - Leetcode]()
+- [x] [Find Good Nodes in a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FindGoodNodes.java)
 - [x] [Maximum Path Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumPathSumBinaryTree.java)
 - [x] [Diameter of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DiameterOfATree.java)
 - [x] [Longest Univalue Path - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestUnivaluePath.java)
@@ -368,6 +368,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Restore IP Address - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RestoreIPAddress.java)
 - [x] [Number of unique paths from start to end, visiting every non-blocking cell - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePathsIII.java)  
 - [x] [Sudoku Solver - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SudokuSolver.java)
+- [x] [Maximum length of concatenated string with Unique Characters - Leetcode]()
 
 ## Graphs
 - [x] [Graph Adjacency List Representation](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/AdjacencyListRepresentation.java)
