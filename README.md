@@ -261,6 +261,9 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Count and Say Sequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountAndSay.java)
 - [x] [Text Justification - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TextJustification.java)
 
+## Trie
+- [x] [Implement Trie (Prefix Tree) - Leetcode]()
+
 ## Merge Intervals
 - [x] [Merge Intervals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeIntervals.java)
 - [x] [Insert Interval - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InsertInterval.java)
