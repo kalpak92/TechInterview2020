@@ -263,7 +263,7 @@ This repository contains the solutions to problems done from various resources f
 
 ## Trie
 - [x] [Implement Trie (Prefix Tree) - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/Trie.java)
-- [x] [Map Sum Pairs - Leetcode]()  
+- [x] [Map Sum Pairs - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MapSumPairs.java)  
 - [x] [Stream of Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/StreamOfCharacters.java)
 
 ## Merge Intervals
