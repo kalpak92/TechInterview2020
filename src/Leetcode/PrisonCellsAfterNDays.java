@@ -67,6 +67,7 @@ public class PrisonCellsAfterNDays {
                 set.add(s);
                 sizeOfCycle++;
             } else {
+                // cycle found
                 flag = true;
                 break;
             }
@@ -75,6 +76,7 @@ public class PrisonCellsAfterNDays {
         }
 
         if(flag) {
+            // reduce n by the cycle size
             n = n % sizeOfCycle;
 
             for(int i = 0; i < n; i++) {
