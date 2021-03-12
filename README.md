@@ -15,6 +15,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [SnapShot Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SnapShotArray.java)
 - [x] [Sparse Matrix Multiplication - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SparseMatrixMultiplication.java)
 - [x] [Count Unhappy Friends - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountUnhappyFriends.java)
+- [x] [Maximum Area of a piece of cake after Horizontal and Vertical Cuts - Leetcode]()  
 - [x] [Candy Crush - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CandyCrush.java)
 - [x] [Product of Array except Self - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ProductOfArrayExceptSelf.java)
 - [x] [Next Permutation - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextPermutation.java)
