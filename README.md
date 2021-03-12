@@ -370,7 +370,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Sudoku Solver - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SudokuSolver.java)
 - [x] [Maximum length of concatenated string with Unique Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaxLengthOfConcatenatedStringWithUniqueCharacters.java)
 
-
 ## Graphs
 - [x] [Graph Adjacency List Representation](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/AdjacencyListRepresentation.java)
 - [x] [Depth First Search Recursive](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/DepthFirstSearchRecursive.java)
@@ -492,4 +491,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Two City Scheduling - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoCityScheduling.java)
 - [x] [Jump Game - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/JumpGame.java)
 - [x] [Minimum Deletions to make character frequencies unique - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDeletionsToMakeUniqueCharacterFrequency.java)
-- [x] [Minimum Deletion Cost to Avoid Repeating Letters - Leetcode]()
+- [x] [Minimum Deletion Cost to Avoid Repeating Letters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDeletionCostToAvoidRepeatingLetters.java)
+
+
+## Math
+- [x] [Robot Bounded in a Circle - Leetcode]()
