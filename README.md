@@ -262,7 +262,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Text Justification - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TextJustification.java)
 
 ## Trie
-- [x] [Implement Trie (Prefix Tree) - Leetcode]()
+- [x] [Implement Trie (Prefix Tree) - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/Trie.java)
 
 ## Merge Intervals
 - [x] [Merge Intervals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeIntervals.java)
