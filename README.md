@@ -284,7 +284,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Kill Process - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KillProcess.java)
 - [x] [Design Search Autocomplete System - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AutocompleteSystem.java)
 - [x] [Design a system to get the First Unique number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstUniqueNumber.java)
-- [x] [Design Tic-Tac-Toe - Leetcode]()
+- [x] [Design Tic-Tac-Toe - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TicTacToe.java)
+- [x] [Design Snake Game - Leetcode]()
 
 ## Recursion
 - [x] [Print Natural Numbers upto N](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/Print1toNUsingRecursion.java)
