@@ -64,11 +64,9 @@ public class DesignAddSearchWordsDictionary {
 
         for(char c : word.toCharArray()) {
             int index = (int)(c - 'a');
-
             if(current.children[index] == null) {
                 current.children[index] = new TrieNodeWordSearch();
             }
-
             current = current.children[index];
         }
 

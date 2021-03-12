@@ -265,8 +265,9 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Implement Trie (Prefix Tree) - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/Trie.java)
 - [x] [Map Sum Pairs - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MapSumPairs.java)
 - [x] [Replace Words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ReplaceWords.java)
-- [x] [Maximum XOR of Two Numbers in an Array - Leetcode]()  
+- [x] [Maximum XOR of Two Numbers in an Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaxXORTwoNumbersInArray.java)  
 - [x] [Stream of Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/StreamOfCharacters.java)
+- [x] [Design a Add and Search words Data Structure - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DesignAddSearchWordsDictionary.java)
 
 ## Merge Intervals
 - [x] [Merge Intervals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeIntervals.java)
@@ -293,6 +294,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Design a system to get the First Unique number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstUniqueNumber.java)
 - [x] [Design Tic-Tac-Toe - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TicTacToe.java)
 - [x] [Design Snake Game - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SnakeGame.java)
+- [x] [Design a Add and Search words Data Structure - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DesignAddSearchWordsDictionary.java)
 
 ## Recursion
 - [x] [Print Natural Numbers upto N](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/Print1toNUsingRecursion.java)
