@@ -54,6 +54,9 @@ public class MaximumLengthOfConcatenatedStringWithUniqueCharacters {
         if(index == arr.size())
             return;
 
+        if(getUniqueCharCount(current) == -1)
+            return;
+
         findMaxUniqueLength(arr, index + 1, current, result);
         findMaxUniqueLength(arr, index + 1, current + arr.get(index), result);
     }
