@@ -269,6 +269,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Stream of Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/StreamOfCharacters.java)
 - [x] [Design a Add and Search words Data Structure - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DesignAddSearchWordsDictionary.java)
 - [x] [Word Search from a Grid II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordSearchII.java)
+- [x] [Design Search Autocomplete System - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AutocompleteSystem.java)
 
 ## Merge Intervals
 - [x] [Merge Intervals - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MergeIntervals.java)

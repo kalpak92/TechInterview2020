@@ -1,8 +1,6 @@
 package Leetcode;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 /**
  * @author kalpak
@@ -82,90 +80,77 @@ import java.util.List;
 
 class AutocompleteSystem {
     TrieNode root;
-    TrieNode cur;
-    StringBuilder sb;
+    String prefix;
 
     public AutocompleteSystem(String[] sentences, int[] times) {
         root = new TrieNode();
-        cur = root;
-        sb = new StringBuilder();
+        prefix = "";
 
-        for(int i = 0; i < times.length; i++)
+        for (int i = 0; i < sentences.length; i++) {
             add(sentences[i], times[i]);
-
+        }
     }
 
     public List<String> input(char c) {
-        List<String> result = new ArrayList<>();
-        if(c == '#') {
-            add(sb.toString(), 1);
-            sb = new StringBuilder();
-            cur = root;
-            return result;
+        if (c == '#') {
+            add(prefix, 1);
+            prefix = "";
+            return new ArrayList<String>();
         }
 
-        sb.append(c);
-        if(cur != null)
-            cur = cur.children[c];
+        prefix = prefix + c;
+        TrieNode current = root;
 
-        if(cur == null)
-            return result;
+        for (char ch : prefix.toCharArray()) {
+            TrieNode next = current.children.get(ch);
+            if (next == null) {
+                return new ArrayList<String>();
+            }
+            current = next;
+        }
 
-        for(TrieNode node : cur.hot)
-            result.add(node.s);
+        PriorityQueue<Map.Entry<String, Integer>> maxHeap = new PriorityQueue<>((a, b) ->
+                (a.getValue() == b.getValue() ?
+                        a.getKey().compareTo(b.getKey()) :
+                        b.getValue() - a.getValue()));
+        maxHeap.addAll(current.counts.entrySet());
+
+        List<String> result = new ArrayList<String>();
+
+        int k = 3;
+        while(!maxHeap.isEmpty() && k > 0) {
+            result.add((String) maxHeap.poll().getKey());
+            k--;
+        }
 
         return result;
     }
 
-    private void add(String sentence, int t) {
-        TrieNode temp = root;
+    private void add(String s, int count) {
+        TrieNode current = root;
 
-        List<TrieNode> visited = new ArrayList<>();
+        for (char c : s.toCharArray()) {
+            TrieNode next = current.children.get(c);
 
-        for(char c : sentence.toCharArray()) {
-            if(temp.children[c] == null)
-                temp.children[c] = new TrieNode();
-
-            temp = temp.children[c];
-            visited.add(temp);
+            if (next == null) {
+                next = new TrieNode();
+                current.children.put(c, next);
+            }
+            current = next;
+            current.counts.put(s, current.counts.getOrDefault(s, 0) + count);
         }
-
-        temp.s = sentence;
-        temp.times += t;
-
-        for(TrieNode node : visited) {
-            node.update(temp);
-        }
+        current.isWord = true;
     }
 
-    class TrieNode implements Comparable<TrieNode> {
-        TrieNode[] children;
-        String s;
-        int times;
-        List<TrieNode> hot;
+    class TrieNode {
+        Map<Character, TrieNode> children;
+        Map<String, Integer> counts;
+        boolean isWord;
 
         public TrieNode() {
-            children = new TrieNode[128];
-            s = null;
-            times = 0;
-            hot = new ArrayList<>();
-        }
-
-        public int compareTo(TrieNode o) {
-            if(this.times == o.times)
-                return this.s.compareTo(o.s);
-
-            return o.times - this.times;
-        }
-
-        public void update(TrieNode node) {
-            if(!this.hot.contains(node))
-                this.hot.add(node);
-
-            Collections.sort(hot);
-
-            if(hot.size() > 3)
-                hot.remove(hot.size() - 1);
+            this.children = new HashMap<Character, TrieNode>();
+            this.counts = new HashMap<String, Integer>();
+            this.isWord = false;
         }
     }
 }
