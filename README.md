@@ -387,7 +387,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Word Search from a Grid - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordSearch.java)
 - [x] [Word Search from a Grid II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordSearchII.java)
 - [x] [Word Break II : Give all possible sentences that can be constructed - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordBreakII.java)
-- [x] [Word Pattern II : Bijective Mapping of a String to a pattern - Leetcode]()
+- [x] [Word Pattern II : Bijective Mapping of a String to a pattern - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordPatternII.java)
 - [x] [Design a Add and Search words Data Structure - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DesignAddSearchWordsDictionary.java)
 - [x] [Number of unique paths from start to end, visiting every non-blocking cell - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/UniquePathsIII.java)  
 - [x] [Maximum length of concatenated string with Unique Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaxLengthOfConcatenatedStringWithUniqueCharacters.java)
