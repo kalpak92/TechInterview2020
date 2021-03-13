@@ -260,7 +260,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Invalid Transactions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InvalidTransactions.java)
 - [x] [Count and Say Sequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountAndSay.java)
 - [x] [Text Justification - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TextJustification.java)
-- [x] [Maximum Length of a Concatenated String with Unique Characters - Leetcode]()
+- [x] [Maximum Length of a Concatenated String with Unique Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumLengthOfConcatenatedStringWithUniqueCharacters.java)
 
 ## Trie
 - [x] [Implement Trie (Prefix Tree) - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/Trie.java)
@@ -306,6 +306,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Delete middle element of a stack](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/DeleteMiddleElementOfStack.java)
 - [x] [Reverse a Stack without extra memory](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/ReverseStack.java)
 - [x] [Kth Symbol in Grammar - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthSymbolInGrammar.java)
+- [x] [Maximum Length of a Concatenated String with Unique Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumLengthOfConcatenatedStringWithUniqueCharacters.java)
+
 
 ## Trees
 
