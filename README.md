@@ -368,7 +368,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Recover Binary Search Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RecoverBST.java)
 
 ## Subsets and Backtracking
-- [x] [N-Queen - Leetcode]()
+- [x] [N-Queen - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NQueens.java)
 - [x] [Subsets of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfUniqueElements.java)
 - [x] [Subsets of all numbers with duplicates - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SubsetsOfElementsWithDuplicates.java)
 - [x] [Permutation of all given unique elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PermutationOfUniqueElements.java)
