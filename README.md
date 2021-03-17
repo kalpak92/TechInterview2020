@@ -461,14 +461,14 @@ This repository contains the solutions to problems done from various resources f
 
 ### Minimum Spanning Tree
 - [x] [Minimum cost to Connect All points - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinCostToConnectAllPoints.java)
-- [x] [Connecting Cities with Minimum Cost - Leetcode]()
+- [x] [Connecting Cities with Minimum Cost - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConnectingCitiesWithMinimumCost.java)
 
 
 ## Disjoint Sets
 - [x] [Union Find Algorithm with Path Compression](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/UnionFind.java)
 - [x] [Identifying Redundant Connections - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RedundantConnection.java)
 - [x] [Identifying Redundant Connection in a Directed Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RedundantConnectionII.java)
-- [x] [Connecting Cities with Minimum Cost - Leetcode]()
+- [x] [Connecting Cities with Minimum Cost - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConnectingCitiesWithMinimumCost.java)
 - [x] [Longest Consecutive Sequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestConsecutiveSequence.java)
 
 ## Dynamic Programming
