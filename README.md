@@ -442,6 +442,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Count the number of connected components](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/ConnectedComponentsDFS.java)
 - [x] [Number of connected components in an Undirected Graph - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConnectedComponentsUndirectedGraph.java)
 - [x] [Number of Operations to connect the network - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfOperationsToConnectNetwork.java)
+- [x] [Minimum Degree of a connected Trio in a Graph - Leetcode]()
 
 ### Topological Sort
 - [x] [Topological Sort](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/TopologicalSorting.java)
