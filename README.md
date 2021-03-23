@@ -513,6 +513,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimum Difficulty of a Job Schedule - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDifficultOfJobSchedule.java)
 - [x] [Maximum Profit in Job Scheduling - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumProfitInJobSchedule.java)
 
+- [x] [Minimum Cost Tree from Leaf Values - Leetcode]()
 ## Greedy
 - [x] [Two City Scheduling - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoCityScheduling.java)
 - [x] [Jump Game - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/JumpGame.java)
