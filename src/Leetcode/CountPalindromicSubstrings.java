@@ -63,7 +63,73 @@ public class CountPalindromicSubstrings {
 
     }
 
+    public static int countSubstringsUsingExpandAroundCenter(String s) {
+        if(s == null || s.length() == 0)
+            return 0;
+
+        int length = s.length();
+        int count = 0;
+
+        for(int i = 0; i < s.length(); i++) {
+            count += countPalindromeAroundCenter(s, i, i);  // Odd length palindrome. Single character at center
+            count += countPalindromeAroundCenter(s, i, i + 1);  // Even length palindrome. Consecutive character at centre
+        }
+
+        return count;
+    }
+
+
+    private static int countPalindromeAroundCenter(String s, int left, int right) {
+        int result = 0;
+
+        while(left >= 0 && right < s.length()) {
+            if(s.charAt(left) != s.charAt(right))
+                break;
+
+            // Expand around center
+            left--;
+            right++;
+
+            result++;
+        }
+        return result;
+    }
+
+    public static int countSubstringsBottomsUp(String s) {
+        if(s.length() == 0 || s == null)
+            return 0;
+
+        int count = 0;
+        boolean[][] dp = new boolean[s.length()][s.length()];
+
+        // Base case: single letter substrings
+        for(int i  = 0 ; i < s.length(); i++) {
+            dp[i][i] = true;
+            count++;
+        }
+
+        // Base case: double letter substrings
+        for(int i  = 0 ; i < s.length() - 1; i++) {
+            dp[i][i + 1] = (s.charAt(i) == s.charAt(i+ 1));
+
+            count += (dp[i][i + 1]) ? 1 : 0;
+        }
+
+        for(int len = 3; len <= s.length(); len++) {
+            for(int i = 0, j = i + len - 1; j < s.length(); i++, j++) {
+                if(dp[i + 1][j - 1] && s.charAt(i) == s.charAt(j)) {
+                    dp[i][j] = true;
+                    count++;
+                }
+            }
+        }
+
+        return count;
+    }
+
     public static void main(String[] args) {
         System.out.println(countSubstringsNaive("abcba"));
+        System.out.println(countSubstringsUsingExpandAroundCenter("abcba"));
+        System.out.println(countSubstringsBottomsUp("abcba"));
     }
 }
