@@ -503,7 +503,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Buy and Sell StockIV : K Transactions Allowed - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BuyAndSellStockIV.java)
 
 ### Longest Palindromic Subsequence
-- [x] [Longest Palindromic Subsequence - Leetcode]()
+- [x] [Longest Palindromic Subsequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestPalindromicSubsequence.java)
+- [x] [Longest Palindromic Substring - Leetcode]()
 
 ### Substring problems
 - [x] [Word Break - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordBreak.java)
