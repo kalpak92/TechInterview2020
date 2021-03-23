@@ -502,6 +502,9 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Buy and Sell StockIII : Only Two Transactions Allowed - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BuyAndSellStockIII.java)
 - [x] [Buy and Sell StockIV : K Transactions Allowed - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BuyAndSellStockIV.java)
 
+### Longest Palindromic Subsequence
+- [x] [Longest Palindromic Subsequence - Leetcode]()
+
 ### Substring problems
 - [x] [Word Break - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordBreak.java)
 - [x] [Concatenated Words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConcatenatedWords.java)  
@@ -513,7 +516,8 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimum Difficulty of a Job Schedule - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDifficultOfJobSchedule.java)
 - [x] [Maximum Profit in Job Scheduling - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumProfitInJobSchedule.java)
 
-- [x] [Minimum Cost Tree from Leaf Values - Leetcode]()
+- [x] [Minimum Cost Tree from Leaf Values - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinCostTreeFromLeafValues.java)
+
 ## Greedy
 - [x] [Two City Scheduling - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoCityScheduling.java)
 - [x] [Jump Game - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/JumpGame.java)
