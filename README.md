@@ -381,6 +381,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Combination Sum with elements allowed to be reused - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CombinationSum.java)
 - [x] [Combination Sum with no reuse of elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CombinationSumII.java)
 - [x] [Android Unlock Patterns - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AndroidUnlockPattern.java)
+- [x] [Count Sorted Vowel Strings - Leetcode]()
 - [x] [All Paths from Source to Target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AllPathsInDAG.java)
 - [x] [Generalized Abbreviation - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GeneralizedAbbreviation.java)
 - [x] [Letter Combination of a Phone Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LetterCombinationsOfPhoneNumber.java)
@@ -508,7 +509,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Count number of Palindromic Substrings - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountPalindromicSubstrings.java)
 - [x] [Minimum number of deletions to make a palindrome](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/MinimumNumberOfDeletionsToMakePalindrome.java)
 - [x] [Palindromic Partition - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PalindromicPartition.java)
-- [x] [Minimum Cuts needed for Palindromic Partition - Leetcode]()
+- [x] [Minimum Cuts needed for Palindromic Partition - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PalindromicPartitionII.java)
 
 ### Longest Common Substring
 
