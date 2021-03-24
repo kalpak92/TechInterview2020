@@ -502,12 +502,15 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Buy and Sell StockIII : Only Two Transactions Allowed - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BuyAndSellStockIII.java)
 - [x] [Buy and Sell StockIV : K Transactions Allowed - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BuyAndSellStockIV.java)
 
-### Longest Palindromic Subsequence
+### Palindromic Subsequence
 - [x] [Longest Palindromic Subsequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestPalindromicSubsequence.java)
 - [x] [Longest Palindromic Substring - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestPalindromicSubstring.java)
 - [x] [Count number of Palindromic Substrings - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountPalindromicSubstrings.java)
 - [x] [Minimum number of deletions to make a palindrome](https://github.com/kalpak92/TechInterview2020/blob/master/src/DynamicProgramming/MinimumNumberOfDeletionsToMakePalindrome.java)
-- [x] [Palindromic Partition - Leetcode]()
+- [x] [Palindromic Partition - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PalindromicPartition.java)
+- [x] [Minimum Cuts needed for Palindromic Partition - Leetcode]()
+
+### Longest Common Substring
 
 ### Substring problems
 - [x] [Word Break - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordBreak.java)
