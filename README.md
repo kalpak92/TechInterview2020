@@ -505,7 +505,8 @@ This repository contains the solutions to problems done from various resources f
 ### Longest Palindromic Subsequence
 - [x] [Longest Palindromic Subsequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestPalindromicSubsequence.java)
 - [x] [Longest Palindromic Substring - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestPalindromicSubstring.java)
-- [x] [Count number of Palindromic Substrings - Leetcode]()
+- [x] [Count number of Palindromic Substrings - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountPalindromicSubstrings.java)
+- [x] [Minimum number of deletions to make a palindrome]()
 
 ### Substring problems
 - [x] [Word Break - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordBreak.java)
