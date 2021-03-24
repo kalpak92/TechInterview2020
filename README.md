@@ -381,7 +381,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Combination Sum with elements allowed to be reused - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CombinationSum.java)
 - [x] [Combination Sum with no reuse of elements - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CombinationSumII.java)
 - [x] [Android Unlock Patterns - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AndroidUnlockPattern.java)
-- [x] [Count Sorted Vowel Strings - Leetcode]()
+- [x] [Count Sorted Vowel Strings - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountSortedVowelStrings.java)
 - [x] [All Paths from Source to Target - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/AllPathsInDAG.java)
 - [x] [Generalized Abbreviation - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GeneralizedAbbreviation.java)
 - [x] [Letter Combination of a Phone Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LetterCombinationsOfPhoneNumber.java)
@@ -516,6 +516,7 @@ This repository contains the solutions to problems done from various resources f
 ### Substring problems
 - [x] [Word Break - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordBreak.java)
 - [x] [Concatenated Words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConcatenatedWords.java)  
+- [x] [Count Sorted Vowel Strings - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountSortedVowelStrings.java)
 - [x] [Edit Distance - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EditDistance.java)
 - [x] [Regular Expression Matching- Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RegularExpressionMatching.java)
 - [x] [Minimum Path Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumPathSum.java)
