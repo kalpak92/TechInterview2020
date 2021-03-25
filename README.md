@@ -514,6 +514,8 @@ This repository contains the solutions to problems done from various resources f
 
 ### Longest Common Substring
 
+- [x] [Maximum Length of Pair Chain - Leetcode]()
+
 ### Substring problems
 - [x] [Word Break - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordBreak.java)
 - [x] [Concatenated Words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConcatenatedWords.java)  
