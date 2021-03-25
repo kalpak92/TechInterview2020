@@ -530,9 +530,11 @@ This repository contains the solutions to problems done from various resources f
 ## Greedy
 - [x] [Two City Scheduling - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoCityScheduling.java)
 - [x] [Jump Game - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/JumpGame.java)
+- [x] [Jump Game II - Leetcode]()
 - [x] [Minimum Deletions to make character frequencies unique - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDeletionsToMakeUniqueCharacterFrequency.java)
 - [x] [Minimum Deletion Cost to Avoid Repeating Letters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDeletionCostToAvoidRepeatingLetters.java)
-- [x] [Video Stitching - Leetcode]()
+- [x] [Video Stitching - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/VideoStitching.java)
+
 
 ## Math
 - [x] [Robot Bounded in a Circle - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RobotBoundedInCircle.java)
