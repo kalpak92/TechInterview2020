@@ -523,7 +523,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Edit Distance - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EditDistance.java)
 - [x] [Regular Expression Matching- Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RegularExpressionMatching.java)
 - [x] [Minimum Path Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumPathSum.java)
-- [x] [Minimum Falling Path Sum - Leetcode]()
+- [x] [Minimum Falling Path Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumFallingPathSum.java)
 - [x] [Maximal Square - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximalSquare.java)
 - [x] [Count Square Submatrices with all Ones - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountSquareSubMatricesWithAllOnes.java)
 - [x] [Burst Balloons - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BurstBalloons.java)
