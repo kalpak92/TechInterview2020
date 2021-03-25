@@ -488,7 +488,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Coin Change : Number of ways to make an Amount - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfWaysToGetAmount.java)
 - [x] [Coin Change : Minimum number of coins to make an Amount - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumNumberOfCoinsToMakeAmount.java)  
 - [x] [Minimum number of ways to make a number with perfect squares - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PerfectSquares.java)
-- [x] [Number of Dice rolls with Target Sum - Leetcode]()
+- [x] [Number of Dice rolls with Target Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfDiceRollsWithTargetSum.java)
 
 ### Fibonacci Sequence
 - [x] [Fibonacci Numbers - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FibonacciNumber.java)
@@ -518,6 +518,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Word Break - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordBreak.java)
 - [x] [Concatenated Words - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConcatenatedWords.java)  
 - [x] [Count Sorted Vowel Strings - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountSortedVowelStrings.java)
+- [x] [Partition Array for Maximum sum - Leetcode]()  
 - [x] [Edit Distance - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EditDistance.java)
 - [x] [Regular Expression Matching- Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RegularExpressionMatching.java)
 - [x] [Minimum Path Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumPathSum.java)
