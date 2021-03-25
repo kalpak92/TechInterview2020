@@ -488,6 +488,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Coin Change : Number of ways to make an Amount - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NumberOfWaysToGetAmount.java)
 - [x] [Coin Change : Minimum number of coins to make an Amount - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumNumberOfCoinsToMakeAmount.java)  
 - [x] [Minimum number of ways to make a number with perfect squares - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PerfectSquares.java)
+- [x] [Number of Dice rolls with Target Sum - Leetcode]()
 
 ### Fibonacci Sequence
 - [x] [Fibonacci Numbers - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FibonacciNumber.java)
@@ -524,13 +525,12 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Burst Balloons - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BurstBalloons.java)
 - [x] [Minimum Difficulty of a Job Schedule - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDifficultOfJobSchedule.java)
 - [x] [Maximum Profit in Job Scheduling - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumProfitInJobSchedule.java)
-
 - [x] [Minimum Cost Tree from Leaf Values - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinCostTreeFromLeafValues.java)
 
 ## Greedy
 - [x] [Two City Scheduling - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TwoCityScheduling.java)
 - [x] [Jump Game - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/JumpGame.java)
-- [x] [Jump Game II - Leetcode]()
+- [x] [Jump Game II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/JumpGameII.java)
 - [x] [Minimum Deletions to make character frequencies unique - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDeletionsToMakeUniqueCharacterFrequency.java)
 - [x] [Minimum Deletion Cost to Avoid Repeating Letters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDeletionCostToAvoidRepeatingLetters.java)
 - [x] [Video Stitching - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/VideoStitching.java)
