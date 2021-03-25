@@ -38,6 +38,21 @@ public class MaximumLengthOfPairChain {
         return dp[pairs.length - 1];
     }
 
+    public static int findLongestChainGreedy(int[][] pairs) {
+        Arrays.sort(pairs, (a, b) -> a[1] - b[1]);
+
+        int result = 0;
+        int current = Integer.MIN_VALUE;
+
+        for(int[] pair : pairs) {
+            if(pair[0] > current) {
+                current = pair[1];
+                result++;
+            }
+        }
+        return result;
+    }
+
     public static void main(String[] args) {
         int[][] pairs = new int[][]{{1,2}, {2,3}, {3,4}};
         System.out.println("The length of the longest pair chain is : " + findLongestChain(pairs));
