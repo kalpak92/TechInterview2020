@@ -539,7 +539,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimum Deletions to make character frequencies unique - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDeletionsToMakeUniqueCharacterFrequency.java)
 - [x] [Minimum Deletion Cost to Avoid Repeating Letters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDeletionCostToAvoidRepeatingLetters.java)
 - [x] [Video Stitching - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/VideoStitching.java)
-
+- [x] [Sell Diminishing values coloured balls - Leetcode]()
 
 ## Math
 - [x] [Robot Bounded in a Circle - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RobotBoundedInCircle.java)
