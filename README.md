@@ -534,6 +534,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimum Cost Tree from Leaf Values - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinCostTreeFromLeafValues.java)
 - [x] [Out of Boundary Paths - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/OutOfBoundaryPaths.java)
 - [x] [Knight Probability in Chess Board - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KnightProbabilityInChessBoard.java)
+- [x] [Range Sum Query 2D - Immutable - Leetcode]()
 
 ## Greedy
 - [x] [Maximum units on a Truck - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumUnitsOnATruck.java)
