@@ -533,7 +533,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Maximum Profit in Job Scheduling - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumProfitInJobSchedule.java)
 - [x] [Minimum Cost Tree from Leaf Values - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinCostTreeFromLeafValues.java)
 - [x] [Out of Boundary Paths - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/OutOfBoundaryPaths.java)
-
+- [x] [Knight Probability in Chess Board - Leetcode]()
 
 ## Greedy
 - [x] [Maximum units on a Truck - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumUnitsOnATruck.java)
