@@ -246,6 +246,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Design Twitter - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DesignTwitter.java)
 - [x] [Minimum Number of Refueling Stops - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumNumberOfRefuelingStops.java)
 - [x] [Find K closest elements to a number in a Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KClosestElementsToXInSortedArray.java)
+- [x] [Maximum Performance of a Team - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumPerformanceOfTeam.java)
 
 
 ### Two Heaps
@@ -547,7 +548,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimum Deletion Cost to Avoid Repeating Letters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDeletionCostToAvoidRepeatingLetters.java)
 - [x] [Video Stitching - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/VideoStitching.java)
 - [x] [Sell Diminishing values coloured balls - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SellDiminishingValuedColouredBalls.java)
-- [x] [Maximum Performance of a Team - Leetcode]()
+- [x] [Maximum Performance of a Team - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumPerformanceOfTeam.java)
 
 ## Math
 - [x] [Robot Bounded in a Circle - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RobotBoundedInCircle.java)
