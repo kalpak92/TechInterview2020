@@ -545,7 +545,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Jump Game - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/JumpGame.java)
 - [x] [Jump Game II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/JumpGameII.java)
 - [x] [Minimum Deletions to make character frequencies unique - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDeletionsToMakeUniqueCharacterFrequency.java)
-- [x] [Remove K Digits such that new number is smallest possible - Leetcode]()
+- [x] [Remove K Digits such that new number is smallest possible - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveKDigitsToGetSmallestNumber.java)
 - [x] [Minimum Deletion Cost to Avoid Repeating Letters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumDeletionCostToAvoidRepeatingLetters.java)
 - [x] [Video Stitching - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/VideoStitching.java)
 - [x] [Sell Diminishing values coloured balls - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SellDiminishingValuedColouredBalls.java)
