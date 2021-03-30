@@ -20,7 +20,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Product of Array except Self - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ProductOfArrayExceptSelf.java)
 - [x] [Next Permutation - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NextPermutation.java)
 - [x] [Set Matrix Zeros - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SetMatrixZeros.java)
-- [x] [Game of Life - Leetcode]()
+- [x] [Game of Life - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/GameOfLife.java)
 
 ### Prefix Sum
 
