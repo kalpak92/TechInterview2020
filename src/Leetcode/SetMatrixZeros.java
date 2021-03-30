@@ -39,7 +39,7 @@ import java.util.Set;
 public class SetMatrixZeros {
     // Time Complexity: O(MxN)
     // Space Complexity: O(M+N)
-    public void setZeroes(int[][] matrix) {
+    public static void setZeroes(int[][] matrix) {
         Set<Integer> rows = new HashSet<>();
         Set<Integer> cols = new HashSet<>();
 
@@ -63,7 +63,7 @@ public class SetMatrixZeros {
 
     // Time Complexity: O(MxN)
     // Space Complexity: O(1)
-    public void setZeroesSpaceOptimized(int[][] matrix) {
+    public static void setZeroesSpaceOptimized(int[][] matrix) {
         boolean flag = false;
 
         for(int i = 0; i < matrix.length; i++) {
