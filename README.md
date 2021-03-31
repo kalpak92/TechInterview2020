@@ -516,7 +516,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimum Cuts needed for Palindromic Partition - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PalindromicPartitionII.java)
 
 ### Longest Common Substring
-- [x] [Longest Arithmetic Subsequence - Leetcode]()
+- [x] [Longest Arithmetic Subsequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestArithmeticSubsequence.java)
 - [x] [Maximum Length of Pair Chain - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumLengthOfPairChain.java)
 
 ### Substring problems
