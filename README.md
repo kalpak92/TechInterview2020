@@ -4,7 +4,7 @@ This repository contains the solutions to problems done from various resources f
 
 ## Array
 - [x] [Majority Element - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MajorityElement.java)
-- [x] [Find Numbers with Even number of digits - Leetcode]()  
+- [x] [Find Numbers with Even number of digits - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FindNumbersWithEvenNumberOfDigits.java)  
 - [x] [Celebrity Problem - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CelebrityFinder.java)
 - [x] [Find Missing Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MissingNumber.java)
 - [x] [First Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstMissingPositive.java)
