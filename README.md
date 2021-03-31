@@ -4,6 +4,7 @@ This repository contains the solutions to problems done from various resources f
 
 ## Array
 - [x] [Majority Element - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MajorityElement.java)
+- [x] [Find Numbers with Even number of digits - Leetcode]()  
 - [x] [Celebrity Problem - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CelebrityFinder.java)
 - [x] [Find Missing Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MissingNumber.java)
 - [x] [First Missing Positive Number - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FirstMissingPositive.java)
@@ -262,7 +263,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimum number of steps to make two strings anagram - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumStepsToMakeTwoStringAnagram.java)
 - [x] [Invalid Transactions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InvalidTransactions.java)
 - [x] [Count and Say Sequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountAndSay.java)
-- [x] [String Compression - Leetcode]()
+- [x] [String Compression - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/StringCompression.java)
 - [x] [Text Justification - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TextJustification.java)
 - [x] [Maximum Length of a Concatenated String with Unique Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumLengthOfConcatenatedStringWithUniqueCharacters.java)
 
