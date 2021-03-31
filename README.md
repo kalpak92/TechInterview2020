@@ -262,6 +262,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Minimum number of steps to make two strings anagram - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinimumStepsToMakeTwoStringAnagram.java)
 - [x] [Invalid Transactions - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InvalidTransactions.java)
 - [x] [Count and Say Sequence - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountAndSay.java)
+- [x] [String Compression - Leetcode]()
 - [x] [Text Justification - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TextJustification.java)
 - [x] [Maximum Length of a Concatenated String with Unique Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumLengthOfConcatenatedStringWithUniqueCharacters.java)
 
@@ -310,7 +311,6 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Reverse a Stack without extra memory](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/ReverseStack.java)
 - [x] [Kth Symbol in Grammar - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/KthSymbolInGrammar.java)
 - [x] [Maximum Length of a Concatenated String with Unique Characters - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumLengthOfConcatenatedStringWithUniqueCharacters.java)
-
 
 ## Trees
 
@@ -467,7 +467,6 @@ This repository contains the solutions to problems done from various resources f
 ### Minimum Spanning Tree
 - [x] [Minimum cost to Connect All points - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinCostToConnectAllPoints.java)
 - [x] [Connecting Cities with Minimum Cost - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConnectingCitiesWithMinimumCost.java)
-
 
 ## Disjoint Sets
 - [x] [Union Find Algorithm with Path Compression](https://github.com/kalpak92/TechInterview2020/blob/master/src/Graph/UnionFind.java)
