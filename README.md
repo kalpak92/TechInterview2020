@@ -555,7 +555,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Sell Diminishing values coloured balls - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SellDiminishingValuedColouredBalls.java)
 - [x] [Maximum Performance of a Team - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumPerformanceOfTeam.java)
 - [x] [Divide Array in Sets of K Consecutive Numbers - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestArithmeticSubsequence.java)
-- [x] [Hand of Straights - Leetcode]()
+- [x] [Hand of Straights - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/HandOfStraight.java)
 
 ## Math
 - [x] [Robot Bounded in a Circle - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RobotBoundedInCircle.java)
