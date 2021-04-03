@@ -343,7 +343,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Diameter of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DiameterOfATree.java)
 - [x] [Longest Univalue Path - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LongestUnivaluePath.java)
 - [x] [Boundary of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/BoundaryOfBinaryTree.java)
-- [x] [Find leaves of Binary Tree - Group leaves of same level together - Leetcode]()
+- [x] [Find leaves of Binary Tree - Group leaves of same level together - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FindLeavesOfBinaryTree.java)
 - [x] [Binary Tree Inorder Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/InorderTraversalBinaryTree.java)
 - [x] [Construct Binary Tree from Preorder and Inorder Traversal - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConstructBinaryTreeFromPreorderInorderTraversal.java)
 - [x] [Vertical Order Traversal of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/VerticalOrderTraversalBinaryTree.java)
