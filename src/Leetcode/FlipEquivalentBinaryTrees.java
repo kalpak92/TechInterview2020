@@ -91,4 +91,13 @@ public class FlipEquivalentBinaryTrees {
         else
             return false;
     }
+
+    public boolean flipEquivRecursive(TreeNode root1, TreeNode root2) {
+        if (root1 == null) return root2 == null;
+        if (root2 == null) return root1 == null;
+        if (root1.val != root2.val) return false;
+        return (flipEquivRecursive(root1.left, root2.left) && flipEquivRecursive(root1.right, root2.right)) || (
+                flipEquivRecursive(root1.left, root2.right) && flipEquivRecursive(root1.right, root2.left)
+        );
+    }
 }

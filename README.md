@@ -328,7 +328,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Find Maximum in each level of a binary tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumInEachRowOfBinaryTree.java)
 - [x] [Maximum width of a Binary Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximumWidthBinaryTree.java)
 - [x] [Even Odd Tree - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/EvenOddTree.java)
-- [x] [Flip Equivalent Binary Trees - Leetcode]()
+- [x] [Flip Equivalent Binary Trees - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/FlipEquivalentBinaryTrees.java)
 - [x] [Time taken to inform all employees in a company - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TimeToInformAllEmployees.java)
 
 ### DFS on Trees
