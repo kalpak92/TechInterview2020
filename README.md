@@ -170,6 +170,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Sum of Subarray Minimums - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SumSubarrayMinimums.java)
 - [x] [Largest Rectangle in Histogram - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/LargestRectangleInHistogram.java)
 - [x] [Maximum Rectangle in a Binary Matrix - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaximalRectangleBinaryMatrix.java)
+- [x] [Maximum Width Ramp - Leetcode]()
 - [x] [Trapping Rain Water - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TrappingRainWater.java)
 - [x] [Min Stack in O(1) space - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinStack.java)
 - [x] [Incremental Stack - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/IncrementalStack.java)
