@@ -303,7 +303,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Design Tic-Tac-Toe - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/TicTacToe.java)
 - [x] [Design Snake Game - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SnakeGame.java)
 - [x] [Design a Add and Search words Data Structure - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DesignAddSearchWordsDictionary.java)
-- [x] [Design a Peeking Iterator - Leetcode]()
+- [x] [Design a Peeking Iterator - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/PeekingIterator.java)
 
 ## Recursion
 - [x] [Print Natural Numbers upto N](https://github.com/kalpak92/TechInterview2020/blob/master/src/Recursion/Print1toNUsingRecursion.java)
