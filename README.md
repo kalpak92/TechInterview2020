@@ -15,6 +15,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Remove duplicates from Sorted Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RemoveDuplicatesFromSortedArray.java)
 - [x] [SnapShot Array - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SnapShotArray.java)
 - [x] [Sparse Matrix Multiplication - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SparseMatrixMultiplication.java)
+- [x] [Diagonal Traverse - Leetcode]()
 - [x] [Diagonal Traverse II - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/DiagonalTraverseII.java)
 - [x] [Count Unhappy Friends - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CountUnhappyFriends.java)
 - [x] [Maximum Area of a piece of cake after Horizontal and Vertical Cuts - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MaxAreaOfPieceOfCake.java)  
