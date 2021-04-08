@@ -469,7 +469,7 @@ This repository contains the solutions to problems done from various resources f
 
 ### Djikstra's Algorithm
 - [x] [Cheapest Flights within K stops - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CheapestFlightsWithinKStops.java)
-- [x] [Network Delay Time - Leetcode]()
+- [x] [Network Delay Time - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/NetworkDelayTime.java)
 
 ### Minimum Spanning Tree
 - [x] [Minimum cost to Connect All points - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinCostToConnectAllPoints.java)
