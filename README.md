@@ -564,3 +564,4 @@ This repository contains the solutions to problems done from various resources f
 
 ## Math
 - [x] [Robot Bounded in a Circle - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RobotBoundedInCircle.java)
+- [x] [Consecutive Numbers Sum - Leetcode]()
