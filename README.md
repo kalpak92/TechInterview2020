@@ -438,6 +438,7 @@ This repository contains the solutions to problems done from various resources f
 - [x] [Word Ladder - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordLadder.java)
 - [x] [Word Ladder II : Generate all possible transformation sequences - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/WordLadderII.java)
 - [x] [Snakes and Ladders - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/SnakesAndLadders.java)
+- [x] [Shortest path in a Binary Matrix - Leetcode]()  
 - [x] [Shortest Path in a grid with Obstacle Elimination - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ShortestPathInGridWithObstacleElimination.java)
 
 ### Bipartite Graph
