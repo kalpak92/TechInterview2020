@@ -469,6 +469,7 @@ This repository contains the solutions to problems done from various resources f
 
 ### Djikstra's Algorithm
 - [x] [Cheapest Flights within K stops - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/CheapestFlightsWithinKStops.java)
+- [x] [Network Delay Time - Leetcode]()
 
 ### Minimum Spanning Tree
 - [x] [Minimum cost to Connect All points - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/MinCostToConnectAllPoints.java)
@@ -564,4 +565,4 @@ This repository contains the solutions to problems done from various resources f
 
 ## Math
 - [x] [Robot Bounded in a Circle - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/RobotBoundedInCircle.java)
-- [x] [Consecutive Numbers Sum - Leetcode]()
+- [x] [Consecutive Numbers Sum - Leetcode](https://github.com/kalpak92/TechInterview2020/blob/master/src/Leetcode/ConsecutiveNumbersSum.java)
